@@ -1,0 +1,140 @@
+{
+  "scholarship": {
+    "basic_info": {
+      "title": "Erasmus Mundus DAFM Scholarship 2025/27 (Fully Funded)",
+      "post_date": "December 15, 2024",
+      "author": "Muhammad Saim Rasheed",
+      "funding_type": "Fully Funded",
+      "host_countries": [
+        "Hungary",
+        "Austria",
+        "Czech Republic",
+        "Slovakia",
+        "Romania",
+        "Serbia",
+        "Croatia"
+      ],
+      "program_name": "Danube AgriFood Master (DAFM)",
+      "funded_by": "European Union",
+      "degree_levels": [
+        "Master"
+      ],
+      "duration": "2 Years (4 Semesters)",
+      "scholarships_available": "20",
+      "deadline": "31st January 2025"
+    },
+    "program_details": {
+      "description": "The Applications are open to apply for the Erasmus Mundus DAFM Scholarship 2025/27. It is a 2 Year Master’s Degree Program in the European Universities Funded by the European Union. The DAFM Program stands for the Danube AgriFood Master (DAFM). This 2 year Master’s Degree program focuses on Sustainable Development in Agriculture, Food Production, and Food Technology in the Danube Region. There is no application fee and the Erasmus DAFM Scholarship is open to all Nationals. IELTS is also not required if the applicant provides English Language Proficiency from their Previous Institute. Applicants will complete this 2-year master’s degree program in Hungary, Austria, Czech Republic, Slovakia, Romania, Serbia, and Croatia. All the expenses are covered under the Erasmus Mundus Scholarship. More details are given below.",
+      "study_locations": [
+        "Hungary",
+        "Austria",
+        "Czech Republic",
+        "Slovakia",
+        "Romania",
+        "Serbia",
+        "Croatia"
+      ],
+      "participating_universities": [
+        "Hungarian University of Agriculture and Life Sciences (MATE), Hungary",
+        "Czech University of Life Sciences Prague (CZU), Czech Republic",
+        "University of Natural Resources and Life Sciences, Vienna (BOKU), Austria",
+        "University of Zagreb (UNIZG), Croatia",
+        "University of Life Sciences “King Michael I” from Timisoara (ULST), Romania",
+        "Slovak University of Agriculture in Nitra (SUA), Slovakia",
+        "University of Novi Sad (UNS), Serbia"
+      ],
+      "program_structure": {
+        "year_1": "Czech University of Life Sciences, Prague, (<span class=\"caps\">CZU</span>) or Hungarian University of Agriculture and Life Sciences, Gödöllő (<span class=\"caps\">MATE</span>).",
+        "year_2": "University of Natural Resources and Life Sciences, Vienna (<span class=\"caps\">BOKU</span>) or University of Zagreb, Faculty of Agriculture, Croatia (<span class=\"caps\">UNIZG</span>) or University of Novi Sad, Faculty of Agriculture, Serbia (<span class=\"caps\">UNS</span>) or University of Life Sciences “King Michael I” from Timisoara, Romania (<span class=\"caps\">ULST</span>) or Slovak University of Agriculture in Nitra, (<span class=\"caps\">SUA</span>)."
+      },
+      "subjects": [
+        "Agriculture",
+        "Food Science and Biotechnology",
+        "Environment and Bio-Resources Management",
+        "Landscape Architecture and Landscape Planning",
+        "Forestry"
+      ],
+      "language": "English"
+    },
+    "benefits": {
+      "financial_coverage": [
+        "Monthly Stipend",
+        "Participation fees covered",
+        "Tuition Fees",
+        "Travel costs",
+        "Accommodation costs",
+        "Visa Fees",
+        "Other living expenses"
+      ],
+      "additional_benefits": []
+    },
+    "eligibility": {
+      "nationality": {
+        "type": "all_inclusive",
+        "eligible_nationalities": [],
+        "excluded_nationalities": []
+      },
+      "academic": {
+        "minimum_degree_required": "Bachelors Degree",
+        "accepted_degrees": [
+          "Bachelor of Science degree in Agriculture, Food Science and Biotechnology, Environment and Bio-Resources Management, Landscape Architecture and Landscape Planning, Forestry or related relevant fields."
+        ],
+        "minimum_gpa": null,
+        "final_year_allowed": true,
+        "specific_backgrounds": [],
+        "academic_requirements": []
+      },
+      "language": {
+        "english": {
+          "required": true,
+          "minimum_score": {
+            "ielts": null,
+            "toefl": null,
+            "other": null
+          },
+          "waiver_conditions": [
+            "IELTS is also not required if the applicant provides English Language Proficiency from their Previous Institute."
+          ]
+        },
+        "other_languages": []
+      },
+      "experience": {
+        "required": false,
+        "minimum_years": null,
+        "type": [],
+        "specific_fields": []
+      },
+      "age": {
+        "minimum": null,
+        "maximum": null,
+        "exceptions": []
+      },
+      "other_criteria": {
+        "research_requirements": [],
+        "professional_requirements": [],
+        "specific_skills": [],
+        "additional_conditions": []
+      }
+    },
+    "application": {
+      "required_documents": [
+        "Transcripts",
+        "English Language Proficiency",
+        "Reference Letters",
+        "Motivation letter"
+      ],
+      "application_process": [
+        "The Application Process is online and the link to the official website is mentioned below."
+      ],
+      "application_link": "https://agrifoodmaster.eu/index.html"
+    },
+    "metadata": {
+      "shares_count": null,
+      "related_programs": [],
+      "source_url": "https://opportunitiescorners.com/erasmus-mundus-dafm-scholarship-2025-27-fully-funded/",
+      "categories": [
+        "Scholarships in Europe"
+      ]
+    }
+  }
+}
