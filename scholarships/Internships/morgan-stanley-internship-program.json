@@ -1,0 +1,451 @@
+{
+  "scholarship": {
+    "basic_info": {
+      "title": "Morgan Stanley Internship Program 2024",
+      "post_date": "March 12, 2024",
+      "author": "Opportunities Corners",
+      "academic_year": "2024",
+      "funding_type": {
+        "type": "Paid Internship",
+        "details": "Competitive salary and housing stipend",
+        "coverage_options": []
+      },
+      "host_countries": [],
+      "program_name": "Morgan Stanley Internship Program",
+      "funded_by": {
+        "primary": "Morgan Stanley",
+        "additional": []
+      },
+      "degree_levels": [
+        "Associate Degree/College Diploma",
+        "Bachelors Degree",
+        "Masters Degree",
+        "Doctorate Degree",
+        "MBA"
+      ],
+      "duration": {
+        "undergraduate": {
+          "years": "",
+          "semesters": "",
+          "details": ""
+        },
+        "masters": {
+          "years": "",
+          "semesters": "",
+          "details": ""
+        },
+        "phd": {
+          "years": "",
+          "semesters": "",
+          "details": ""
+        },
+        "general_info": "6 to 12 Months"
+      },
+      "application_timeline": {
+        "opening_date": "",
+        "closing_date": "",
+        "decision_date": "",
+        "program_start_date": "",
+        "orientation_date": ""
+      },
+      "scholarships_available": {
+        "total": "",
+        "per_program": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": ""
+        },
+        "per_country": "",
+        "restrictions": []
+      }
+    },
+    "program_details": {
+      "description": "Off Cycle Internships are available throughout the year.",
+      "study_locations": [
+        "Americas",
+        "Europe, the Middle East, Africa",
+        "Japan",
+        "Non-Japan Asia"
+      ],
+      "participating_universities": [],
+      "fields_of_study": {
+        "subjects": [
+          "Investment Banking",
+          "Asset Management",
+          "Sales and Trading",
+          "Risk Management",
+          "Technology",
+          "Compliance",
+          "Finance",
+          "Investment Management",
+          "Fixed Income",
+          "Research",
+          "Public Finance",
+          "Institutional Equities",
+          "Wealth Management",
+          "Human Resources",
+          "Business Administration",
+          "Risk",
+          "Operations and Logistics",
+          "Internal Audit"
+        ],
+        "specializations": [],
+        "research_areas": [],
+        "restrictions": []
+      },
+      "program_structure": {
+        "academic_schedule": {
+          "semester_structure": "",
+          "academic_calendar": "",
+          "holidays": [],
+          "important_dates": []
+        },
+        "teaching_method": {
+          "format": [],
+          "language_of_instruction": "",
+          "online_components": false,
+          "attendance_requirements": ""
+        },
+        "curriculum": {
+          "core_courses": [],
+          "electives": [],
+          "research_requirements": [],
+          "thesis_requirements": "",
+          "internship_requirements": ""
+        },
+        "year_1": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        },
+        "year_2": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        },
+        "year_3": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        },
+        "year_4": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        }
+      },
+      "degree_awarded": {
+        "type": "",
+        "awarding_institution": "",
+        "recognition": [],
+        "accreditation": []
+      }
+    },
+    "benefits": {
+      "financial_coverage": {
+        "tuition": {
+          "coverage_type": "",
+          "details": "",
+          "conditions": [],
+          "amount": {
+            "value": "",
+            "currency": "",
+            "frequency": ""
+          }
+        },
+        "monthly_allowance": {
+          "undergraduate": {
+            "amount": "",
+            "currency": "",
+            "details": ""
+          },
+          "masters": {
+            "amount": "",
+            "currency": "",
+            "details": ""
+          },
+          "phd": {
+            "amount": "",
+            "currency": "",
+            "details": ""
+          },
+          "payment_schedule": "",
+          "conditions": []
+        },
+        "research_support": {
+          "amount": "",
+          "coverage": [],
+          "conditions": []
+        },
+        "travel": {
+          "airfare_covered": false,
+          "details": "",
+          "conditions": [],
+          "frequency": "",
+          "class": ""
+        },
+        "other_allowances": [],
+        "additional_support": []
+      },
+      "pre_departure": {
+        "language_training": {
+          "available": false,
+          "duration": "",
+          "provider": "",
+          "cost_coverage": ""
+        },
+        "cultural_orientation": {
+          "available": false,
+          "duration": "",
+          "content": []
+        },
+        "visa_assistance": {
+          "provided": false,
+          "services": [],
+          "cost_coverage": ""
+        },
+        "travel_arrangements": {
+          "provided": false,
+          "services": [],
+          "conditions": []
+        }
+      },
+      "during_program": {
+        "accommodation": {
+          "provided": false,
+          "type": "",
+          "location": "",
+          "conditions": []
+        },
+        "academic_support": {
+          "tutoring": false,
+          "mentoring": false,
+          "research_supervision": false,
+          "language_support": false,
+          "details": []
+        },
+        "healthcare": {
+          "coverage_type": "Health insurance",
+          "insurance_provider": "",
+          "coverage_details": [],
+          "restrictions": []
+        },
+        "facilities_access": {
+          "library": false,
+          "labs": false,
+          "sports": false,
+          "others": []
+        },
+        "student_services": []
+      },
+      "post_program": {
+        "alumni_network": {
+          "available": false,
+          "benefits": []
+        },
+        "career_services": {
+          "available": false,
+          "services": []
+        },
+        "further_opportunities": []
+      }
+    },
+    "eligibility": {
+      "nationality": {
+        "type": "",
+        "eligible_nationalities": [],
+        "excluded_nationalities": [],
+        "conditions": [],
+        "dual_citizenship_policy": ""
+      },
+      "academic": {
+        "minimum_degree_required": "",
+        "accepted_degrees": [
+          "Associate Degree/College Diploma",
+          "Bachelors Degree",
+          "Masters Degree",
+          "Doctorate Degree",
+          "MBA"
+        ],
+        "minimum_gpa": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": "",
+          "scale": ""
+        },
+        "final_year_allowed": false,
+        "specific_backgrounds": [],
+        "academic_requirements": [],
+        "required_courses": [],
+        "prerequisites": []
+      },
+      "language": {
+        "english": {
+          "required": false,
+          "minimum_score": {
+            "ielts": "",
+            "toefl": "",
+            "other": []
+          },
+          "waiver_conditions": [],
+          "test_validity_period": ""
+        },
+        "other_languages": [
+          {
+            "language": "",
+            "required": false,
+            "minimum_level": "",
+            "details": "",
+            "waiver_conditions": [],
+            "test_requirements": []
+          }
+        ]
+      },
+      "experience": {
+        "required": false,
+        "minimum_years": "",
+        "type": [],
+        "specific_fields": [],
+        "details": "",
+        "proof_required": []
+      },
+      "age": {
+        "minimum": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": ""
+        },
+        "maximum": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": ""
+        },
+        "exceptions": [],
+        "calculation_date": ""
+      },
+      "research_requirements": {
+        "proposal_required": false,
+        "proposal_guidelines": "",
+        "research_areas": [],
+        "supervisor_requirement": false,
+        "prior_publications": false
+      },
+      "health_requirements": {
+        "medical_certificate": false,
+        "vaccinations": [],
+        "health_insurance": false,
+        "specific_conditions": []
+      },
+      "return_obligations": {
+        "required": false,
+        "details": "",
+        "bond_period": "",
+        "conditions": []
+      },
+      "special_conditions": {
+        "employment_status": [],
+        "institutional_nominations": false,
+        "quotas": {
+          "gender": false,
+          "region": false,
+          "field_of_study": false,
+          "details": []
+        },
+        "other_restrictions": []
+      }
+    },
+    "application": {
+      "submission_method": {
+        "online": true,
+        "paper": false,
+        "platform": "Morgan Stanley Website",
+        "instructions": "Visit the Opportunities for Students and Graduates."
+      },
+      "required_documents": {
+        "general": [],
+        "program_specific": {
+          "undergraduate": [],
+          "masters": [],
+          "phd": []
+        },
+        "special_requirements": []
+      },
+      "document_requirements": {
+        "authentication": [],
+        "translation": {
+          "required": false,
+          "accepted_languages": [],
+          "certified_translation": false,
+          "exceptions": []
+        },
+        "format": {
+          "file_types": [],
+          "size_limits": "",
+          "naming_convention": "",
+          "special_instructions": []
+        }
+      },
+      "selection_process": {
+        "stages": [],
+        "timeline": "",
+        "interview": {
+          "required": false,
+          "format": "",
+          "duration": "",
+          "components": [],
+          "preparation_guidelines": []
+        },
+        "evaluation_criteria": [],
+        "notification_process": ""
+      },
+      "application_process": [],
+      "application_link": "https://www.morganstanley.com/people-opportunities/students-graduates",
+      "additional_instructions": []
+    },
+    "metadata": {
+      "scholarship_id": "",
+      "last_updated": "",
+      "shares_count": "",
+      "related_programs": [],
+      "source_url": "https://opportunitiescorners.com/morgan-stanley-internship-program/",
+      "categories": [
+        "Internships"
+      ],
+      "scholarship_history": {
+        "established_year": "",
+        "previous_statistics": {
+          "total_awards": "1700 Interns in 2022",
+          "success_rate": "",
+          "demographic_data": []
+        },
+        "alumni_outcomes": []
+      },
+      "contact_information": {
+        "primary_contact": {
+          "department": "",
+          "email": "",
+          "phone": "",
+          "website": "https://www.morganstanley.com",
+          "office_hours": ""
+        },
+        "regional_offices": [],
+        "social_media": {
+          "facebook": "https://www.facebook.com/opportunitiescorners/",
+          "twitter": "https://twitter.com/corner_oc",
+          "linkedin": "https://www.linkedin.com/company/opcorner/",
+          "youtube": "https://www.youtube.com/c/opportunitiescorners/"
+        }
+      },
+      "resources": {
+        "faq_link": "",
+        "brochures": [],
+        "guidelines": [],
+        "forms": []
+      },
+      "tags": [],
+      "success_stories": [],
+      "reviews": [],
+      "additional_notes": []
+    }
+  }
+}

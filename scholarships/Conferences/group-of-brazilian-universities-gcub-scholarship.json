@@ -1,0 +1,455 @@
+{
+  "scholarship": {
+    "basic_info": {
+      "title": "Group of Brazilian Universities (GCUB) Scholarship 2025",
+      "post_date": "May 5, 2024",
+      "author": "Muhammad Saim Rasheed",
+      "academic_year": "2025",
+      "funding_type": {
+        "type": "Scholarship",
+        "details": "Exemption from paying enrollment fees, tuition, or academic fees. A Monthly Stipend to cover the living expenses.",
+        "coverage_options": []
+      },
+      "host_countries": [
+        "Brazil"
+      ],
+      "program_name": "Group of Brazilian Universities (GCUB – International Mobility Program)",
+      "funded_by": {
+        "primary": "Group of Brazilian Universities (GCUB)",
+        "additional": [
+          "OSC"
+        ]
+      },
+      "degree_levels": [
+        "Masters",
+        "PhD"
+      ],
+      "duration": {
+        "undergraduate": {
+          "years": "",
+          "semesters": "",
+          "details": ""
+        },
+        "masters": {
+          "years": "2",
+          "semesters": "",
+          "details": "up to 24 months"
+        },
+        "phd": {
+          "years": "4",
+          "semesters": "",
+          "details": "up to 48 months"
+        },
+        "general_info": ""
+      },
+      "application_timeline": {
+        "opening_date": "",
+        "closing_date": "17th June 2024",
+        "decision_date": "25th of September 2024",
+        "program_start_date": "2025",
+        "orientation_date": ""
+      },
+      "scholarships_available": {
+        "total": "800",
+        "per_program": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": ""
+        },
+        "per_country": "",
+        "restrictions": []
+      }
+    },
+    "program_details": {
+      "description": "The GCUB Brazil Scholarship is a program offered by the 55 Group of Brazilian Universities (GCUB). International students can apply for the Masters and PhD degree programs in any of the 55 Universities of Brazil.",
+      "study_locations": [
+        "Brazil"
+      ],
+      "participating_universities": [
+        "55 Brazilian Universities"
+      ],
+      "fields_of_study": {
+        "subjects": [],
+        "specializations": [],
+        "research_areas": [],
+        "restrictions": []
+      },
+      "program_structure": {
+        "academic_schedule": {
+          "semester_structure": "",
+          "academic_calendar": "",
+          "holidays": [],
+          "important_dates": []
+        },
+        "teaching_method": {
+          "format": [],
+          "language_of_instruction": "",
+          "online_components": false,
+          "attendance_requirements": ""
+        },
+        "curriculum": {
+          "core_courses": [],
+          "electives": [],
+          "research_requirements": [],
+          "thesis_requirements": "",
+          "internship_requirements": ""
+        },
+        "year_1": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        },
+        "year_2": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        },
+        "year_3": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        },
+        "year_4": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        }
+      },
+      "degree_awarded": {
+        "type": "",
+        "awarding_institution": "",
+        "recognition": [],
+        "accreditation": []
+      }
+    },
+    "benefits": {
+      "financial_coverage": {
+        "tuition": {
+          "coverage_type": "Exemption",
+          "details": "Exemption from paying enrollment fees, tuition, or academic fees.",
+          "conditions": [],
+          "amount": {
+            "value": "",
+            "currency": "",
+            "frequency": ""
+          }
+        },
+        "monthly_allowance": {
+          "undergraduate": {
+            "amount": "",
+            "currency": "",
+            "details": ""
+          },
+          "masters": {
+            "amount": "",
+            "currency": "",
+            "details": "Monthly Stipend to cover the living expenses"
+          },
+          "phd": {
+            "amount": "",
+            "currency": "",
+            "details": "Monthly Stipend to cover the living expenses"
+          },
+          "payment_schedule": "",
+          "conditions": []
+        },
+        "research_support": {
+          "amount": "",
+          "coverage": [],
+          "conditions": []
+        },
+        "travel": {
+          "airfare_covered": false,
+          "details": "",
+          "conditions": [],
+          "frequency": "",
+          "class": ""
+        },
+        "other_allowances": [],
+        "additional_support": []
+      },
+      "pre_departure": {
+        "language_training": {
+          "available": false,
+          "duration": "",
+          "provider": "",
+          "cost_coverage": ""
+        },
+        "cultural_orientation": {
+          "available": false,
+          "duration": "",
+          "content": []
+        },
+        "visa_assistance": {
+          "provided": false,
+          "services": [],
+          "cost_coverage": ""
+        },
+        "travel_arrangements": {
+          "provided": false,
+          "services": [],
+          "conditions": []
+        }
+      },
+      "during_program": {
+        "accommodation": {
+          "provided": false,
+          "type": "",
+          "location": "",
+          "conditions": []
+        },
+        "academic_support": {
+          "tutoring": false,
+          "mentoring": false,
+          "research_supervision": false,
+          "language_support": false,
+          "details": []
+        },
+        "healthcare": {
+          "coverage_type": "",
+          "insurance_provider": "",
+          "coverage_details": [],
+          "restrictions": []
+        },
+        "facilities_access": {
+          "library": false,
+          "labs": false,
+          "sports": false,
+          "others": []
+        },
+        "student_services": []
+      },
+      "post_program": {
+        "alumni_network": {
+          "available": false,
+          "benefits": []
+        },
+        "career_services": {
+          "available": false,
+          "services": []
+        },
+        "further_opportunities": []
+      }
+    },
+    "eligibility": {
+      "nationality": {
+        "type": "",
+        "eligible_nationalities": [],
+        "excluded_nationalities": [
+          "Brazilian Nationals"
+        ],
+        "conditions": [
+          "The scholarship is open to the citizens of a country that maintains a diplomatic relationship with Brazil."
+        ],
+        "dual_citizenship_policy": ""
+      },
+      "academic": {
+        "minimum_degree_required": "",
+        "accepted_degrees": [],
+        "minimum_gpa": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": "",
+          "scale": ""
+        },
+        "final_year_allowed": false,
+        "specific_backgrounds": [],
+        "academic_requirements": [],
+        "required_courses": [],
+        "prerequisites": []
+      },
+      "language": {
+        "english": {
+          "required": false,
+          "minimum_score": {
+            "ielts": "",
+            "toefl": "",
+            "other": []
+          },
+          "waiver_conditions": [],
+          "test_validity_period": ""
+        },
+        "other_languages": [
+          {
+            "language": "Portuguese",
+            "required": false,
+            "minimum_level": "",
+            "details": "",
+            "waiver_conditions": [],
+            "test_requirements": []
+          },
+          {
+            "language": "French",
+            "required": false,
+            "minimum_level": "",
+            "details": "",
+            "waiver_conditions": [],
+            "test_requirements": []
+          },
+          {
+            "language": "Spanish",
+            "required": false,
+            "minimum_level": "",
+            "details": "",
+            "waiver_conditions": [],
+            "test_requirements": []
+          }
+        ]
+      },
+      "experience": {
+        "required": false,
+        "minimum_years": "",
+        "type": [],
+        "specific_fields": [],
+        "details": "",
+        "proof_required": []
+      },
+      "age": {
+        "minimum": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": ""
+        },
+        "maximum": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": ""
+        },
+        "exceptions": [],
+        "calculation_date": ""
+      },
+      "research_requirements": {
+        "proposal_required": false,
+        "proposal_guidelines": "",
+        "research_areas": [],
+        "supervisor_requirement": false,
+        "prior_publications": false
+      },
+      "health_requirements": {
+        "medical_certificate": false,
+        "vaccinations": [],
+        "health_insurance": false,
+        "specific_conditions": []
+      },
+      "return_obligations": {
+        "required": false,
+        "details": "",
+        "bond_period": "",
+        "conditions": []
+      },
+      "special_conditions": {
+        "employment_status": [],
+        "institutional_nominations": false,
+        "quotas": {
+          "gender": false,
+          "region": false,
+          "field_of_study": false,
+          "details": []
+        },
+        "other_restrictions": []
+      }
+    },
+    "application": {
+      "submission_method": {
+        "online": true,
+        "paper": false,
+        "platform": "",
+        "instructions": ""
+      },
+      "required_documents": {
+        "general": [
+          "Copy of Passport or any other identity document",
+          "CV",
+          "Copy of all previous educational certificates, diplomas, transcripts, and degrees.",
+          "Essay"
+        ],
+        "program_specific": {
+          "undergraduate": [],
+          "masters": [],
+          "phd": []
+        },
+        "special_requirements": []
+      },
+      "document_requirements": {
+        "authentication": [],
+        "translation": {
+          "required": false,
+          "accepted_languages": [],
+          "certified_translation": false,
+          "exceptions": []
+        },
+        "format": {
+          "file_types": [],
+          "size_limits": "",
+          "naming_convention": "",
+          "special_instructions": [
+            "Essay Font: Times New Roman",
+            "Essay Size 12",
+            "Essay Line spacing of 1.5 cm and margins (top, bottom, right, and left) of 2.5 cm"
+          ]
+        }
+      },
+      "selection_process": {
+        "stages": [],
+        "timeline": "",
+        "interview": {
+          "required": false,
+          "format": "",
+          "duration": "",
+          "components": [],
+          "preparation_guidelines": []
+        },
+        "evaluation_criteria": [],
+        "notification_process": ""
+      },
+      "application_process": [],
+      "application_link": "https://www.gcub.org.br/programas/terceira-edicao-do-programa-gcub-de-mobilidade-internacional-gcub-mob-edital-gcub-mob-no-001-2024/",
+      "additional_instructions": []
+    },
+    "metadata": {
+      "scholarship_id": "",
+      "last_updated": "",
+      "shares_count": "",
+      "related_programs": [],
+      "source_url": "https://opportunitiescorners.com/group-of-brazilian-universities-gcub-scholarship/",
+      "categories": [
+        "Bachelor, Master, PhD Scholarships"
+      ],
+      "scholarship_history": {
+        "established_year": "",
+        "previous_statistics": {
+          "total_awards": "",
+          "success_rate": "",
+          "demographic_data": []
+        },
+        "alumni_outcomes": []
+      },
+      "contact_information": {
+        "primary_contact": {
+          "department": "",
+          "email": "",
+          "phone": "",
+          "website": "",
+          "office_hours": ""
+        },
+        "regional_offices": [],
+        "social_media": {
+          "facebook": "",
+          "twitter": "",
+          "linkedin": "",
+          "youtube": ""
+        }
+      },
+      "resources": {
+        "faq_link": "",
+        "brochures": [],
+        "guidelines": [],
+        "forms": []
+      },
+      "tags": [],
+      "success_stories": [],
+      "reviews": [],
+      "additional_notes": []
+    }
+  }
+}

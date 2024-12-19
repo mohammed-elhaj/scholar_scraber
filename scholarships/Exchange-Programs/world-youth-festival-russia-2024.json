@@ -1,0 +1,432 @@
+{
+  "scholarship": {
+    "basic_info": {
+      "title": "World Youth Festival Russia 2024",
+      "post_date": "October 28, 2023",
+      "author": "Opportunities Corners",
+      "academic_year": "",
+      "funding_type": {
+        "type": "Event",
+        "details": "Participation in the World Youth Festival",
+        "coverage_options": []
+      },
+      "host_countries": [
+        "Russia"
+      ],
+      "program_name": "World Youth Festival",
+      "funded_by": {
+        "primary": "",
+        "additional": []
+      },
+      "degree_levels": [],
+      "duration": {
+        "undergraduate": {
+          "years": "",
+          "semesters": "",
+          "details": ""
+        },
+        "masters": {
+          "years": "",
+          "semesters": "",
+          "details": ""
+        },
+        "phd": {
+          "years": "",
+          "semesters": "",
+          "details": ""
+        },
+        "general_info": "March 1-7, 2024"
+      },
+      "application_timeline": {
+        "opening_date": "",
+        "closing_date": "1st December 2023",
+        "decision_date": "",
+        "program_start_date": "March 1, 2024",
+        "orientation_date": ""
+      },
+      "scholarships_available": {
+        "total": "20,000",
+        "per_program": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": ""
+        },
+        "per_country": "",
+        "restrictions": []
+      }
+    },
+    "program_details": {
+      "description": "The World Youth Festival 2024 will bring 20,000 Participants from 180 countries. The Festival consists of three kinds of programs including educational programs, cultural programs, and sports programs.",
+      "study_locations": [
+        "Sirius Federal Territory in Sochi"
+      ],
+      "participating_universities": [],
+      "fields_of_study": {
+        "subjects": [
+          "Sports",
+          "Media",
+          "Social projects",
+          "Science",
+          "Business",
+          "Volunteering",
+          "International cooperation",
+          "Education",
+          "Culture",
+          "Children’s organizations"
+        ],
+        "specializations": [],
+        "research_areas": [],
+        "restrictions": []
+      },
+      "program_structure": {
+        "academic_schedule": {
+          "semester_structure": "",
+          "academic_calendar": "",
+          "holidays": [],
+          "important_dates": []
+        },
+        "teaching_method": {
+          "format": [],
+          "language_of_instruction": "",
+          "online_components": false,
+          "attendance_requirements": ""
+        },
+        "curriculum": {
+          "core_courses": [],
+          "electives": [],
+          "research_requirements": [],
+          "thesis_requirements": "",
+          "internship_requirements": ""
+        },
+        "year_1": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        },
+        "year_2": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        },
+        "year_3": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        },
+        "year_4": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        }
+      },
+      "degree_awarded": {
+        "type": "",
+        "awarding_institution": "",
+        "recognition": [],
+        "accreditation": []
+      }
+    },
+    "benefits": {
+      "financial_coverage": {
+        "tuition": {
+          "coverage_type": "",
+          "details": "",
+          "conditions": [],
+          "amount": {
+            "value": "",
+            "currency": "",
+            "frequency": ""
+          }
+        },
+        "monthly_allowance": {
+          "undergraduate": {
+            "amount": "",
+            "currency": "",
+            "details": ""
+          },
+          "masters": {
+            "amount": "",
+            "currency": "",
+            "details": ""
+          },
+          "phd": {
+            "amount": "",
+            "currency": "",
+            "details": ""
+          },
+          "payment_schedule": "",
+          "conditions": []
+        },
+        "research_support": {
+          "amount": "",
+          "coverage": [],
+          "conditions": []
+        },
+        "travel": {
+          "airfare_covered": false,
+          "details": "Logistics facility provided to international participants",
+          "conditions": [],
+          "frequency": "",
+          "class": ""
+        },
+        "other_allowances": [],
+        "additional_support": []
+      },
+      "pre_departure": {
+        "language_training": {
+          "available": false,
+          "duration": "",
+          "provider": "",
+          "cost_coverage": ""
+        },
+        "cultural_orientation": {
+          "available": false,
+          "duration": "",
+          "content": []
+        },
+        "visa_assistance": {
+          "provided": false,
+          "services": [],
+          "cost_coverage": "Exempted from paying state fees (Visa Fee)"
+        },
+        "travel_arrangements": {
+          "provided": false,
+          "services": [],
+          "conditions": []
+        }
+      },
+      "during_program": {
+        "accommodation": {
+          "provided": true,
+          "type": "",
+          "location": "",
+          "conditions": []
+        },
+        "academic_support": {
+          "tutoring": false,
+          "mentoring": false,
+          "research_supervision": false,
+          "language_support": false,
+          "details": []
+        },
+        "healthcare": {
+          "coverage_type": "",
+          "insurance_provider": "",
+          "coverage_details": [],
+          "restrictions": []
+        },
+        "facilities_access": {
+          "library": false,
+          "labs": false,
+          "sports": false,
+          "others": []
+        },
+        "student_services": []
+      },
+      "post_program": {
+        "alumni_network": {
+          "available": false,
+          "benefits": []
+        },
+        "career_services": {
+          "available": false,
+          "services": []
+        },
+        "further_opportunities": []
+      }
+    },
+    "eligibility": {
+      "nationality": {
+        "type": "",
+        "eligible_nationalities": [],
+        "excluded_nationalities": [],
+        "conditions": [],
+        "dual_citizenship_policy": ""
+      },
+      "academic": {
+        "minimum_degree_required": "",
+        "accepted_degrees": [],
+        "minimum_gpa": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": "",
+          "scale": ""
+        },
+        "final_year_allowed": false,
+        "specific_backgrounds": [],
+        "academic_requirements": [],
+        "required_courses": [],
+        "prerequisites": []
+      },
+      "language": {
+        "english": {
+          "required": false,
+          "minimum_score": {
+            "ielts": "",
+            "toefl": "",
+            "other": []
+          },
+          "waiver_conditions": [],
+          "test_validity_period": ""
+        },
+        "other_languages": [
+          {
+            "language": "",
+            "required": false,
+            "minimum_level": "",
+            "details": "",
+            "waiver_conditions": [],
+            "test_requirements": []
+          }
+        ]
+      },
+      "experience": {
+        "required": false,
+        "minimum_years": "",
+        "type": [],
+        "specific_fields": [],
+        "details": "",
+        "proof_required": []
+      },
+      "age": {
+        "minimum": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": ""
+        },
+        "maximum": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": ""
+        },
+        "exceptions": [],
+        "calculation_date": ""
+      },
+      "research_requirements": {
+        "proposal_required": false,
+        "proposal_guidelines": "",
+        "research_areas": [],
+        "supervisor_requirement": false,
+        "prior_publications": false
+      },
+      "health_requirements": {
+        "medical_certificate": false,
+        "vaccinations": [],
+        "health_insurance": false,
+        "specific_conditions": []
+      },
+      "return_obligations": {
+        "required": false,
+        "details": "",
+        "bond_period": "",
+        "conditions": []
+      },
+      "special_conditions": {
+        "employment_status": [],
+        "institutional_nominations": false,
+        "quotas": {
+          "gender": false,
+          "region": false,
+          "field_of_study": false,
+          "details": []
+        },
+        "other_restrictions": []
+      }
+    },
+    "application": {
+      "submission_method": {
+        "online": true,
+        "paper": false,
+        "platform": "official website of the World Youth Festival",
+        "instructions": "Register yourself first. Fill out the required information carefully. You will receive an email. Follow the instructions given in the email."
+      },
+      "required_documents": {
+        "general": [],
+        "program_specific": {
+          "undergraduate": [],
+          "masters": [],
+          "phd": []
+        },
+        "special_requirements": []
+      },
+      "document_requirements": {
+        "authentication": [],
+        "translation": {
+          "required": false,
+          "accepted_languages": [],
+          "certified_translation": false,
+          "exceptions": []
+        },
+        "format": {
+          "file_types": [],
+          "size_limits": "",
+          "naming_convention": "",
+          "special_instructions": []
+        }
+      },
+      "selection_process": {
+        "stages": [],
+        "timeline": "",
+        "interview": {
+          "required": false,
+          "format": "",
+          "duration": "",
+          "components": [],
+          "preparation_guidelines": []
+        },
+        "evaluation_criteria": [],
+        "notification_process": ""
+      },
+      "application_process": [],
+      "application_link": "https://fest2024.com/en",
+      "additional_instructions": []
+    },
+    "metadata": {
+      "scholarship_id": "",
+      "last_updated": "",
+      "shares_count": "",
+      "related_programs": [],
+      "source_url": "https://opportunitiescorners.com/world-youth-festival-russia-2024/",
+      "categories": [
+        "Exchange Programs"
+      ],
+      "scholarship_history": {
+        "established_year": "",
+        "previous_statistics": {
+          "total_awards": "",
+          "success_rate": "",
+          "demographic_data": []
+        },
+        "alumni_outcomes": []
+      },
+      "contact_information": {
+        "primary_contact": {
+          "department": "",
+          "email": "",
+          "phone": "",
+          "website": "https://fest2024.com/en",
+          "office_hours": ""
+        },
+        "regional_offices": [],
+        "social_media": {
+          "facebook": "https://www.facebook.com/opportunitiescorners/",
+          "twitter": "https://twitter.com/corner_oc",
+          "linkedin": "https://www.linkedin.com/company/opcorner/",
+          "youtube": "https://www.youtube.com/c/opportunitiescorners/"
+        }
+      },
+      "resources": {
+        "faq_link": "",
+        "brochures": [],
+        "guidelines": [],
+        "forms": []
+      },
+      "tags": [
+        "world-youth-festival-russia-2024"
+      ],
+      "success_stories": [],
+      "reviews": [],
+      "additional_notes": []
+    }
+  }
+}

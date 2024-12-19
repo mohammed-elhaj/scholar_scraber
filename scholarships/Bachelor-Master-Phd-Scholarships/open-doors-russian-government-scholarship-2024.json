@@ -1,0 +1,455 @@
+{
+  "scholarship": {
+    "basic_info": {
+      "title": "Open Doors Russian Government Scholarship 2025 (Study Free in Russia)",
+      "post_date": "September 10, 2024",
+      "author": "Muhammad Saim Rasheed",
+      "academic_year": "2025",
+      "funding_type": {
+        "type": "Full Scholarship",
+        "details": "Tuition fees and monthly stipend covered",
+        "coverage_options": []
+      },
+      "host_countries": [
+        "Russia"
+      ],
+      "program_name": "Open Doors Russian Government Scholarship",
+      "funded_by": {
+        "primary": "Ministry of Science and Higher Education",
+        "additional": []
+      },
+      "degree_levels": [
+        "Bachelor",
+        "Masters",
+        "PhD",
+        "Post Doctoral"
+      ],
+      "duration": {
+        "undergraduate": {
+          "years": "",
+          "semesters": "",
+          "details": ""
+        },
+        "masters": {
+          "years": "",
+          "semesters": "",
+          "details": ""
+        },
+        "phd": {
+          "years": "",
+          "semesters": "",
+          "details": ""
+        },
+        "general_info": ""
+      },
+      "application_timeline": {
+        "opening_date": "",
+        "closing_date": "November 20, 2024 (For BS, MS, and PhD), December 10, 2024 (For Post Doctoral)",
+        "decision_date": "",
+        "program_start_date": "March 2025",
+        "orientation_date": ""
+      },
+      "scholarships_available": {
+        "total": "",
+        "per_program": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": ""
+        },
+        "per_country": "",
+        "restrictions": []
+      }
+    },
+    "program_details": {
+      "description": "The Open Doors Russian Government Scholarship Program is offered by the Russian Government to international students seeking to pursue Higher Education at Russian Universities.",
+      "study_locations": [],
+      "participating_universities": [
+        "21 Best Russian Universities"
+      ],
+      "fields_of_study": {
+        "subjects": [
+          "Biology & Biotechnology",
+          "Computer & Data Science",
+          "Applied Mathematics & Artificial Intelligence",
+          "Business & Management",
+          "Politics & International Studies",
+          "Physical Sciences & Technology",
+          "Linguistics & Modern Languages",
+          "Chemistry & Materials Science",
+          "Economics & Econometrics",
+          "Engineering & Technology",
+          "Clinical Medicine & Public Health",
+          "Earth & Environmental Sciences for Sustainability",
+          "Education & Psychology",
+          "Urbanism & Civil Engineering"
+        ],
+        "specializations": [],
+        "research_areas": [],
+        "restrictions": []
+      },
+      "program_structure": {
+        "academic_schedule": {
+          "semester_structure": "",
+          "academic_calendar": "",
+          "holidays": [],
+          "important_dates": []
+        },
+        "teaching_method": {
+          "format": [],
+          "language_of_instruction": "English",
+          "online_components": false,
+          "attendance_requirements": ""
+        },
+        "curriculum": {
+          "core_courses": [],
+          "electives": [],
+          "research_requirements": [],
+          "thesis_requirements": "",
+          "internship_requirements": ""
+        },
+        "year_1": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        },
+        "year_2": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        },
+        "year_3": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        },
+        "year_4": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        }
+      },
+      "degree_awarded": {
+        "type": "",
+        "awarding_institution": "",
+        "recognition": [],
+        "accreditation": []
+      }
+    },
+    "benefits": {
+      "financial_coverage": {
+        "tuition": {
+          "coverage_type": "Full",
+          "details": "No Tuition Fee",
+          "conditions": [],
+          "amount": {
+            "value": "",
+            "currency": "",
+            "frequency": ""
+          }
+        },
+        "monthly_allowance": {
+          "undergraduate": {
+            "amount": "",
+            "currency": "",
+            "details": ""
+          },
+          "masters": {
+            "amount": "",
+            "currency": "",
+            "details": ""
+          },
+          "phd": {
+            "amount": "",
+            "currency": "",
+            "details": ""
+          },
+          "payment_schedule": "",
+          "conditions": []
+        },
+        "research_support": {
+          "amount": "",
+          "coverage": [],
+          "conditions": []
+        },
+        "travel": {
+          "airfare_covered": false,
+          "details": "",
+          "conditions": [],
+          "frequency": "",
+          "class": ""
+        },
+        "other_allowances": [],
+        "additional_support": []
+      },
+      "pre_departure": {
+        "language_training": {
+          "available": false,
+          "duration": "",
+          "provider": "",
+          "cost_coverage": ""
+        },
+        "cultural_orientation": {
+          "available": false,
+          "duration": "",
+          "content": []
+        },
+        "visa_assistance": {
+          "provided": false,
+          "services": [],
+          "cost_coverage": ""
+        },
+        "travel_arrangements": {
+          "provided": false,
+          "services": [],
+          "conditions": []
+        }
+      },
+      "during_program": {
+        "accommodation": {
+          "provided": false,
+          "type": "",
+          "location": "",
+          "conditions": []
+        },
+        "academic_support": {
+          "tutoring": false,
+          "mentoring": false,
+          "research_supervision": false,
+          "language_support": false,
+          "details": []
+        },
+        "healthcare": {
+          "coverage_type": "",
+          "insurance_provider": "",
+          "coverage_details": [],
+          "restrictions": []
+        },
+        "facilities_access": {
+          "library": false,
+          "labs": false,
+          "sports": false,
+          "others": []
+        },
+        "student_services": []
+      },
+      "post_program": {
+        "alumni_network": {
+          "available": false,
+          "benefits": []
+        },
+        "career_services": {
+          "available": false,
+          "services": []
+        },
+        "further_opportunities": []
+      }
+    },
+    "eligibility": {
+      "nationality": {
+        "type": "Open to all",
+        "eligible_nationalities": [],
+        "excluded_nationalities": [],
+        "conditions": [],
+        "dual_citizenship_policy": ""
+      },
+      "academic": {
+        "minimum_degree_required": "Bachelors Degree",
+        "accepted_degrees": [],
+        "minimum_gpa": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": "",
+          "scale": ""
+        },
+        "final_year_allowed": false,
+        "specific_backgrounds": [],
+        "academic_requirements": [],
+        "required_courses": [],
+        "prerequisites": []
+      },
+      "language": {
+        "english": {
+          "required": false,
+          "minimum_score": {
+            "ielts": "",
+            "toefl": "",
+            "other": []
+          },
+          "waiver_conditions": [],
+          "test_validity_period": ""
+        },
+        "other_languages": [
+          {
+            "language": "",
+            "required": false,
+            "minimum_level": "",
+            "details": "",
+            "waiver_conditions": [],
+            "test_requirements": []
+          }
+        ]
+      },
+      "experience": {
+        "required": false,
+        "minimum_years": "",
+        "type": [],
+        "specific_fields": [],
+        "details": "",
+        "proof_required": []
+      },
+      "age": {
+        "minimum": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": ""
+        },
+        "maximum": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": ""
+        },
+        "exceptions": [],
+        "calculation_date": ""
+      },
+      "research_requirements": {
+        "proposal_required": false,
+        "proposal_guidelines": "",
+        "research_areas": [],
+        "supervisor_requirement": false,
+        "prior_publications": false
+      },
+      "health_requirements": {
+        "medical_certificate": false,
+        "vaccinations": [],
+        "health_insurance": false,
+        "specific_conditions": []
+      },
+      "return_obligations": {
+        "required": false,
+        "details": "",
+        "bond_period": "",
+        "conditions": []
+      },
+      "special_conditions": {
+        "employment_status": [],
+        "institutional_nominations": false,
+        "quotas": {
+          "gender": false,
+          "region": false,
+          "field_of_study": false,
+          "details": []
+        },
+        "other_restrictions": []
+      }
+    },
+    "application": {
+      "submission_method": {
+        "online": true,
+        "paper": false,
+        "platform": "",
+        "instructions": "Register by creating an account. Portfolio Filling and take the entrance test available in your account."
+      },
+      "required_documents": {
+        "general": [],
+        "program_specific": {
+          "undergraduate": [],
+          "masters": [],
+          "phd": []
+        },
+        "special_requirements": [
+          "papers",
+          "certificates",
+          "awards"
+        ]
+      },
+      "document_requirements": {
+        "authentication": [],
+        "translation": {
+          "required": false,
+          "accepted_languages": [],
+          "certified_translation": false,
+          "exceptions": []
+        },
+        "format": {
+          "file_types": [],
+          "size_limits": "",
+          "naming_convention": "",
+          "special_instructions": []
+        }
+      },
+      "selection_process": {
+        "stages": [
+          "Portfolio Filling and entrance test",
+          "Second stage evaluation",
+          "Interview"
+        ],
+        "timeline": "",
+        "interview": {
+          "required": true,
+          "format": "",
+          "duration": "",
+          "components": [],
+          "preparation_guidelines": []
+        },
+        "evaluation_criteria": [],
+        "notification_process": ""
+      },
+      "application_process": [
+        "Register by creating an account.",
+        "Portfolio Filling and take the entrance test available in your account.",
+        "Attach all important documents such as papers, certificates, and awards.",
+        "After the Result announcement of the Portfolio, winners will be invited to solve the second stage.",
+        "After the evaluation of the second stage and interview, winners will be selected to study for free in Russia."
+      ],
+      "application_link": "https://od.globaluni.ru/",
+      "additional_instructions": [
+        "You can choose 1 to 6 universities."
+      ]
+    },
+    "metadata": {
+      "scholarship_id": "",
+      "last_updated": "",
+      "shares_count": "",
+      "related_programs": [],
+      "source_url": "https://opportunitiescorners.com/open-doors-russian-government-scholarship/",
+      "categories": [
+        "Bachelor, Master, PhD Scholarships"
+      ],
+      "scholarship_history": {
+        "established_year": "",
+        "previous_statistics": {
+          "total_awards": "",
+          "success_rate": "",
+          "demographic_data": []
+        },
+        "alumni_outcomes": []
+      },
+      "contact_information": {
+        "primary_contact": {
+          "department": "",
+          "email": "",
+          "phone": "",
+          "website": "",
+          "office_hours": ""
+        },
+        "regional_offices": [],
+        "social_media": {
+          "facebook": "",
+          "twitter": "",
+          "linkedin": "",
+          "youtube": ""
+        }
+      },
+      "resources": {
+        "faq_link": "https://od.globaluni.ru/rules",
+        "brochures": [],
+        "guidelines": [],
+        "forms": []
+      },
+      "tags": [],
+      "success_stories": [],
+      "reviews": [],
+      "additional_notes": []
+    }
+  }
+}

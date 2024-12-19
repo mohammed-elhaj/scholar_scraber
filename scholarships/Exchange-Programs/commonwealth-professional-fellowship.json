@@ -1,0 +1,481 @@
+{
+  "scholarship": {
+    "basic_info": {
+      "title": "Commonwealth Professional Fellowship 2025 in UK (Fully Funded)",
+      "post_date": "July 5, 2024",
+      "author": "Muhammad Saim Rasheed",
+      "academic_year": "2025",
+      "funding_type": {
+        "type": "Fellowship",
+        "details": "Fully Funded",
+        "coverage_options": []
+      },
+      "host_countries": [
+        "UK"
+      ],
+      "program_name": "Commonwealth Professional Fellowship",
+      "funded_by": {
+        "primary": "CSC",
+        "additional": []
+      },
+      "degree_levels": [],
+      "duration": {
+        "undergraduate": {
+          "years": "",
+          "semesters": "",
+          "details": ""
+        },
+        "masters": {
+          "years": "",
+          "semesters": "",
+          "details": ""
+        },
+        "phd": {
+          "years": "",
+          "semesters": "",
+          "details": ""
+        },
+        "general_info": "Six weeks to three Months"
+      },
+      "application_timeline": {
+        "opening_date": "",
+        "closing_date": "",
+        "decision_date": "",
+        "program_start_date": "February 2025",
+        "orientation_date": ""
+      },
+      "scholarships_available": {
+        "total": "",
+        "per_program": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": ""
+        },
+        "per_country": "",
+        "restrictions": []
+      }
+    },
+    "program_details": {
+      "description": "The Commonwealth Professional fellowship program is for mid-career professionals from low and middle-income countries to spend some time at the UK organization and enhance their skills and knowledge in the field in which they are working.",
+      "study_locations": [
+        "UK"
+      ],
+      "participating_universities": [],
+      "fields_of_study": {
+        "subjects": [
+          "Science and technology for development",
+          "Strengthening health systems and capacity",
+          "Promoting innovation and entrepreneurship",
+          "Strengthening global peace, security, and governance",
+          "Strengthening resilience and response to crises",
+          "Access, inclusion, and opportunity"
+        ],
+        "specializations": [],
+        "research_areas": [],
+        "restrictions": []
+      },
+      "program_structure": {
+        "academic_schedule": {
+          "semester_structure": "",
+          "academic_calendar": "",
+          "holidays": [],
+          "important_dates": []
+        },
+        "teaching_method": {
+          "format": [],
+          "language_of_instruction": "",
+          "online_components": false,
+          "attendance_requirements": ""
+        },
+        "curriculum": {
+          "core_courses": [],
+          "electives": [],
+          "research_requirements": [],
+          "thesis_requirements": "",
+          "internship_requirements": ""
+        },
+        "year_1": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        },
+        "year_2": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        },
+        "year_3": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        },
+        "year_4": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        }
+      },
+      "degree_awarded": {
+        "type": "",
+        "awarding_institution": "",
+        "recognition": [],
+        "accreditation": []
+      }
+    },
+    "benefits": {
+      "financial_coverage": {
+        "tuition": {
+          "coverage_type": "",
+          "details": "",
+          "conditions": [],
+          "amount": {
+            "value": "",
+            "currency": "",
+            "frequency": ""
+          }
+        },
+        "monthly_allowance": {
+          "undergraduate": {
+            "amount": "",
+            "currency": "",
+            "details": ""
+          },
+          "masters": {
+            "amount": "",
+            "currency": "",
+            "details": ""
+          },
+          "phd": {
+            "amount": "",
+            "currency": "",
+            "details": ""
+          },
+          "payment_schedule": "",
+          "conditions": []
+        },
+        "research_support": {
+          "amount": "£3,000",
+          "coverage": [
+            "short courses",
+            "conferences",
+            "travel to visit other UK organizations"
+          ],
+          "conditions": []
+        },
+        "travel": {
+          "airfare_covered": true,
+          "details": "Return Airfare from a fellow home country to the UK",
+          "conditions": [],
+          "frequency": "",
+          "class": ""
+        },
+        "other_allowances": [
+          "Visa application fee Reimbursement",
+          "Arrival allowance of up to £1,156.60",
+          "Stipend of £2,057 per month, or £2,553 per month for those at organizations in the London metropolitan area."
+        ],
+        "additional_support": []
+      },
+      "pre_departure": {
+        "language_training": {
+          "available": false,
+          "duration": "",
+          "provider": "",
+          "cost_coverage": ""
+        },
+        "cultural_orientation": {
+          "available": false,
+          "duration": "",
+          "content": []
+        },
+        "visa_assistance": {
+          "provided": false,
+          "services": [],
+          "cost_coverage": ""
+        },
+        "travel_arrangements": {
+          "provided": false,
+          "services": [],
+          "conditions": []
+        }
+      },
+      "during_program": {
+        "accommodation": {
+          "provided": false,
+          "type": "",
+          "location": "",
+          "conditions": []
+        },
+        "academic_support": {
+          "tutoring": false,
+          "mentoring": false,
+          "research_supervision": false,
+          "language_support": false,
+          "details": []
+        },
+        "healthcare": {
+          "coverage_type": "",
+          "insurance_provider": "",
+          "coverage_details": [],
+          "restrictions": []
+        },
+        "facilities_access": {
+          "library": false,
+          "labs": false,
+          "sports": false,
+          "others": []
+        },
+        "student_services": []
+      },
+      "post_program": {
+        "alumni_network": {
+          "available": false,
+          "benefits": []
+        },
+        "career_services": {
+          "available": false,
+          "services": []
+        },
+        "further_opportunities": []
+      }
+    },
+    "eligibility": {
+      "nationality": {
+        "type": "Commonwealth",
+        "eligible_nationalities": [
+          "Bangladesh",
+          "Belize",
+          "Botswana",
+          "Cameroon",
+          "Dominica",
+          "Eswatini",
+          "Fiji",
+          "Gabon",
+          "The Gambia",
+          "Ghana",
+          "Grenada",
+          "Guyana",
+          "India",
+          "Jamaica",
+          "Kenya",
+          "Kiribati",
+          "Lesotho",
+          "Malawi",
+          "Malaysia",
+          "Maldives",
+          "Mauritius",
+          "Montserrat",
+          "Mozambique",
+          "Namibia",
+          "Nauru",
+          "Nigeria",
+          "Pakistan",
+          "Papua New Guinea",
+          "Rwanda",
+          "St Helena",
+          "St Lucia",
+          "St Vincent and The Grenadines",
+          "Samoa",
+          "Sierra Leone",
+          "Solomon Islands",
+          "South Africa",
+          "Sri Lanka",
+          "Tanzania",
+          "Togo",
+          "Tonga",
+          "Tuvalu",
+          "Uganda",
+          "Vanuatu",
+          "Zambia"
+        ],
+        "excluded_nationalities": [],
+        "conditions": [
+          "Citizens of the commonwealth country",
+          "Those who have been granted refugee status in an eligible commonwealth country",
+          "British Protected Person"
+        ],
+        "dual_citizenship_policy": ""
+      },
+      "academic": {
+        "minimum_degree_required": "",
+        "accepted_degrees": [],
+        "minimum_gpa": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": "",
+          "scale": ""
+        },
+        "final_year_allowed": false,
+        "specific_backgrounds": [],
+        "academic_requirements": [],
+        "required_courses": [],
+        "prerequisites": []
+      },
+      "language": {
+        "english": {
+          "required": false,
+          "minimum_score": {
+            "ielts": "",
+            "toefl": "",
+            "other": []
+          },
+          "waiver_conditions": [],
+          "test_validity_period": ""
+        },
+        "other_languages": []
+      },
+      "experience": {
+        "required": true,
+        "minimum_years": "5",
+        "type": [
+          "full-time",
+          "part-time"
+        ],
+        "specific_fields": [],
+        "details": "relevant work experience",
+        "proof_required": []
+      },
+      "age": {
+        "minimum": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": ""
+        },
+        "maximum": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": ""
+        },
+        "exceptions": [],
+        "calculation_date": ""
+      },
+      "research_requirements": {
+        "proposal_required": false,
+        "proposal_guidelines": "",
+        "research_areas": [],
+        "supervisor_requirement": false,
+        "prior_publications": false
+      },
+      "health_requirements": {
+        "medical_certificate": false,
+        "vaccinations": [],
+        "health_insurance": false,
+        "specific_conditions": []
+      },
+      "return_obligations": {
+        "required": false,
+        "details": "",
+        "bond_period": "",
+        "conditions": []
+      },
+      "special_conditions": {
+        "employment_status": [
+          "Be in employment at the time of application"
+        ],
+        "institutional_nominations": false,
+        "quotas": {
+          "gender": false,
+          "region": false,
+          "field_of_study": false,
+          "details": []
+        },
+        "other_restrictions": []
+      }
+    },
+    "application": {
+      "submission_method": {
+        "online": true,
+        "paper": false,
+        "platform": "",
+        "instructions": ""
+      },
+      "required_documents": {
+        "general": [
+          "Provide at least two references"
+        ],
+        "program_specific": {
+          "undergraduate": [],
+          "masters": [],
+          "phd": []
+        },
+        "special_requirements": []
+      },
+      "document_requirements": {
+        "authentication": [],
+        "translation": {
+          "required": false,
+          "accepted_languages": [],
+          "certified_translation": false,
+          "exceptions": []
+        },
+        "format": {
+          "file_types": [],
+          "size_limits": "",
+          "naming_convention": "",
+          "special_instructions": []
+        }
+      },
+      "selection_process": {
+        "stages": [],
+        "timeline": "",
+        "interview": {
+          "required": false,
+          "format": "",
+          "duration": "",
+          "components": [],
+          "preparation_guidelines": []
+        },
+        "evaluation_criteria": [],
+        "notification_process": ""
+      },
+      "application_process": [],
+      "application_link": "https://cscuk.fcdo.gov.uk/scholarships/commonwealth-professional-fellowships-information-for-candidates/",
+      "additional_instructions": []
+    },
+    "metadata": {
+      "scholarship_id": "",
+      "last_updated": "",
+      "shares_count": "",
+      "related_programs": [],
+      "source_url": "https://opportunitiescorners.com/commonwealth-professional-fellowship/",
+      "categories": [
+        "Fellowships"
+      ],
+      "scholarship_history": {
+        "established_year": "",
+        "previous_statistics": {
+          "total_awards": "",
+          "success_rate": "",
+          "demographic_data": []
+        },
+        "alumni_outcomes": []
+      },
+      "contact_information": {
+        "primary_contact": {
+          "department": "",
+          "email": "",
+          "phone": "",
+          "website": "",
+          "office_hours": ""
+        },
+        "regional_offices": [],
+        "social_media": {
+          "facebook": "",
+          "twitter": "",
+          "linkedin": "",
+          "youtube": ""
+        }
+      },
+      "resources": {
+        "faq_link": "",
+        "brochures": [],
+        "guidelines": [],
+        "forms": []
+      },
+      "tags": [],
+      "success_stories": [],
+      "reviews": [],
+      "additional_notes": []
+    }
+  }
+}

@@ -1,0 +1,444 @@
+{
+  "scholarship": {
+    "basic_info": {
+      "title": "AIS Youth Conference 2023 in Bali, Indonesia (Fully Funded)",
+      "post_date": "July 17, 2023",
+      "author": "Opportunities Corners",
+      "academic_year": "2023",
+      "funding_type": {
+        "type": "Fully Funded",
+        "details": "All expenses covered",
+        "coverage_options": []
+      },
+      "host_countries": [
+        "Indonesia"
+      ],
+      "program_name": "AIS Youth Conference",
+      "funded_by": {
+        "primary": "AIS Youth Forum",
+        "additional": []
+      },
+      "degree_levels": [],
+      "duration": {
+        "undergraduate": {
+          "years": "",
+          "semesters": "",
+          "details": ""
+        },
+        "masters": {
+          "years": "",
+          "semesters": "",
+          "details": ""
+        },
+        "phd": {
+          "years": "",
+          "semesters": "",
+          "details": ""
+        },
+        "general_info": "3 days (6th Oct to 8th Oct 2023)"
+      },
+      "application_timeline": {
+        "opening_date": "",
+        "closing_date": "31st July 2023",
+        "decision_date": "",
+        "program_start_date": "6th Oct 2023",
+        "orientation_date": ""
+      },
+      "scholarships_available": {
+        "total": "30",
+        "per_program": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": ""
+        },
+        "per_country": "",
+        "restrictions": []
+      }
+    },
+    "program_details": {
+      "description": "Youth Dialogue Conference in Bali focusing on marine plastic debris, good maritime governance, a blue economy, and climate change.",
+      "study_locations": [
+        "Bali, Indonesia"
+      ],
+      "participating_universities": [],
+      "fields_of_study": {
+        "subjects": [
+          "marine plastic debris",
+          "good maritime governance",
+          "blue economy",
+          "climate change"
+        ],
+        "specializations": [],
+        "research_areas": [],
+        "restrictions": []
+      },
+      "program_structure": {
+        "academic_schedule": {
+          "semester_structure": "",
+          "academic_calendar": "",
+          "holidays": [],
+          "important_dates": []
+        },
+        "teaching_method": {
+          "format": [],
+          "language_of_instruction": "",
+          "online_components": false,
+          "attendance_requirements": "Must be able to attend the forum in Bali"
+        },
+        "curriculum": {
+          "core_courses": [],
+          "electives": [],
+          "research_requirements": [],
+          "thesis_requirements": "",
+          "internship_requirements": ""
+        },
+        "year_1": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        },
+        "year_2": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        },
+        "year_3": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        },
+        "year_4": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        }
+      },
+      "degree_awarded": {
+        "type": "Certificate of Participation",
+        "awarding_institution": "Government of Indonesia and UNDP",
+        "recognition": [],
+        "accreditation": []
+      }
+    },
+    "benefits": {
+      "financial_coverage": {
+        "tuition": {
+          "coverage_type": "",
+          "details": "",
+          "conditions": [],
+          "amount": {
+            "value": "",
+            "currency": "",
+            "frequency": ""
+          }
+        },
+        "monthly_allowance": {
+          "undergraduate": {
+            "amount": "",
+            "currency": "",
+            "details": ""
+          },
+          "masters": {
+            "amount": "",
+            "currency": "",
+            "details": ""
+          },
+          "phd": {
+            "amount": "",
+            "currency": "",
+            "details": ""
+          },
+          "payment_schedule": "",
+          "conditions": []
+        },
+        "research_support": {
+          "amount": "",
+          "coverage": [],
+          "conditions": []
+        },
+        "travel": {
+          "airfare_covered": true,
+          "details": "Round Trip Economy Class Airfare Tickets",
+          "conditions": [],
+          "frequency": "",
+          "class": "Economy"
+        },
+        "other_allowances": [],
+        "additional_support": []
+      },
+      "pre_departure": {
+        "language_training": {
+          "available": false,
+          "duration": "",
+          "provider": "",
+          "cost_coverage": ""
+        },
+        "cultural_orientation": {
+          "available": false,
+          "duration": "",
+          "content": []
+        },
+        "visa_assistance": {
+          "provided": true,
+          "services": [
+            "Invitation Letter for Visa application support"
+          ],
+          "cost_coverage": ""
+        },
+        "travel_arrangements": {
+          "provided": false,
+          "services": [],
+          "conditions": []
+        }
+      },
+      "during_program": {
+        "accommodation": {
+          "provided": true,
+          "type": "Hotel",
+          "location": "Bali",
+          "conditions": [
+            "Breakfast included"
+          ]
+        },
+        "academic_support": {
+          "tutoring": false,
+          "mentoring": false,
+          "research_supervision": false,
+          "language_support": false,
+          "details": []
+        },
+        "healthcare": {
+          "coverage_type": "",
+          "insurance_provider": "",
+          "coverage_details": [],
+          "restrictions": []
+        },
+        "facilities_access": {
+          "library": false,
+          "labs": false,
+          "sports": false,
+          "others": []
+        },
+        "student_services": []
+      },
+      "post_program": {
+        "alumni_network": {
+          "available": false,
+          "benefits": []
+        },
+        "career_services": {
+          "available": false,
+          "services": []
+        },
+        "further_opportunities": []
+      }
+    },
+    "eligibility": {
+      "nationality": {
+        "type": "Specific",
+        "eligible_nationalities": [
+          "Nationals of the AIS Countries (51 countries)"
+        ],
+        "excluded_nationalities": [],
+        "conditions": [],
+        "dual_citizenship_policy": ""
+      },
+      "academic": {
+        "minimum_degree_required": "",
+        "accepted_degrees": [
+          "Bachelors",
+          "Masters"
+        ],
+        "minimum_gpa": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": "",
+          "scale": ""
+        },
+        "final_year_allowed": false,
+        "specific_backgrounds": [],
+        "academic_requirements": [],
+        "required_courses": [],
+        "prerequisites": []
+      },
+      "language": {
+        "english": {
+          "required": false,
+          "minimum_score": {
+            "ielts": "",
+            "toefl": "",
+            "other": []
+          },
+          "waiver_conditions": [],
+          "test_validity_period": ""
+        },
+        "other_languages": [
+          {
+            "language": "",
+            "required": false,
+            "minimum_level": "",
+            "details": "",
+            "waiver_conditions": [],
+            "test_requirements": []
+          }
+        ]
+      },
+      "experience": {
+        "required": true,
+        "minimum_years": "",
+        "type": [
+          "Relative experience related to conference topics"
+        ],
+        "specific_fields": [],
+        "details": "",
+        "proof_required": []
+      },
+      "age": {
+        "minimum": {
+          "undergraduate": "20",
+          "masters": "20",
+          "phd": ""
+        },
+        "maximum": {
+          "undergraduate": "30",
+          "masters": "30",
+          "phd": ""
+        },
+        "exceptions": [],
+        "calculation_date": ""
+      },
+      "research_requirements": {
+        "proposal_required": false,
+        "proposal_guidelines": "",
+        "research_areas": [],
+        "supervisor_requirement": false,
+        "prior_publications": false
+      },
+      "health_requirements": {
+        "medical_certificate": false,
+        "vaccinations": [],
+        "health_insurance": false,
+        "specific_conditions": []
+      },
+      "return_obligations": {
+        "required": false,
+        "details": "",
+        "bond_period": "",
+        "conditions": []
+      },
+      "special_conditions": {
+        "employment_status": [],
+        "institutional_nominations": false,
+        "quotas": {
+          "gender": false,
+          "region": false,
+          "field_of_study": false,
+          "details": []
+        },
+        "other_restrictions": []
+      }
+    },
+    "application": {
+      "submission_method": {
+        "online": false,
+        "paper": false,
+        "platform": "",
+        "instructions": ""
+      },
+      "required_documents": {
+        "general": [
+          "CV max 1 page",
+          "Essay on the relevant topic (500 words)",
+          "A scanned copy of a valid passport",
+          "Casual self Photograph"
+        ],
+        "program_specific": {
+          "undergraduate": [
+            "Student ID (If the applicant is currently a student)"
+          ],
+          "masters": [
+            "Student ID (If the applicant is currently a student)"
+          ],
+          "phd": []
+        },
+        "special_requirements": []
+      },
+      "document_requirements": {
+        "authentication": [],
+        "translation": {
+          "required": false,
+          "accepted_languages": [],
+          "certified_translation": false,
+          "exceptions": []
+        },
+        "format": {
+          "file_types": [],
+          "size_limits": "",
+          "naming_convention": "",
+          "special_instructions": []
+        }
+      },
+      "selection_process": {
+        "stages": [],
+        "timeline": "",
+        "interview": {
+          "required": false,
+          "format": "",
+          "duration": "",
+          "components": [],
+          "preparation_guidelines": []
+        },
+        "evaluation_criteria": [],
+        "notification_process": ""
+      },
+      "application_process": [],
+      "application_link": "",
+      "additional_instructions": []
+    },
+    "metadata": {
+      "scholarship_id": "",
+      "last_updated": "",
+      "shares_count": "",
+      "related_programs": [],
+      "source_url": "https://opportunitiescorners.com/ais-youth-conference-2023-in-bali-indonesia-fully-funded/",
+      "categories": [
+        "Conferences"
+      ],
+      "scholarship_history": {
+        "established_year": "",
+        "previous_statistics": {
+          "total_awards": "",
+          "success_rate": "",
+          "demographic_data": []
+        },
+        "alumni_outcomes": []
+      },
+      "contact_information": {
+        "primary_contact": {
+          "department": "",
+          "email": "",
+          "phone": "",
+          "website": "",
+          "office_hours": ""
+        },
+        "regional_offices": [],
+        "social_media": {
+          "facebook": "https://www.facebook.com/opportunitiescorners/",
+          "twitter": "https://twitter.com/corner_oc",
+          "linkedin": "https://www.linkedin.com/company/opcorner/",
+          "youtube": "https://www.youtube.com/c/opportunitiescorners/"
+        }
+      },
+      "resources": {
+        "faq_link": "",
+        "brochures": [],
+        "guidelines": [],
+        "forms": []
+      },
+      "tags": [],
+      "success_stories": [],
+      "reviews": [],
+      "additional_notes": []
+    }
+  }
+}

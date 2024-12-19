@@ -1,0 +1,440 @@
+{
+  "scholarship": {
+    "basic_info": {
+      "title": "NTU Singapore Global Connect Fellowship 2025 (Fully Funded)",
+      "post_date": "September 1, 2024",
+      "author": "Muhammad Saim Rasheed",
+      "academic_year": "2025",
+      "funding_type": {
+        "type": "Fully Funded",
+        "details": "",
+        "coverage_options": []
+      },
+      "host_countries": [
+        "Singapore"
+      ],
+      "program_name": "Global Connect Fellowship",
+      "funded_by": {
+        "primary": "Nanyang Technological University (NTU)",
+        "additional": []
+      },
+      "degree_levels": [
+        "Bachelor",
+        "Master"
+      ],
+      "duration": {
+        "undergraduate": {
+          "years": "",
+          "semesters": "",
+          "details": "2-3 months"
+        },
+        "masters": {
+          "years": "",
+          "semesters": "",
+          "details": "2-3 months"
+        },
+        "phd": {
+          "years": "",
+          "semesters": "",
+          "details": ""
+        },
+        "general_info": "Two to three Months"
+      },
+      "application_timeline": {
+        "opening_date": "",
+        "closing_date": "30th September 2024",
+        "decision_date": "mid-December",
+        "program_start_date": "3 Feb 2025",
+        "orientation_date": ""
+      },
+      "scholarships_available": {
+        "total": "",
+        "per_program": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": ""
+        },
+        "per_country": "",
+        "restrictions": []
+      }
+    },
+    "program_details": {
+      "description": "The NTU Singapore Global Connect Fellowship is a wonderful fully funded opportunity for bachelors and masters students from all around the world to spend two to three months at NTU Singapore while doing research under the mentorship of the world-leading faculty of NTU.",
+      "study_locations": [
+        "Singapore"
+      ],
+      "participating_universities": [
+        "Nanyang Technological University (NTU)"
+      ],
+      "fields_of_study": {
+        "subjects": [],
+        "specializations": [],
+        "research_areas": [],
+        "restrictions": []
+      },
+      "program_structure": {
+        "academic_schedule": {
+          "semester_structure": "",
+          "academic_calendar": "",
+          "holidays": [],
+          "important_dates": []
+        },
+        "teaching_method": {
+          "format": [],
+          "language_of_instruction": "",
+          "online_components": false,
+          "attendance_requirements": ""
+        },
+        "curriculum": {
+          "core_courses": [],
+          "electives": [],
+          "research_requirements": [],
+          "thesis_requirements": "",
+          "internship_requirements": ""
+        },
+        "year_1": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        },
+        "year_2": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        },
+        "year_3": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        },
+        "year_4": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        }
+      },
+      "degree_awarded": {
+        "type": "",
+        "awarding_institution": "",
+        "recognition": [],
+        "accreditation": []
+      }
+    },
+    "benefits": {
+      "financial_coverage": {
+        "tuition": {
+          "coverage_type": "Full",
+          "details": "Full tuition fee waiver.",
+          "conditions": [],
+          "amount": {
+            "value": "",
+            "currency": "",
+            "frequency": ""
+          }
+        },
+        "monthly_allowance": {
+          "undergraduate": {
+            "amount": "1500",
+            "currency": "SGD",
+            "details": "per month for living expenses"
+          },
+          "masters": {
+            "amount": "1500",
+            "currency": "SGD",
+            "details": "per month for living expenses"
+          },
+          "phd": {
+            "amount": "",
+            "currency": "",
+            "details": ""
+          },
+          "payment_schedule": "",
+          "conditions": []
+        },
+        "research_support": {
+          "amount": "",
+          "coverage": [],
+          "conditions": []
+        },
+        "travel": {
+          "airfare_covered": false,
+          "details": "The fellowship is expected to cover visa, registration, miscellaneous fees, flight costs, as well as living expenses (food and other expenses) during your time in Singapore.",
+          "conditions": [],
+          "frequency": "",
+          "class": ""
+        },
+        "other_allowances": [
+          "SGD 2,000 Settling amount in the first month."
+        ],
+        "additional_support": []
+      },
+      "pre_departure": {
+        "language_training": {
+          "available": false,
+          "duration": "",
+          "provider": "",
+          "cost_coverage": ""
+        },
+        "cultural_orientation": {
+          "available": false,
+          "duration": "",
+          "content": []
+        },
+        "visa_assistance": {
+          "provided": false,
+          "services": [],
+          "cost_coverage": ""
+        },
+        "travel_arrangements": {
+          "provided": false,
+          "services": [],
+          "conditions": []
+        }
+      },
+      "during_program": {
+        "accommodation": {
+          "provided": true,
+          "type": "On-campus",
+          "location": "",
+          "conditions": []
+        },
+        "academic_support": {
+          "tutoring": false,
+          "mentoring": true,
+          "research_supervision": true,
+          "language_support": false,
+          "details": []
+        },
+        "healthcare": {
+          "coverage_type": "",
+          "insurance_provider": "",
+          "coverage_details": [],
+          "restrictions": []
+        },
+        "facilities_access": {
+          "library": false,
+          "labs": false,
+          "sports": false,
+          "others": []
+        },
+        "student_services": []
+      },
+      "post_program": {
+        "alumni_network": {
+          "available": false,
+          "benefits": []
+        },
+        "career_services": {
+          "available": false,
+          "services": []
+        },
+        "further_opportunities": []
+      }
+    },
+    "eligibility": {
+      "nationality": {
+        "type": "Open to all",
+        "eligible_nationalities": [],
+        "excluded_nationalities": [],
+        "conditions": [],
+        "dual_citizenship_policy": ""
+      },
+      "academic": {
+        "minimum_degree_required": "",
+        "accepted_degrees": [
+          "Bachelor",
+          "Master"
+        ],
+        "minimum_gpa": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": "",
+          "scale": ""
+        },
+        "final_year_allowed": false,
+        "specific_backgrounds": [
+          "STEM"
+        ],
+        "academic_requirements": [],
+        "required_courses": [],
+        "prerequisites": []
+      },
+      "language": {
+        "english": {
+          "required": false,
+          "minimum_score": {
+            "ielts": "",
+            "toefl": "",
+            "other": []
+          },
+          "waiver_conditions": [],
+          "test_validity_period": ""
+        },
+        "other_languages": [
+          {
+            "language": "",
+            "required": false,
+            "minimum_level": "",
+            "details": "",
+            "waiver_conditions": [],
+            "test_requirements": []
+          }
+        ]
+      },
+      "experience": {
+        "required": false,
+        "minimum_years": "",
+        "type": [],
+        "specific_fields": [],
+        "details": "",
+        "proof_required": []
+      },
+      "age": {
+        "minimum": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": ""
+        },
+        "maximum": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": ""
+        },
+        "exceptions": [],
+        "calculation_date": ""
+      },
+      "research_requirements": {
+        "proposal_required": false,
+        "proposal_guidelines": "",
+        "research_areas": [],
+        "supervisor_requirement": false,
+        "prior_publications": false
+      },
+      "health_requirements": {
+        "medical_certificate": false,
+        "vaccinations": [],
+        "health_insurance": false,
+        "specific_conditions": []
+      },
+      "return_obligations": {
+        "required": false,
+        "details": "",
+        "bond_period": "",
+        "conditions": []
+      },
+      "special_conditions": {
+        "employment_status": [],
+        "institutional_nominations": false,
+        "quotas": {
+          "gender": false,
+          "region": false,
+          "field_of_study": false,
+          "details": []
+        },
+        "other_restrictions": []
+      }
+    },
+    "application": {
+      "submission_method": {
+        "online": true,
+        "paper": false,
+        "platform": "",
+        "instructions": ""
+      },
+      "required_documents": {
+        "general": [
+          "Personal Information",
+          "Academic Qualifications",
+          "Soft Copy of the Latest Official Transcripts (in English)",
+          "Soft Copy of Passport",
+          "Soft Copy of Photo",
+          "Academic Referee Letters",
+          "Statement of Purpose",
+          "1-2 Minute Video Explaining Motivation for Applying to the Program."
+        ],
+        "program_specific": {
+          "undergraduate": [],
+          "masters": [],
+          "phd": []
+        },
+        "special_requirements": []
+      },
+      "document_requirements": {
+        "authentication": [],
+        "translation": {
+          "required": false,
+          "accepted_languages": [],
+          "certified_translation": false,
+          "exceptions": []
+        },
+        "format": {
+          "file_types": [],
+          "size_limits": "",
+          "naming_convention": "",
+          "special_instructions": []
+        }
+      },
+      "selection_process": {
+        "stages": [],
+        "timeline": "",
+        "interview": {
+          "required": false,
+          "format": "",
+          "duration": "",
+          "components": [],
+          "preparation_guidelines": []
+        },
+        "evaluation_criteria": [],
+        "notification_process": ""
+      },
+      "application_process": [],
+      "application_link": "https://www.ntu.edu.sg/about-us/global/global-connect-fellowship",
+      "additional_instructions": []
+    },
+    "metadata": {
+      "scholarship_id": "",
+      "last_updated": "",
+      "shares_count": "",
+      "related_programs": [],
+      "source_url": "https://opportunitiescorners.com/ntu-singapore-global-connect-fellowship/",
+      "categories": [
+        "Fellowships"
+      ],
+      "scholarship_history": {
+        "established_year": "",
+        "previous_statistics": {
+          "total_awards": "",
+          "success_rate": "",
+          "demographic_data": []
+        },
+        "alumni_outcomes": []
+      },
+      "contact_information": {
+        "primary_contact": {
+          "department": "",
+          "email": "",
+          "phone": "",
+          "website": "",
+          "office_hours": ""
+        },
+        "regional_offices": [],
+        "social_media": {
+          "facebook": "https://www.facebook.com/opportunitiescorners/",
+          "twitter": "https://twitter.com/corner_oc",
+          "linkedin": "https://www.linkedin.com/company/opcorner/",
+          "youtube": "https://www.youtube.com/c/opportunitiescorners/"
+        }
+      },
+      "resources": {
+        "faq_link": "",
+        "brochures": [],
+        "guidelines": [],
+        "forms": []
+      },
+      "tags": [],
+      "success_stories": [],
+      "reviews": [],
+      "additional_notes": []
+    }
+  }
+}

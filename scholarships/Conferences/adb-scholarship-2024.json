@@ -1,0 +1,513 @@
+{
+  "scholarship": {
+    "basic_info": {
+      "title": "ADB Scholarship 2024 (Asian Development Bank)",
+      "post_date": "April 21, 2024",
+      "author": "Opportunities Corners",
+      "academic_year": "2024",
+      "funding_type": {
+        "type": "Fully funded",
+        "details": "Funded by the Japan Government",
+        "coverage_options": []
+      },
+      "host_countries": [
+        "9 countries (unspecified)"
+      ],
+      "program_name": "ADB-JSP",
+      "funded_by": {
+        "primary": "Japan Government",
+        "additional": []
+      },
+      "degree_levels": [
+        "Masters"
+      ],
+      "duration": {
+        "undergraduate": {
+          "years": "",
+          "semesters": "",
+          "details": ""
+        },
+        "masters": {
+          "years": "1-2",
+          "semesters": "",
+          "details": "Maximum 2 years"
+        },
+        "phd": {
+          "years": "",
+          "semesters": "",
+          "details": ""
+        },
+        "general_info": ""
+      },
+      "application_timeline": {
+        "opening_date": "",
+        "closing_date": "",
+        "decision_date": "",
+        "program_start_date": "",
+        "orientation_date": ""
+      },
+      "scholarships_available": {
+        "total": "300",
+        "per_program": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": ""
+        },
+        "per_country": "",
+        "restrictions": []
+      }
+    },
+    "program_details": {
+      "description": "The ADB Scholarship 2024 Program (ADB-JSP) is a Fully funded scholarship program funded by the Japan Government. The Asian Development Scholarship funds around 300 students from Asia and Pacific countries to pursue Master’s Degree programs in the universities specified by the ADB located in 9 countries.",
+      "study_locations": [
+        "Asia and Pacific Countries"
+      ],
+      "participating_universities": [],
+      "fields_of_study": {
+        "subjects": [
+          "Science and Technology",
+          "Economics, Business and Management",
+          "Development Studies",
+          "Law and Public Policy"
+        ],
+        "specializations": [
+          "Agriculture",
+          "Biological Science",
+          "Computer Science",
+          "Energy",
+          "Engineering",
+          "Environment",
+          "Forestry",
+          "Genetics",
+          "Health",
+          "Accounting",
+          "Business Administration/Management",
+          "Commerce",
+          "E-Business",
+          "Entrepreneurship",
+          "Economics",
+          "Finance",
+          "International Cooperation",
+          "Social Sciences",
+          "Asia Paciﬁc Studies",
+          "Development Management",
+          "Development Studies",
+          "International Business Law",
+          "International Environmental Law",
+          "Policy Studies",
+          "Political Science",
+          "Public Administration",
+          "Public Policy"
+        ],
+        "research_areas": [],
+        "restrictions": []
+      },
+      "program_structure": {
+        "academic_schedule": {
+          "semester_structure": "",
+          "academic_calendar": "",
+          "holidays": [],
+          "important_dates": []
+        },
+        "teaching_method": {
+          "format": [],
+          "language_of_instruction": "",
+          "online_components": false,
+          "attendance_requirements": ""
+        },
+        "curriculum": {
+          "core_courses": [],
+          "electives": [],
+          "research_requirements": [],
+          "thesis_requirements": "",
+          "internship_requirements": ""
+        },
+        "year_1": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        },
+        "year_2": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        },
+        "year_3": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        },
+        "year_4": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        }
+      },
+      "degree_awarded": {
+        "type": "Master's",
+        "awarding_institution": "",
+        "recognition": [],
+        "accreditation": []
+      }
+    },
+    "benefits": {
+      "financial_coverage": {
+        "tuition": {
+          "coverage_type": "Full",
+          "details": "Full tuition fees",
+          "conditions": [],
+          "amount": {
+            "value": "",
+            "currency": "",
+            "frequency": ""
+          }
+        },
+        "monthly_allowance": {
+          "undergraduate": {
+            "amount": "",
+            "currency": "",
+            "details": ""
+          },
+          "masters": {
+            "amount": "",
+            "currency": "",
+            "details": "A monthly subsistence and housing allowance"
+          },
+          "phd": {
+            "amount": "",
+            "currency": "",
+            "details": ""
+          },
+          "payment_schedule": "",
+          "conditions": []
+        },
+        "research_support": {
+          "amount": "",
+          "coverage": [],
+          "conditions": []
+        },
+        "travel": {
+          "airfare_covered": false,
+          "details": "Travel expenses",
+          "conditions": [],
+          "frequency": "",
+          "class": ""
+        },
+        "other_allowances": [
+          "An allowance for books and instructional materials"
+        ],
+        "additional_support": []
+      },
+      "pre_departure": {
+        "language_training": {
+          "available": false,
+          "duration": "",
+          "provider": "",
+          "cost_coverage": ""
+        },
+        "cultural_orientation": {
+          "available": false,
+          "duration": "",
+          "content": []
+        },
+        "visa_assistance": {
+          "provided": false,
+          "services": [],
+          "cost_coverage": ""
+        },
+        "travel_arrangements": {
+          "provided": false,
+          "services": [],
+          "conditions": []
+        }
+      },
+      "during_program": {
+        "accommodation": {
+          "provided": false,
+          "type": "",
+          "location": "",
+          "conditions": []
+        },
+        "academic_support": {
+          "tutoring": false,
+          "mentoring": false,
+          "research_supervision": false,
+          "language_support": false,
+          "details": []
+        },
+        "healthcare": {
+          "coverage_type": "Medical insurance",
+          "insurance_provider": "",
+          "coverage_details": [],
+          "restrictions": []
+        },
+        "facilities_access": {
+          "library": false,
+          "labs": false,
+          "sports": false,
+          "others": []
+        },
+        "student_services": []
+      },
+      "post_program": {
+        "alumni_network": {
+          "available": false,
+          "benefits": []
+        },
+        "career_services": {
+          "available": false,
+          "services": []
+        },
+        "further_opportunities": []
+      }
+    },
+    "eligibility": {
+      "nationality": {
+        "type": "Specific Countries",
+        "eligible_nationalities": [
+          "Afghanistan",
+          "Armenia",
+          "Azerbaijan",
+          "Bangladesh",
+          "Bhutan",
+          "Cambodia",
+          "Cook Islands",
+          "Federated States of Micronesia",
+          "Fiji",
+          "Georgia",
+          "India",
+          "Indonesia",
+          "Kazakhstan",
+          "Kiribati",
+          "Kyrgyz Republic",
+          "Lao People’s Democratic Republic",
+          "Malaysia",
+          "Maldives",
+          "Marshall Islands",
+          "Mongolia",
+          "Myanmar",
+          "Nauru",
+          "Nepal",
+          "Niue",
+          "Pakistan",
+          "Palau",
+          "Papua New Guinea",
+          "Philippines",
+          "Samoa",
+          "Solomon Islands",
+          "Sri Lanka",
+          "Tajikistan",
+          "Thailand",
+          "Timor-Leste",
+          "Tonga",
+          "Turkmenistan",
+          "Tuvalu",
+          "Uzbekistan",
+          "Vanuatu",
+          "Vietnam"
+        ],
+        "excluded_nationalities": [],
+        "conditions": [],
+        "dual_citizenship_policy": "not hold dual citizenship"
+      },
+      "academic": {
+        "minimum_degree_required": "Bachelor's degree or equivalent",
+        "accepted_degrees": [],
+        "minimum_gpa": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": "",
+          "scale": ""
+        },
+        "final_year_allowed": false,
+        "specific_backgrounds": [],
+        "academic_requirements": [
+          "good academic record"
+        ],
+        "required_courses": [],
+        "prerequisites": []
+      },
+      "language": {
+        "english": {
+          "required": false,
+          "minimum_score": {
+            "ielts": "",
+            "toefl": "",
+            "other": []
+          },
+          "waiver_conditions": [],
+          "test_validity_period": ""
+        },
+        "other_languages": [
+          {
+            "language": "",
+            "required": false,
+            "minimum_level": "",
+            "details": "",
+            "waiver_conditions": [],
+            "test_requirements": []
+          }
+        ]
+      },
+      "experience": {
+        "required": true,
+        "minimum_years": "2",
+        "type": [
+          "full-time professional working experience"
+        ],
+        "specific_fields": [],
+        "details": "",
+        "proof_required": []
+      },
+      "age": {
+        "minimum": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": ""
+        },
+        "maximum": {
+          "undergraduate": "",
+          "masters": "35",
+          "phd": ""
+        },
+        "exceptions": [],
+        "calculation_date": ""
+      },
+      "research_requirements": {
+        "proposal_required": false,
+        "proposal_guidelines": "",
+        "research_areas": [],
+        "supervisor_requirement": false,
+        "prior_publications": false
+      },
+      "health_requirements": {
+        "medical_certificate": false,
+        "vaccinations": [],
+        "health_insurance": true,
+        "specific_conditions": [
+          "be in good health"
+        ]
+      },
+      "return_obligations": {
+        "required": true,
+        "details": "agree to return and work in his/her home country.",
+        "bond_period": "",
+        "conditions": []
+      },
+      "special_conditions": {
+        "employment_status": [],
+        "institutional_nominations": false,
+        "quotas": {
+          "gender": false,
+          "region": false,
+          "field_of_study": false,
+          "details": []
+        },
+        "other_restrictions": []
+      }
+    },
+    "application": {
+      "submission_method": {
+        "online": false,
+        "paper": true,
+        "platform": "",
+        "instructions": "Applicant requests information and application forms from the chosen partner institution. Applicants complete the application and documents. Applicant sends documents to the institution"
+      },
+      "required_documents": {
+        "general": [],
+        "program_specific": {
+          "undergraduate": [],
+          "masters": [],
+          "phd": []
+        },
+        "special_requirements": []
+      },
+      "document_requirements": {
+        "authentication": [],
+        "translation": {
+          "required": false,
+          "accepted_languages": [],
+          "certified_translation": false,
+          "exceptions": []
+        },
+        "format": {
+          "file_types": [],
+          "size_limits": "",
+          "naming_convention": "",
+          "special_instructions": []
+        }
+      },
+      "selection_process": {
+        "stages": [
+          "The University evaluates the application.",
+          "The University sends a shortlist of candidates to ADB.",
+          "ADB reviews the application.",
+          "ADB selects scholars and informs institutions.",
+          "Institution informs all scholars."
+        ],
+        "timeline": "",
+        "interview": {
+          "required": false,
+          "format": "",
+          "duration": "",
+          "components": [],
+          "preparation_guidelines": []
+        },
+        "evaluation_criteria": [],
+        "notification_process": ""
+      },
+      "application_process": [],
+      "application_link": "https://www.adb.org/work-with-us/careers/japan-scholarship-program",
+      "additional_instructions": []
+    },
+    "metadata": {
+      "scholarship_id": "",
+      "last_updated": "",
+      "shares_count": "",
+      "related_programs": [],
+      "source_url": "https://opportunitiescorners.com/adb-scholarship-2024/",
+      "categories": [
+        "Bachelor, Master, PhD Scholarships"
+      ],
+      "scholarship_history": {
+        "established_year": "",
+        "previous_statistics": {
+          "total_awards": "",
+          "success_rate": "",
+          "demographic_data": []
+        },
+        "alumni_outcomes": []
+      },
+      "contact_information": {
+        "primary_contact": {
+          "department": "",
+          "email": "",
+          "phone": "",
+          "website": "https://www.adb.org/work-with-us/careers/japan-scholarship-program",
+          "office_hours": ""
+        },
+        "regional_offices": [],
+        "social_media": {
+          "facebook": "https://www.facebook.com/opportunitiescorners/",
+          "twitter": "https://twitter.com/corner_oc",
+          "linkedin": "https://www.linkedin.com/company/opcorner/",
+          "youtube": "https://www.youtube.com/c/opportunitiescorners/"
+        }
+      },
+      "resources": {
+        "faq_link": "https://www.adb.org/work-with-us/careers/japan-scholarship-program/faq",
+        "brochures": [],
+        "guidelines": [
+          "https://www.adb.org/work-with-us/careers/japan-scholarship-program/procedures-applying"
+        ],
+        "forms": []
+      },
+      "tags": [
+        "adb-scholarship-2024"
+      ],
+      "success_stories": [],
+      "reviews": [],
+      "additional_notes": []
+    }
+  }
+}

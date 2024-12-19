@@ -1,0 +1,460 @@
+{
+  "scholarship": {
+    "basic_info": {
+      "title": "Azerbaijan Government Scholarship 2024-25 (Fully Funded)",
+      "post_date": "April 20, 2024",
+      "author": "Muhammad Saim Rasheed",
+      "academic_year": "2024-2025",
+      "funding_type": {
+        "type": "Fully Funded",
+        "details": "International Flight Tickets, Accommodation, Full Tuition Fee, Medical Insurance, Monthly Allowance, Visa, and Temporary Residence Permit",
+        "coverage_options": []
+      },
+      "host_countries": [
+        "Azerbaijan"
+      ],
+      "program_name": "Heydar Aliyev",
+      "funded_by": {
+        "primary": "Government of Azerbaijan",
+        "additional": [
+          "Ministry of Foreign Affairs",
+          "Ministry of Science and Education of the Republic of Azerbaijan"
+        ]
+      },
+      "degree_levels": [
+        "Preparatory course",
+        "Undergraduate",
+        "Graduate",
+        "Doctoral",
+        "General medicine/medical residency programs"
+      ],
+      "duration": {
+        "undergraduate": {
+          "years": "4-5",
+          "semesters": "",
+          "details": ""
+        },
+        "masters": {
+          "years": "1.5-2",
+          "semesters": "",
+          "details": ""
+        },
+        "phd": {
+          "years": "3",
+          "semesters": "",
+          "details": ""
+        },
+        "general_info": "Preparatory course: 6 months to 1 year; General Medicine: 5-6 Years; Medical Residency Program: 2-5 Years"
+      },
+      "application_timeline": {
+        "opening_date": "",
+        "closing_date": "20th May 2024",
+        "decision_date": "",
+        "program_start_date": "",
+        "orientation_date": ""
+      },
+      "scholarships_available": {
+        "total": "100",
+        "per_program": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": ""
+        },
+        "per_country": "",
+        "restrictions": []
+      }
+    },
+    "program_details": {
+      "description": "Higher Education Scholarship offered to 100 candidates for 5 years to study at leading universities of Azerbaijan.",
+      "study_locations": [
+        "Azerbaijan"
+      ],
+      "participating_universities": [
+        "ADA University",
+        "Azerbaijan Medical University",
+        "Azerbaijan State Agricultural University",
+        "Azerbaijan State Oil and Industry University",
+        "Azerbaijan State University of Economics",
+        "Azerbaijan University of Architecture and Construction",
+        "Baku Engineering University",
+        "Baku Higher Oil School",
+        "Baku State University",
+        "Nakhchivan State University",
+        "National Aviation Academy"
+      ],
+      "fields_of_study": {
+        "subjects": [],
+        "specializations": [],
+        "research_areas": [],
+        "restrictions": []
+      },
+      "program_structure": {
+        "academic_schedule": {
+          "semester_structure": "",
+          "academic_calendar": "",
+          "holidays": [],
+          "important_dates": []
+        },
+        "teaching_method": {
+          "format": [],
+          "language_of_instruction": "",
+          "online_components": false,
+          "attendance_requirements": ""
+        },
+        "curriculum": {
+          "core_courses": [],
+          "electives": [],
+          "research_requirements": [],
+          "thesis_requirements": "",
+          "internship_requirements": ""
+        },
+        "year_1": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        },
+        "year_2": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        },
+        "year_3": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        },
+        "year_4": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        }
+      },
+      "degree_awarded": {
+        "type": "",
+        "awarding_institution": "",
+        "recognition": [],
+        "accreditation": []
+      }
+    },
+    "benefits": {
+      "financial_coverage": {
+        "tuition": {
+          "coverage_type": "Full",
+          "details": "",
+          "conditions": [],
+          "amount": {
+            "value": "",
+            "currency": "",
+            "frequency": ""
+          }
+        },
+        "monthly_allowance": {
+          "undergraduate": {
+            "amount": "470",
+            "currency": "USD",
+            "details": "for living expenses, accommodation, and educational materials"
+          },
+          "masters": {
+            "amount": "470",
+            "currency": "USD",
+            "details": "for living expenses, accommodation, and educational materials"
+          },
+          "phd": {
+            "amount": "470",
+            "currency": "USD",
+            "details": "for living expenses, accommodation, and educational materials"
+          },
+          "payment_schedule": "",
+          "conditions": []
+        },
+        "research_support": {
+          "amount": "",
+          "coverage": [],
+          "conditions": []
+        },
+        "travel": {
+          "airfare_covered": true,
+          "details": "Roundtrip Airfare Travel tickets will be provided.",
+          "conditions": [],
+          "frequency": "",
+          "class": ""
+        },
+        "other_allowances": [
+          "Medical insurance of 117 USD"
+        ],
+        "additional_support": [
+          "Visa and registration costs"
+        ]
+      },
+      "pre_departure": {
+        "language_training": {
+          "available": false,
+          "duration": "",
+          "provider": "",
+          "cost_coverage": ""
+        },
+        "cultural_orientation": {
+          "available": false,
+          "duration": "",
+          "content": []
+        },
+        "visa_assistance": {
+          "provided": true,
+          "services": [],
+          "cost_coverage": ""
+        },
+        "travel_arrangements": {
+          "provided": false,
+          "services": [],
+          "conditions": []
+        }
+      },
+      "during_program": {
+        "accommodation": {
+          "provided": true,
+          "type": "",
+          "location": "",
+          "conditions": []
+        },
+        "academic_support": {
+          "tutoring": false,
+          "mentoring": false,
+          "research_supervision": false,
+          "language_support": false,
+          "details": []
+        },
+        "healthcare": {
+          "coverage_type": "Medical insurance",
+          "insurance_provider": "",
+          "coverage_details": [],
+          "restrictions": []
+        },
+        "facilities_access": {
+          "library": false,
+          "labs": false,
+          "sports": false,
+          "others": []
+        },
+        "student_services": []
+      },
+      "post_program": {
+        "alumni_network": {
+          "available": false,
+          "benefits": []
+        },
+        "career_services": {
+          "available": false,
+          "services": []
+        },
+        "further_opportunities": []
+      }
+    },
+    "eligibility": {
+      "nationality": {
+        "type": "International",
+        "eligible_nationalities": [],
+        "excluded_nationalities": [
+          "Citizens of Azerbaijan"
+        ],
+        "conditions": [],
+        "dual_citizenship_policy": ""
+      },
+      "academic": {
+        "minimum_degree_required": "",
+        "accepted_degrees": [],
+        "minimum_gpa": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": "",
+          "scale": ""
+        },
+        "final_year_allowed": false,
+        "specific_backgrounds": [],
+        "academic_requirements": [],
+        "required_courses": [],
+        "prerequisites": []
+      },
+      "language": {
+        "english": {
+          "required": false,
+          "minimum_score": {
+            "ielts": "",
+            "toefl": "",
+            "other": []
+          },
+          "waiver_conditions": [
+            "Proof of previous education in English Medium"
+          ],
+          "test_validity_period": ""
+        },
+        "other_languages": []
+      },
+      "experience": {
+        "required": false,
+        "minimum_years": "",
+        "type": [],
+        "specific_fields": [],
+        "details": "",
+        "proof_required": []
+      },
+      "age": {
+        "minimum": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": ""
+        },
+        "maximum": {
+          "undergraduate": "35",
+          "masters": "40",
+          "phd": "45"
+        },
+        "exceptions": [],
+        "calculation_date": ""
+      },
+      "research_requirements": {
+        "proposal_required": false,
+        "proposal_guidelines": "",
+        "research_areas": [],
+        "supervisor_requirement": false,
+        "prior_publications": false
+      },
+      "health_requirements": {
+        "medical_certificate": true,
+        "vaccinations": [],
+        "health_insurance": true,
+        "specific_conditions": [
+          "HIV/AIDS, Hepatitis B/C tests"
+        ]
+      },
+      "return_obligations": {
+        "required": false,
+        "details": "",
+        "bond_period": "",
+        "conditions": []
+      },
+      "special_conditions": {
+        "employment_status": [],
+        "institutional_nominations": true,
+        "quotas": {
+          "gender": false,
+          "region": false,
+          "field_of_study": false,
+          "details": []
+        },
+        "other_restrictions": []
+      }
+    },
+    "application": {
+      "submission_method": {
+        "online": true,
+        "paper": false,
+        "platform": "Study in Azerbaijan Centralized Admission Service (SIACAS) website (portal.edu.az)",
+        "instructions": "Applicants must first be nominated by their respective entities/government authorities before applying through the SIACAS website."
+      },
+      "required_documents": {
+        "general": [
+          "Completed Nomination Form",
+          "All previous transcripts, degrees, diplomas, school certificates",
+          "Copy of the medical certificate (including HIV/AIDS, Hepatitis B/C tests)",
+          "Copy of Valid Passport",
+          "CV or Resume",
+          "English Language Proficiency Proof",
+          "Motivation Letter",
+          "Achievements and awards"
+        ],
+        "program_specific": {
+          "undergraduate": [],
+          "masters": [],
+          "phd": []
+        },
+        "special_requirements": []
+      },
+      "document_requirements": {
+        "authentication": [],
+        "translation": {
+          "required": false,
+          "accepted_languages": [],
+          "certified_translation": false,
+          "exceptions": []
+        },
+        "format": {
+          "file_types": [],
+          "size_limits": "",
+          "naming_convention": "",
+          "special_instructions": []
+        }
+      },
+      "selection_process": {
+        "stages": [
+          "Nomination by respective authorities",
+          "Application through SIACAS website"
+        ],
+        "timeline": "",
+        "interview": {
+          "required": false,
+          "format": "",
+          "duration": "",
+          "components": [],
+          "preparation_guidelines": []
+        },
+        "evaluation_criteria": [],
+        "notification_process": ""
+      },
+      "application_process": [
+        "Wait for the call for applications announced by respective entities/government authorities",
+        "Apply and submit documents to the respective authorities",
+        "Nomination by respective authorities",
+        "Apply through the Study in Azerbaijan Centralized Admission Service (SIACAS) website (portal.edu.az)"
+      ],
+      "application_link": "portal.edu.az",
+      "additional_instructions": []
+    },
+    "metadata": {
+      "scholarship_id": "",
+      "last_updated": "",
+      "shares_count": "",
+      "related_programs": [],
+      "source_url": "https://opportunitiescorners.com/azerbaijan-government-scholarship/",
+      "categories": [
+        "Bachelor, Master, PhD Scholarships"
+      ],
+      "scholarship_history": {
+        "established_year": "",
+        "previous_statistics": {
+          "total_awards": "",
+          "success_rate": "",
+          "demographic_data": []
+        },
+        "alumni_outcomes": []
+      },
+      "contact_information": {
+        "primary_contact": {
+          "department": "",
+          "email": "",
+          "phone": "",
+          "website": "",
+          "office_hours": ""
+        },
+        "regional_offices": [],
+        "social_media": {
+          "facebook": "",
+          "twitter": "",
+          "linkedin": "",
+          "youtube": ""
+        }
+      },
+      "resources": {
+        "faq_link": "",
+        "brochures": [],
+        "guidelines": [],
+        "forms": [
+          "Nomination form"
+        ]
+      },
+      "tags": [],
+      "success_stories": [],
+      "reviews": [],
+      "additional_notes": []
+    }
+  }
+}

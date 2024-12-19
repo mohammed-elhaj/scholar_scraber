@@ -1,0 +1,487 @@
+{
+  "scholarship": {
+    "basic_info": {
+      "title": "Mandela Washington Fellowship 2025 in USA for YALI (Fully Funded)",
+      "post_date": "August 15, 2024",
+      "author": "Muhammad Saim Rasheed",
+      "academic_year": "2025",
+      "funding_type": {
+        "type": "Fully Funded",
+        "details": "U.S. Government will cover all program costs",
+        "coverage_options": []
+      },
+      "host_countries": [
+        "USA"
+      ],
+      "program_name": "Mandela Washington Fellowship",
+      "funded_by": {
+        "primary": "U.S Department of State",
+        "additional": []
+      },
+      "degree_levels": [],
+      "duration": {
+        "undergraduate": {
+          "years": "",
+          "semesters": "",
+          "details": ""
+        },
+        "masters": {
+          "years": "",
+          "semesters": "",
+          "details": ""
+        },
+        "phd": {
+          "years": "",
+          "semesters": "",
+          "details": ""
+        },
+        "general_info": "six-week"
+      },
+      "application_timeline": {
+        "opening_date": "",
+        "closing_date": "September 10, 2024",
+        "decision_date": "March 2025",
+        "program_start_date": "June 2025",
+        "orientation_date": "May 2025"
+      },
+      "scholarships_available": {
+        "total": "700",
+        "per_program": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": ""
+        },
+        "per_country": "",
+        "restrictions": []
+      }
+    },
+    "program_details": {
+      "description": "The Mandela Washington Fellowship for YALI is the U.S. Government’s Flagship program that will bring up to 700 young leaders to the United States in the summer of 2025. It is a fully funded six-week exchange program to empower young leaders through academic coursework, training, and professional networking.",
+      "study_locations": [
+        "USA"
+      ],
+      "participating_universities": [],
+      "fields_of_study": {
+        "subjects": [
+          "Business",
+          "Civic Engagement",
+          "Public Management"
+        ],
+        "specializations": [],
+        "research_areas": [],
+        "restrictions": []
+      },
+      "program_structure": {
+        "academic_schedule": {
+          "semester_structure": "",
+          "academic_calendar": "",
+          "holidays": [],
+          "important_dates": []
+        },
+        "teaching_method": {
+          "format": [],
+          "language_of_instruction": "English",
+          "online_components": false,
+          "attendance_requirements": ""
+        },
+        "curriculum": {
+          "core_courses": [],
+          "electives": [],
+          "research_requirements": [],
+          "thesis_requirements": "",
+          "internship_requirements": ""
+        },
+        "year_1": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        },
+        "year_2": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        },
+        "year_3": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        },
+        "year_4": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        }
+      },
+      "degree_awarded": {
+        "type": "",
+        "awarding_institution": "",
+        "recognition": [],
+        "accreditation": []
+      }
+    },
+    "benefits": {
+      "financial_coverage": {
+        "tuition": {
+          "coverage_type": "Full",
+          "details": "U.S. Government will cover all program costs",
+          "conditions": [],
+          "amount": {
+            "value": "",
+            "currency": "",
+            "frequency": ""
+          }
+        },
+        "monthly_allowance": {
+          "undergraduate": {
+            "amount": "",
+            "currency": "",
+            "details": ""
+          },
+          "masters": {
+            "amount": "",
+            "currency": "",
+            "details": ""
+          },
+          "phd": {
+            "amount": "",
+            "currency": "",
+            "details": ""
+          },
+          "payment_schedule": "",
+          "conditions": []
+        },
+        "research_support": {
+          "amount": "",
+          "coverage": [],
+          "conditions": []
+        },
+        "travel": {
+          "airfare_covered": true,
+          "details": "Round-trip travel from Fellow’s home city to the United States and Domestic Transport",
+          "conditions": [],
+          "frequency": "",
+          "class": ""
+        },
+        "other_allowances": [],
+        "additional_support": []
+      },
+      "pre_departure": {
+        "language_training": {
+          "available": false,
+          "duration": "",
+          "provider": "",
+          "cost_coverage": ""
+        },
+        "cultural_orientation": {
+          "available": false,
+          "duration": "",
+          "content": []
+        },
+        "visa_assistance": {
+          "provided": true,
+          "services": [
+            "J-1 visa support"
+          ],
+          "cost_coverage": ""
+        },
+        "travel_arrangements": {
+          "provided": false,
+          "services": [],
+          "conditions": []
+        }
+      },
+      "during_program": {
+        "accommodation": {
+          "provided": true,
+          "type": "",
+          "location": "",
+          "conditions": []
+        },
+        "academic_support": {
+          "tutoring": false,
+          "mentoring": false,
+          "research_supervision": false,
+          "language_support": false,
+          "details": []
+        },
+        "healthcare": {
+          "coverage_type": "limited accident and sickness benefit plan",
+          "insurance_provider": "",
+          "coverage_details": [],
+          "restrictions": []
+        },
+        "facilities_access": {
+          "library": false,
+          "labs": false,
+          "sports": false,
+          "others": []
+        },
+        "student_services": []
+      },
+      "post_program": {
+        "alumni_network": {
+          "available": true,
+          "benefits": [
+            "networking opportunities",
+            "ongoing professional development",
+            "volunteer opportunities"
+          ]
+        },
+        "career_services": {
+          "available": false,
+          "services": []
+        },
+        "further_opportunities": []
+      }
+    },
+    "eligibility": {
+      "nationality": {
+        "type": "Specific Countries",
+        "eligible_nationalities": [
+          "Angola",
+          "Benin",
+          "Botswana",
+          "Burkina Faso",
+          "Burundi",
+          "Cameroon",
+          "Cabo Verde",
+          "Central African Republic",
+          "Chad",
+          "Comoros",
+          "Democratic Republic of the Congo (DRC)",
+          "Republic of the Congo",
+          "Cote d’Ivoire",
+          "Djibouti",
+          "Equatorial Guinea",
+          "Eritrea",
+          "Eswatini",
+          "Ethiopia",
+          "Gabon",
+          "The Gambia",
+          "Ghana",
+          "Guinea",
+          "Guinea-Bissau",
+          "Kenya",
+          "Lesotho",
+          "Liberia",
+          "Madagascar",
+          "Malawi",
+          "Mali",
+          "Mauritania",
+          "Mauritius",
+          "Mozambique",
+          "Namibia",
+          "Niger",
+          "Nigeria",
+          "Rwanda",
+          "Sao Tome and Principe",
+          "Senegal",
+          "Seychelles",
+          "Sierra Leone",
+          "Somalia",
+          "South Africa",
+          "South Sudan",
+          "Sudan",
+          "Tanzania",
+          "Togo",
+          "Uganda",
+          "Zambia",
+          "Zimbabwe"
+        ],
+        "excluded_nationalities": [
+          "U.S. citizens",
+          "permanent residents of the United States"
+        ],
+        "conditions": [],
+        "dual_citizenship_policy": ""
+      },
+      "academic": {
+        "minimum_degree_required": "",
+        "accepted_degrees": [],
+        "minimum_gpa": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": "",
+          "scale": ""
+        },
+        "final_year_allowed": false,
+        "specific_backgrounds": [],
+        "academic_requirements": [],
+        "required_courses": [],
+        "prerequisites": []
+      },
+      "language": {
+        "english": {
+          "required": true,
+          "minimum_score": {
+            "ielts": "",
+            "toefl": "",
+            "other": []
+          },
+          "waiver_conditions": [],
+          "test_validity_period": ""
+        },
+        "other_languages": []
+      },
+      "experience": {
+        "required": false,
+        "minimum_years": "",
+        "type": [],
+        "specific_fields": [],
+        "details": "",
+        "proof_required": []
+      },
+      "age": {
+        "minimum": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": ""
+        },
+        "maximum": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": ""
+        },
+        "exceptions": [
+          "applicants ages 21-24 may be considered"
+        ],
+        "calculation_date": "application deadline"
+      },
+      "research_requirements": {
+        "proposal_required": false,
+        "proposal_guidelines": "",
+        "research_areas": [],
+        "supervisor_requirement": false,
+        "prior_publications": false
+      },
+      "health_requirements": {
+        "medical_certificate": false,
+        "vaccinations": [],
+        "health_insurance": true,
+        "specific_conditions": []
+      },
+      "return_obligations": {
+        "required": false,
+        "details": "",
+        "bond_period": "",
+        "conditions": []
+      },
+      "special_conditions": {
+        "employment_status": [],
+        "institutional_nominations": false,
+        "quotas": {
+          "gender": false,
+          "region": false,
+          "field_of_study": false,
+          "details": []
+        },
+        "other_restrictions": []
+      }
+    },
+    "application": {
+      "submission_method": {
+        "online": true,
+        "paper": false,
+        "platform": "https://www.mandelawashingtonfellowship.org/apply/",
+        "instructions": "Start your application, save it, and come back later. Do not copy and don’t share your answers with anyone. Be original and answer all questions in English."
+      },
+      "required_documents": {
+        "general": [],
+        "program_specific": {
+          "undergraduate": [],
+          "masters": [],
+          "phd": []
+        },
+        "special_requirements": []
+      },
+      "document_requirements": {
+        "authentication": [],
+        "translation": {
+          "required": false,
+          "accepted_languages": [],
+          "certified_translation": false,
+          "exceptions": []
+        },
+        "format": {
+          "file_types": [],
+          "size_limits": "",
+          "naming_convention": "",
+          "special_instructions": []
+        }
+      },
+      "selection_process": {
+        "stages": [
+          "Semi-finalists interviewed by local U.S. embassies and consulates"
+        ],
+        "timeline": "November 2024 – January 2025",
+        "interview": {
+          "required": true,
+          "format": "",
+          "duration": "",
+          "components": [],
+          "preparation_guidelines": []
+        },
+        "evaluation_criteria": [
+          "Has done great things in business, community work, or government.",
+          "Cares about helping others and has done volunteer work.",
+          "Can work well with different kinds of people.",
+          "Good Communication skills.",
+          "Has a positive attitude.",
+          "Knows about the work you want to do and has a plan for using what you learn.",
+          "Wants to go back to Africa and help the community."
+        ],
+        "notification_process": "Applicants notified of their status in March 2025"
+      },
+      "application_process": [],
+      "application_link": "https://www.mandelawashingtonfellowship.org/apply/",
+      "additional_instructions": []
+    },
+    "metadata": {
+      "scholarship_id": "",
+      "last_updated": "",
+      "shares_count": "",
+      "related_programs": [],
+      "source_url": "https://opportunitiescorners.com/mandela-washington-fellowship/",
+      "categories": [
+        "Fellowships"
+      ],
+      "scholarship_history": {
+        "established_year": "",
+        "previous_statistics": {
+          "total_awards": "",
+          "success_rate": "",
+          "demographic_data": []
+        },
+        "alumni_outcomes": []
+      },
+      "contact_information": {
+        "primary_contact": {
+          "department": "",
+          "email": "",
+          "phone": "",
+          "website": "https://www.mandelawashingtonfellowship.org/",
+          "office_hours": ""
+        },
+        "regional_offices": [],
+        "social_media": {
+          "facebook": "",
+          "twitter": "",
+          "linkedin": "",
+          "youtube": ""
+        }
+      },
+      "resources": {
+        "faq_link": "",
+        "brochures": [],
+        "guidelines": [
+          "https://www.mandelawashingtonfellowship.org/preparing-strong-application/"
+        ],
+        "forms": []
+      },
+      "tags": [],
+      "success_stories": [],
+      "reviews": [],
+      "additional_notes": []
+    }
+  }
+}

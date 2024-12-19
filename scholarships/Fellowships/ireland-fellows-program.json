@@ -1,0 +1,516 @@
+{
+  "scholarship": {
+    "basic_info": {
+      "title": "Ireland Fellows Program 2025-2026 (Fully Funded Scholarship)",
+      "post_date": "July 10, 2024",
+      "author": "Muhammad Saim Rasheed",
+      "academic_year": "2025-2026",
+      "funding_type": {
+        "type": "Fully Funded",
+        "details": "Covers tuition fees, flights, meals, accommodation, and living costs.",
+        "coverage_options": []
+      },
+      "host_countries": [
+        "Ireland"
+      ],
+      "program_name": "Ireland Fellows Program",
+      "funded_by": {
+        "primary": "Government of Ireland",
+        "additional": []
+      },
+      "degree_levels": [
+        "Masters"
+      ],
+      "duration": {
+        "undergraduate": {
+          "years": "",
+          "semesters": "",
+          "details": ""
+        },
+        "masters": {
+          "years": "1",
+          "semesters": "",
+          "details": "10 to 16 months"
+        },
+        "phd": {
+          "years": "",
+          "semesters": "",
+          "details": ""
+        },
+        "general_info": "10 to 16 months"
+      },
+      "application_timeline": {
+        "opening_date": "",
+        "closing_date": "",
+        "decision_date": "",
+        "program_start_date": "August or September",
+        "orientation_date": ""
+      },
+      "scholarships_available": {
+        "total": "",
+        "per_program": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": ""
+        },
+        "per_country": "",
+        "restrictions": []
+      }
+    },
+    "program_details": {
+      "description": "The Ireland Fellows Program offers a fully funded one-year Master’s degree scholarship to selected students to study at a higher education institution (HEI) in Ireland.",
+      "study_locations": [
+        "Ireland"
+      ],
+      "participating_universities": [],
+      "fields_of_study": {
+        "subjects": [
+          "Agriculture",
+          "Health",
+          "Education",
+          "Human Rights",
+          "Computer Science",
+          "Engineering",
+          "Business"
+        ],
+        "specializations": [],
+        "research_areas": [],
+        "restrictions": []
+      },
+      "program_structure": {
+        "academic_schedule": {
+          "semester_structure": "",
+          "academic_calendar": "",
+          "holidays": [],
+          "important_dates": []
+        },
+        "teaching_method": {
+          "format": [],
+          "language_of_instruction": "",
+          "online_components": false,
+          "attendance_requirements": ""
+        },
+        "curriculum": {
+          "core_courses": [],
+          "electives": [],
+          "research_requirements": [],
+          "thesis_requirements": "",
+          "internship_requirements": ""
+        },
+        "year_1": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        },
+        "year_2": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        },
+        "year_3": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        },
+        "year_4": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        }
+      },
+      "degree_awarded": {
+        "type": "Master's Degree",
+        "awarding_institution": "",
+        "recognition": [],
+        "accreditation": []
+      }
+    },
+    "benefits": {
+      "financial_coverage": {
+        "tuition": {
+          "coverage_type": "Full",
+          "details": "",
+          "conditions": [],
+          "amount": {
+            "value": "",
+            "currency": "",
+            "frequency": ""
+          }
+        },
+        "monthly_allowance": {
+          "undergraduate": {
+            "amount": "",
+            "currency": "",
+            "details": ""
+          },
+          "masters": {
+            "amount": "",
+            "currency": "",
+            "details": "Monthly Stipend"
+          },
+          "phd": {
+            "amount": "",
+            "currency": "",
+            "details": ""
+          },
+          "payment_schedule": "",
+          "conditions": []
+        },
+        "research_support": {
+          "amount": "",
+          "coverage": [],
+          "conditions": []
+        },
+        "travel": {
+          "airfare_covered": true,
+          "details": "Flights covered",
+          "conditions": [],
+          "frequency": "",
+          "class": ""
+        },
+        "other_allowances": [],
+        "additional_support": []
+      },
+      "pre_departure": {
+        "language_training": {
+          "available": false,
+          "duration": "",
+          "provider": "",
+          "cost_coverage": ""
+        },
+        "cultural_orientation": {
+          "available": false,
+          "duration": "",
+          "content": []
+        },
+        "visa_assistance": {
+          "provided": false,
+          "services": [],
+          "cost_coverage": ""
+        },
+        "travel_arrangements": {
+          "provided": false,
+          "services": [],
+          "conditions": []
+        }
+      },
+      "during_program": {
+        "accommodation": {
+          "provided": true,
+          "type": "",
+          "location": "",
+          "conditions": []
+        },
+        "academic_support": {
+          "tutoring": false,
+          "mentoring": false,
+          "research_supervision": false,
+          "language_support": false,
+          "details": []
+        },
+        "healthcare": {
+          "coverage_type": "",
+          "insurance_provider": "",
+          "coverage_details": [],
+          "restrictions": []
+        },
+        "facilities_access": {
+          "library": false,
+          "labs": false,
+          "sports": false,
+          "others": []
+        },
+        "student_services": []
+      },
+      "post_program": {
+        "alumni_network": {
+          "available": false,
+          "benefits": []
+        },
+        "career_services": {
+          "available": false,
+          "services": []
+        },
+        "further_opportunities": []
+      }
+    },
+    "eligibility": {
+      "nationality": {
+        "type": "",
+        "eligible_nationalities": [
+          "Cambodia",
+          "Laos",
+          "Vietnam",
+          "Argentina",
+          "Belize",
+          "Bolivia",
+          "Brazil",
+          "Colombia",
+          "Costa Rica",
+          "Ecuador",
+          "El Salvador",
+          "Guatemala",
+          "Honduras",
+          "Paraguay",
+          "Peru",
+          "Venezuela",
+          "Antigua and Barbuda",
+          "Bahamas",
+          "Barbados",
+          "Cabo Verde",
+          "Comoros",
+          "Cook Islands",
+          "Cuba",
+          "Dominica",
+          "Dominican Republic",
+          "Fiji",
+          "Grenada",
+          "Guinea-Bissau",
+          "Guyana",
+          "Haiti",
+          "Jamaica",
+          "Kiribati",
+          "Maldives",
+          "Marshall Islands",
+          "Mauritius",
+          "Micronesia (Federated States of)",
+          "Nauru",
+          "Niue",
+          "Palau",
+          "Papua New Guinea",
+          "Saint Kitts and Nevis",
+          "Saint Lucia",
+          "Samoa",
+          "São Tomé and Príncipe",
+          "Seychelles",
+          "Solomon Islands",
+          "St Vincent and the Grenadines",
+          "Suriname",
+          "Timor-Leste",
+          "Tonga",
+          "Trinidad and Tobago",
+          "Tuvalu",
+          "Vanuatu",
+          "Angola",
+          "Burundi",
+          "Democratic Republic of the Congo",
+          "Djibouti",
+          "Eritrea",
+          "Eswatini",
+          "Ethiopia",
+          "Ghana",
+          "Kenya",
+          "Lesotho",
+          "Liberia",
+          "Malawi",
+          "Mozambique",
+          "Nigeria",
+          "Rwanda",
+          "Senegal",
+          "Sierra Leone",
+          "Somalia",
+          "South Sudan",
+          "Sudan",
+          "Tanzania",
+          "Uganda",
+          "Zambia",
+          "Zimbabwe",
+          "South Africa"
+        ],
+        "excluded_nationalities": [],
+        "conditions": [],
+        "dual_citizenship_policy": ""
+      },
+      "academic": {
+        "minimum_degree_required": "Bachelor's Degree",
+        "accepted_degrees": [],
+        "minimum_gpa": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": "",
+          "scale": ""
+        },
+        "final_year_allowed": false,
+        "specific_backgrounds": [],
+        "academic_requirements": [],
+        "required_courses": [],
+        "prerequisites": []
+      },
+      "language": {
+        "english": {
+          "required": true,
+          "minimum_score": {
+            "ielts": "",
+            "toefl": "",
+            "other": []
+          },
+          "waiver_conditions": [],
+          "test_validity_period": ""
+        },
+        "other_languages": [
+          {
+            "language": "",
+            "required": false,
+            "minimum_level": "",
+            "details": "",
+            "waiver_conditions": [],
+            "test_requirements": []
+          }
+        ]
+      },
+      "experience": {
+        "required": false,
+        "minimum_years": "",
+        "type": [],
+        "specific_fields": [],
+        "details": "",
+        "proof_required": []
+      },
+      "age": {
+        "minimum": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": ""
+        },
+        "maximum": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": ""
+        },
+        "exceptions": [],
+        "calculation_date": ""
+      },
+      "research_requirements": {
+        "proposal_required": false,
+        "proposal_guidelines": "",
+        "research_areas": [],
+        "supervisor_requirement": false,
+        "prior_publications": false
+      },
+      "health_requirements": {
+        "medical_certificate": false,
+        "vaccinations": [],
+        "health_insurance": false,
+        "specific_conditions": []
+      },
+      "return_obligations": {
+        "required": false,
+        "details": "",
+        "bond_period": "",
+        "conditions": []
+      },
+      "special_conditions": {
+        "employment_status": [],
+        "institutional_nominations": false,
+        "quotas": {
+          "gender": true,
+          "region": false,
+          "field_of_study": false,
+          "details": []
+        },
+        "other_restrictions": []
+      }
+    },
+    "application": {
+      "submission_method": {
+        "online": true,
+        "paper": false,
+        "platform": "Official Website",
+        "instructions": "Read the application requirements set for each country."
+      },
+      "required_documents": {
+        "general": [
+          "One recent passport-sized photograph",
+          "Copy of graduation certificate",
+          "Copy of academic transcripts",
+          "Two recommendation letters",
+          "Copy of identity page of the passport",
+          "IELTS score report",
+          "CV"
+        ],
+        "program_specific": {
+          "undergraduate": [],
+          "masters": [],
+          "phd": []
+        },
+        "special_requirements": []
+      },
+      "document_requirements": {
+        "authentication": [],
+        "translation": {
+          "required": false,
+          "accepted_languages": [],
+          "certified_translation": false,
+          "exceptions": []
+        },
+        "format": {
+          "file_types": [],
+          "size_limits": "",
+          "naming_convention": "",
+          "special_instructions": []
+        }
+      },
+      "selection_process": {
+        "stages": [],
+        "timeline": "",
+        "interview": {
+          "required": false,
+          "format": "",
+          "duration": "",
+          "components": [],
+          "preparation_guidelines": []
+        },
+        "evaluation_criteria": [],
+        "notification_process": ""
+      },
+      "application_process": [],
+      "application_link": "https://www.irishaidfellowships.ie/strands/ireland-fellows-programme-africa,https://www.irishaidfellowships.ie/strands/ireland-sids-fellows-programme,https://www.irishaidfellowships.ie/strands/ireland-fellows-programme-latin-america,https://www.irishaidfellowships.ie/strands/ireland-fellows-programme-asia,https://www.irishaidfellowships.ie/strands/kader-asmal-fellowship",
+      "additional_instructions": []
+    },
+    "metadata": {
+      "scholarship_id": "",
+      "last_updated": "",
+      "shares_count": "",
+      "related_programs": [],
+      "source_url": "https://opportunitiescorners.com/ireland-fellows-program/",
+      "categories": [
+        "Fellowships"
+      ],
+      "scholarship_history": {
+        "established_year": "",
+        "previous_statistics": {
+          "total_awards": "",
+          "success_rate": "",
+          "demographic_data": []
+        },
+        "alumni_outcomes": []
+      },
+      "contact_information": {
+        "primary_contact": {
+          "department": "",
+          "email": "",
+          "phone": "",
+          "website": "",
+          "office_hours": ""
+        },
+        "regional_offices": [],
+        "social_media": {
+          "facebook": "",
+          "twitter": "",
+          "linkedin": "",
+          "youtube": ""
+        }
+      },
+      "resources": {
+        "faq_link": "",
+        "brochures": [],
+        "guidelines": [],
+        "forms": []
+      },
+      "tags": [],
+      "success_stories": [],
+      "reviews": [],
+      "additional_notes": []
+    }
+  }
+}

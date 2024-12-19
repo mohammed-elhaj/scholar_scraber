@@ -1,0 +1,511 @@
+{
+  "scholarship": {
+    "basic_info": {
+      "title": "World Energy Congress 2024 in Netherlands (Fully Funded)",
+      "post_date": "January 11, 2024",
+      "author": "Muhammad Saim Rasheed",
+      "academic_year": "",
+      "funding_type": {
+        "type": "Fully funded",
+        "details": "accommodation, travel support, delegate pass",
+        "coverage_options": []
+      },
+      "host_countries": [
+        "Netherlands"
+      ],
+      "program_name": "World Energy Congress 2024",
+      "funded_by": {
+        "primary": "World Energy Council",
+        "additional": []
+      },
+      "degree_levels": [],
+      "duration": {
+        "undergraduate": {
+          "years": "",
+          "semesters": "",
+          "details": ""
+        },
+        "masters": {
+          "years": "",
+          "semesters": "",
+          "details": ""
+        },
+        "phd": {
+          "years": "",
+          "semesters": "",
+          "details": ""
+        },
+        "general_info": "22-25 April 2024"
+      },
+      "application_timeline": {
+        "opening_date": "",
+        "closing_date": "15th January 2024",
+        "decision_date": "",
+        "program_start_date": "22 April 2024",
+        "orientation_date": ""
+      },
+      "scholarships_available": {
+        "total": "250",
+        "per_program": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": ""
+        },
+        "per_country": "",
+        "restrictions": []
+      }
+    },
+    "program_details": {
+      "description": "The conference will bring 250 delegates from developing countries with a financial package of accommodation, and travel support, as well as a delegate pass to the conference.",
+      "study_locations": [
+        "Rotterdam, Netherlands"
+      ],
+      "participating_universities": [],
+      "fields_of_study": {
+        "subjects": [
+          "Energy"
+        ],
+        "specializations": [],
+        "research_areas": [],
+        "restrictions": []
+      },
+      "program_structure": {
+        "academic_schedule": {
+          "semester_structure": "",
+          "academic_calendar": "",
+          "holidays": [],
+          "important_dates": []
+        },
+        "teaching_method": {
+          "format": [],
+          "language_of_instruction": "",
+          "online_components": false,
+          "attendance_requirements": ""
+        },
+        "curriculum": {
+          "core_courses": [],
+          "electives": [],
+          "research_requirements": [],
+          "thesis_requirements": "",
+          "internship_requirements": ""
+        },
+        "year_1": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        },
+        "year_2": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        },
+        "year_3": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        },
+        "year_4": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        }
+      },
+      "degree_awarded": {
+        "type": "",
+        "awarding_institution": "",
+        "recognition": [],
+        "accreditation": []
+      }
+    },
+    "benefits": {
+      "financial_coverage": {
+        "tuition": {
+          "coverage_type": "Delegate pass",
+          "details": "worth up to €4,000",
+          "conditions": [],
+          "amount": {
+            "value": "4000",
+            "currency": "EUR",
+            "frequency": "one-time"
+          }
+        },
+        "monthly_allowance": {
+          "undergraduate": {
+            "amount": "",
+            "currency": "",
+            "details": ""
+          },
+          "masters": {
+            "amount": "",
+            "currency": "",
+            "details": ""
+          },
+          "phd": {
+            "amount": "",
+            "currency": "",
+            "details": ""
+          },
+          "payment_schedule": "",
+          "conditions": []
+        },
+        "research_support": {
+          "amount": "",
+          "coverage": [],
+          "conditions": []
+        },
+        "travel": {
+          "airfare_covered": false,
+          "details": "Partial compensation of up to €750 for flights, visa, etc.",
+          "conditions": [],
+          "frequency": "",
+          "class": ""
+        },
+        "other_allowances": [
+          "Lunches and coffee breaks"
+        ],
+        "additional_support": []
+      },
+      "pre_departure": {
+        "language_training": {
+          "available": false,
+          "duration": "",
+          "provider": "",
+          "cost_coverage": ""
+        },
+        "cultural_orientation": {
+          "available": false,
+          "duration": "",
+          "content": []
+        },
+        "visa_assistance": {
+          "provided": false,
+          "services": [],
+          "cost_coverage": ""
+        },
+        "travel_arrangements": {
+          "provided": false,
+          "services": [],
+          "conditions": []
+        }
+      },
+      "during_program": {
+        "accommodation": {
+          "provided": true,
+          "type": "hotel",
+          "location": "",
+          "conditions": [
+            "up to 5 nights"
+          ]
+        },
+        "academic_support": {
+          "tutoring": false,
+          "mentoring": false,
+          "research_supervision": false,
+          "language_support": false,
+          "details": []
+        },
+        "healthcare": {
+          "coverage_type": "",
+          "insurance_provider": "",
+          "coverage_details": [],
+          "restrictions": []
+        },
+        "facilities_access": {
+          "library": false,
+          "labs": false,
+          "sports": false,
+          "others": []
+        },
+        "student_services": []
+      },
+      "post_program": {
+        "alumni_network": {
+          "available": false,
+          "benefits": []
+        },
+        "career_services": {
+          "available": false,
+          "services": []
+        },
+        "further_opportunities": []
+      }
+    },
+    "eligibility": {
+      "nationality": {
+        "type": "Developing Countries",
+        "eligible_nationalities": [
+          "Afghanistan",
+          "Algeria",
+          "Angola",
+          "Bangladesh",
+          "Benin",
+          "Bhutan",
+          "Bolivia",
+          "Burkina Faso",
+          "Burundi",
+          "Cabo Verde",
+          "Cambodia",
+          "Cameroon",
+          "Central African Republic",
+          "Chad",
+          "Comoros",
+          "Congo (Dem. Rep.)",
+          "Congo (Rep.)",
+          "Côte d’Ivoire",
+          "Djibouti",
+          "Egypt (Arab Rep.)",
+          "El Salvador",
+          "Eritrea",
+          "Eswatini",
+          "Ethiopia",
+          "Gambia",
+          "Ghana",
+          "Guinea",
+          "Guinea-Bissau",
+          "Haiti",
+          "Honduras",
+          "India",
+          "Indonesia",
+          "Kenya",
+          "Kiribati",
+          "Kyrgyz Republic",
+          "Lao PDR",
+          "Lebanon",
+          "Lesotho",
+          "Liberia",
+          "Madagascar",
+          "Malawi",
+          "Mali",
+          "Mauritania",
+          "Micronesia, Fed. Sts.",
+          "Mongolia",
+          "Morocco",
+          "Mozambique",
+          "Myanmar",
+          "Nepal",
+          "Nicaragua",
+          "Niger",
+          "Nigeria",
+          "Pakistan",
+          "Palestine",
+          "Papua New Guinea",
+          "Philippines",
+          "Rwanda",
+          "Samoa",
+          "São Tomé and Principe",
+          "Senegal",
+          "Sierra Leone",
+          "Somalia",
+          "Solomon Islands",
+          "South Sudan",
+          "Sri Lanka",
+          "Sudan",
+          "Syrian Arab Republic",
+          "Tajikistan",
+          "Tanzania",
+          "Timor-Leste",
+          "Togo",
+          "Tunisia",
+          "Uganda",
+          "Ukraine",
+          "Uzbekistan",
+          "Vanuatu",
+          "Vietnam",
+          "Yemen",
+          "Zambia",
+          "Zimbabwe"
+        ],
+        "excluded_nationalities": [],
+        "conditions": [],
+        "dual_citizenship_policy": ""
+      },
+      "academic": {
+        "minimum_degree_required": "",
+        "accepted_degrees": [],
+        "minimum_gpa": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": "",
+          "scale": ""
+        },
+        "final_year_allowed": false,
+        "specific_backgrounds": [],
+        "academic_requirements": [],
+        "required_courses": [],
+        "prerequisites": []
+      },
+      "language": {
+        "english": {
+          "required": false,
+          "minimum_score": {
+            "ielts": "",
+            "toefl": "",
+            "other": []
+          },
+          "waiver_conditions": [],
+          "test_validity_period": ""
+        },
+        "other_languages": []
+      },
+      "experience": {
+        "required": false,
+        "minimum_years": "",
+        "type": [],
+        "specific_fields": [],
+        "details": "",
+        "proof_required": []
+      },
+      "age": {
+        "minimum": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": ""
+        },
+        "maximum": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": ""
+        },
+        "exceptions": [],
+        "calculation_date": ""
+      },
+      "research_requirements": {
+        "proposal_required": false,
+        "proposal_guidelines": "",
+        "research_areas": [],
+        "supervisor_requirement": false,
+        "prior_publications": false
+      },
+      "health_requirements": {
+        "medical_certificate": false,
+        "vaccinations": [],
+        "health_insurance": false,
+        "specific_conditions": []
+      },
+      "return_obligations": {
+        "required": false,
+        "details": "",
+        "bond_period": "",
+        "conditions": []
+      },
+      "special_conditions": {
+        "employment_status": [],
+        "institutional_nominations": false,
+        "quotas": {
+          "gender": false,
+          "region": false,
+          "field_of_study": false,
+          "details": []
+        },
+        "other_restrictions": []
+      }
+    },
+    "application": {
+      "submission_method": {
+        "online": true,
+        "paper": false,
+        "platform": "",
+        "instructions": ""
+      },
+      "required_documents": {
+        "general": [
+          "copy of passport",
+          "proof of residency or occupational status"
+        ],
+        "program_specific": {
+          "undergraduate": [],
+          "masters": [],
+          "phd": []
+        },
+        "special_requirements": []
+      },
+      "document_requirements": {
+        "authentication": [],
+        "translation": {
+          "required": false,
+          "accepted_languages": [],
+          "certified_translation": false,
+          "exceptions": []
+        },
+        "format": {
+          "file_types": [],
+          "size_limits": "",
+          "naming_convention": "",
+          "special_instructions": []
+        }
+      },
+      "selection_process": {
+        "stages": [
+          "Application",
+          "Acceptance",
+          "Registration",
+          "Travel arrangements"
+        ],
+        "timeline": "",
+        "interview": {
+          "required": false,
+          "format": "",
+          "duration": "",
+          "components": [],
+          "preparation_guidelines": []
+        },
+        "evaluation_criteria": [],
+        "notification_process": "email with registration link and code"
+      },
+      "application_process": [
+        "Apply for the scheme before 15 January 2024.",
+        "If accepted, you will receive an email with the link to register and a registration code.",
+        "Complete your registration within the given period.",
+        "Upon successful registration, you will be connected with a Service Manager to assist with accommodation and travel arrangements.",
+        "Secure your travel. You may take advantage of discounts offered by partnering airline carriers and partial compensation of up to €750, reimbursed after attendance."
+      ],
+      "application_link": "https://worldenergycongress.org/rotterdam/developing-countries-scheme/",
+      "additional_instructions": []
+    },
+    "metadata": {
+      "scholarship_id": "",
+      "last_updated": "",
+      "shares_count": "",
+      "related_programs": [],
+      "source_url": "https://opportunitiescorners.com/world-energy-congress/",
+      "categories": [
+        "Conferences"
+      ],
+      "scholarship_history": {
+        "established_year": "",
+        "previous_statistics": {
+          "total_awards": "",
+          "success_rate": "",
+          "demographic_data": []
+        },
+        "alumni_outcomes": []
+      },
+      "contact_information": {
+        "primary_contact": {
+          "department": "",
+          "email": "",
+          "phone": "",
+          "website": "",
+          "office_hours": ""
+        },
+        "regional_offices": [],
+        "social_media": {
+          "facebook": "",
+          "twitter": "",
+          "linkedin": "",
+          "youtube": ""
+        }
+      },
+      "resources": {
+        "faq_link": "",
+        "brochures": [],
+        "guidelines": [],
+        "forms": []
+      },
+      "tags": [],
+      "success_stories": [],
+      "reviews": [],
+      "additional_notes": []
+    }
+  }
+}

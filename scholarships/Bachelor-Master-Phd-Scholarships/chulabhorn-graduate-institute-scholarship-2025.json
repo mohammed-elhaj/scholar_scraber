@@ -1,0 +1,450 @@
+{
+  "scholarship": {
+    "basic_info": {
+      "title": "Chulabhorn Graduate Institute Scholarship 2025 in Thailand (Fully Funded)",
+      "post_date": "April 7, 2024",
+      "author": "Muhammad Saim Rasheed",
+      "academic_year": "2025",
+      "funding_type": {
+        "type": "Fully Funded",
+        "details": "Covers tuition, academic fees, airfare, visa, accommodation, stipend, and more.",
+        "coverage_options": []
+      },
+      "host_countries": [
+        "Thailand"
+      ],
+      "program_name": "Chulabhorn Graduate Institute Scholarship",
+      "funded_by": {
+        "primary": "Chulabhorn Graduate Institute (CGI)",
+        "additional": []
+      },
+      "degree_levels": [
+        "Masters"
+      ],
+      "duration": {
+        "undergraduate": {
+          "years": "",
+          "semesters": "",
+          "details": ""
+        },
+        "masters": {
+          "years": "2",
+          "semesters": "",
+          "details": "Plus 6 weeks of refresher courses"
+        },
+        "phd": {
+          "years": "",
+          "semesters": "",
+          "details": ""
+        },
+        "general_info": ""
+      },
+      "application_timeline": {
+        "opening_date": "",
+        "closing_date": "30th September 2024",
+        "decision_date": "January 2025",
+        "program_start_date": "August 2025",
+        "orientation_date": ""
+      },
+      "scholarships_available": {
+        "total": "15",
+        "per_program": {
+          "undergraduate": "",
+          "masters": "15",
+          "phd": ""
+        },
+        "per_country": "",
+        "restrictions": []
+      }
+    },
+    "program_details": {
+      "description": "Fully funded master's degree scholarships for international students (excluding Thai citizens) at the Chulabhorn Graduate Institute.",
+      "study_locations": [
+        "Thailand"
+      ],
+      "participating_universities": [
+        "Chulabhorn Graduate Institute"
+      ],
+      "fields_of_study": {
+        "subjects": [
+          "Applied Biological Sciences: Environmental Health",
+          "Environmental Toxicology",
+          "Chemical Sciences"
+        ],
+        "specializations": [],
+        "research_areas": [],
+        "restrictions": []
+      },
+      "program_structure": {
+        "academic_schedule": {
+          "semester_structure": "",
+          "academic_calendar": "",
+          "holidays": [],
+          "important_dates": []
+        },
+        "teaching_method": {
+          "format": [],
+          "language_of_instruction": "",
+          "online_components": false,
+          "attendance_requirements": ""
+        },
+        "curriculum": {
+          "core_courses": [],
+          "electives": [],
+          "research_requirements": [],
+          "thesis_requirements": "",
+          "internship_requirements": ""
+        },
+        "year_1": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        },
+        "year_2": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        },
+        "year_3": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        },
+        "year_4": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        }
+      },
+      "degree_awarded": {
+        "type": "Masters",
+        "awarding_institution": "Chulabhorn Graduate Institute",
+        "recognition": [],
+        "accreditation": []
+      }
+    },
+    "benefits": {
+      "financial_coverage": {
+        "tuition": {
+          "coverage_type": "Full",
+          "details": "Covers tuition and other academic fees (credit fee, laboratory expenses, refresher course, enrollment fee, thesis fee, production of thesis documents)",
+          "conditions": [],
+          "amount": {
+            "value": "",
+            "currency": "",
+            "frequency": ""
+          }
+        },
+        "monthly_allowance": {
+          "undergraduate": {
+            "amount": "",
+            "currency": "",
+            "details": ""
+          },
+          "masters": {
+            "amount": "",
+            "currency": "",
+            "details": "Monthly Stipend"
+          },
+          "phd": {
+            "amount": "",
+            "currency": "",
+            "details": ""
+          },
+          "payment_schedule": "",
+          "conditions": []
+        },
+        "research_support": {
+          "amount": "",
+          "coverage": [],
+          "conditions": []
+        },
+        "travel": {
+          "airfare_covered": true,
+          "details": "Round-trip airfare",
+          "conditions": [],
+          "frequency": "",
+          "class": ""
+        },
+        "other_allowances": [
+          "Visa fee",
+          "First settlement allowance",
+          "Relocation allowance",
+          "Book allowance"
+        ],
+        "additional_support": []
+      },
+      "pre_departure": {
+        "language_training": {
+          "available": false,
+          "duration": "",
+          "provider": "",
+          "cost_coverage": ""
+        },
+        "cultural_orientation": {
+          "available": false,
+          "duration": "",
+          "content": []
+        },
+        "visa_assistance": {
+          "provided": false,
+          "services": [],
+          "cost_coverage": ""
+        },
+        "travel_arrangements": {
+          "provided": false,
+          "services": [],
+          "conditions": []
+        }
+      },
+      "during_program": {
+        "accommodation": {
+          "provided": true,
+          "type": "",
+          "location": "",
+          "conditions": []
+        },
+        "academic_support": {
+          "tutoring": false,
+          "mentoring": false,
+          "research_supervision": false,
+          "language_support": false,
+          "details": []
+        },
+        "healthcare": {
+          "coverage_type": "Health insurance",
+          "insurance_provider": "",
+          "coverage_details": [],
+          "restrictions": []
+        },
+        "facilities_access": {
+          "library": false,
+          "labs": false,
+          "sports": false,
+          "others": []
+        },
+        "student_services": []
+      },
+      "post_program": {
+        "alumni_network": {
+          "available": false,
+          "benefits": []
+        },
+        "career_services": {
+          "available": false,
+          "services": []
+        },
+        "further_opportunities": []
+      }
+    },
+    "eligibility": {
+      "nationality": {
+        "type": "International",
+        "eligible_nationalities": [],
+        "excluded_nationalities": [
+          "Thai citizens"
+        ],
+        "conditions": [],
+        "dual_citizenship_policy": ""
+      },
+      "academic": {
+        "minimum_degree_required": "Bachelor's Degree",
+        "accepted_degrees": [
+          "Sciences: Chemistry, Biology, Biological Sciences, Molecular Biology, Environmental Sciences",
+          "Medical Sciences: Medicine, Medical Technology Pharmacy, or Pharmaceutical Sciences"
+        ],
+        "minimum_gpa": {
+          "undergraduate": "",
+          "masters": "2.75",
+          "phd": "",
+          "scale": ""
+        },
+        "final_year_allowed": false,
+        "specific_backgrounds": [],
+        "academic_requirements": [],
+        "required_courses": [],
+        "prerequisites": []
+      },
+      "language": {
+        "english": {
+          "required": true,
+          "minimum_score": {
+            "ielts": "",
+            "toefl": "",
+            "other": []
+          },
+          "waiver_conditions": [],
+          "test_validity_period": ""
+        },
+        "other_languages": [
+          {
+            "language": "",
+            "required": false,
+            "minimum_level": "",
+            "details": "",
+            "waiver_conditions": [],
+            "test_requirements": []
+          }
+        ]
+      },
+      "experience": {
+        "required": true,
+        "minimum_years": "",
+        "type": [
+          "scientific laboratory research"
+        ],
+        "specific_fields": [],
+        "details": "",
+        "proof_required": []
+      },
+      "age": {
+        "minimum": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": ""
+        },
+        "maximum": {
+          "undergraduate": "",
+          "masters": "30",
+          "phd": ""
+        },
+        "exceptions": [],
+        "calculation_date": ""
+      },
+      "research_requirements": {
+        "proposal_required": false,
+        "proposal_guidelines": "",
+        "research_areas": [],
+        "supervisor_requirement": false,
+        "prior_publications": false
+      },
+      "health_requirements": {
+        "medical_certificate": true,
+        "vaccinations": [],
+        "health_insurance": true,
+        "specific_conditions": []
+      },
+      "return_obligations": {
+        "required": false,
+        "details": "",
+        "bond_period": "",
+        "conditions": []
+      },
+      "special_conditions": {
+        "employment_status": [],
+        "institutional_nominations": false,
+        "quotas": {
+          "gender": false,
+          "region": false,
+          "field_of_study": false,
+          "details": []
+        },
+        "other_restrictions": []
+      }
+    },
+    "application": {
+      "submission_method": {
+        "online": true,
+        "paper": true,
+        "platform": "email and postal",
+        "instructions": "Send scanned documents via email, then send hard copies via postal mail."
+      },
+      "required_documents": {
+        "general": [
+          "Full Academic Transcript",
+          "Three Recommendation Letters",
+          "Statement of Purpose",
+          "Medical History Report",
+          "Other supporting documents"
+        ],
+        "program_specific": {
+          "undergraduate": [],
+          "masters": [],
+          "phd": []
+        },
+        "special_requirements": []
+      },
+      "document_requirements": {
+        "authentication": [],
+        "translation": {
+          "required": false,
+          "accepted_languages": [],
+          "certified_translation": false,
+          "exceptions": []
+        },
+        "format": {
+          "file_types": [],
+          "size_limits": "",
+          "naming_convention": "",
+          "special_instructions": []
+        }
+      },
+      "selection_process": {
+        "stages": [],
+        "timeline": "",
+        "interview": {
+          "required": false,
+          "format": "",
+          "duration": "",
+          "components": [],
+          "preparation_guidelines": []
+        },
+        "evaluation_criteria": [
+          "merit"
+        ],
+        "notification_process": "Successful applicants will be notified by CGI around January 2025."
+      },
+      "application_process": [
+        "Send the complete application form along with Scanned copies of the supporting documents on email cgi_academic@cgi.ac.th",
+        "Send all the documents you have sent by email again via postal to the following address: Chulabhorn Graduate Institute (CGI Scholarship Program) 906 Kamphangphet 6 Road, Talat Bang Khen, Laksi, Bangkok 10210 THAILAND"
+      ],
+      "application_link": "https://www.cgi.ac.th/admissions/cgi-scholarship-international/",
+      "additional_instructions": []
+    },
+    "metadata": {
+      "scholarship_id": "",
+      "last_updated": "",
+      "shares_count": "",
+      "related_programs": [],
+      "source_url": "https://opportunitiescorners.com/chulabhorn-graduate-institute-scholarship/",
+      "categories": [
+        "Bachelor, Master, PhD Scholarships"
+      ],
+      "scholarship_history": {
+        "established_year": "",
+        "previous_statistics": {
+          "total_awards": "",
+          "success_rate": "",
+          "demographic_data": []
+        },
+        "alumni_outcomes": []
+      },
+      "contact_information": {
+        "primary_contact": {
+          "department": "",
+          "email": "cgi_academic@cgi.ac.th",
+          "phone": "",
+          "website": "https://www.cgi.ac.th/",
+          "office_hours": ""
+        },
+        "regional_offices": [],
+        "social_media": {
+          "facebook": "",
+          "twitter": "",
+          "linkedin": "",
+          "youtube": ""
+        }
+      },
+      "resources": {
+        "faq_link": "",
+        "brochures": [],
+        "guidelines": [],
+        "forms": []
+      },
+      "tags": [],
+      "success_stories": [],
+      "reviews": [],
+      "additional_notes": []
+    }
+  }
+}

@@ -1,0 +1,501 @@
+{
+  "scholarship": {
+    "basic_info": {
+      "title": "Queen Elizabeth Commonwealth Scholarship 2025/26",
+      "post_date": "November 24, 2024",
+      "author": "Muhammad Saim Rasheed",
+      "academic_year": "2025/26",
+      "funding_type": {
+        "type": "Fully Funded",
+        "details": "Covers all expenses",
+        "coverage_options": []
+      },
+      "host_countries": [
+        "Jamaica",
+        "Eswatini",
+        "Kenya",
+        "Malaysia",
+        "Tanzania",
+        "Uganda"
+      ],
+      "program_name": "Queen Elizabeth Commonwealth Scholarship",
+      "funded_by": {
+        "primary": "Queen Elizabeth",
+        "additional": []
+      },
+      "degree_levels": [
+        "masters"
+      ],
+      "duration": {
+        "undergraduate": {
+          "years": "",
+          "semesters": "",
+          "details": ""
+        },
+        "masters": {
+          "years": "2",
+          "semesters": "",
+          "details": "two years"
+        },
+        "phd": {
+          "years": "",
+          "semesters": "",
+          "details": ""
+        },
+        "general_info": "Maximum two years of funding available."
+      },
+      "application_timeline": {
+        "opening_date": "",
+        "closing_date": "14th January 2025",
+        "decision_date": "",
+        "program_start_date": "",
+        "orientation_date": ""
+      },
+      "scholarships_available": {
+        "total": "",
+        "per_program": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": ""
+        },
+        "per_country": "",
+        "restrictions": []
+      }
+    },
+    "program_details": {
+      "description": "Fully Funded two-year master’s degree scholarship to be completed in a low—or middle-income Commonwealth country.",
+      "study_locations": [
+        "Jamaica",
+        "Eswatini",
+        "Kenya",
+        "Malaysia",
+        "Tanzania",
+        "Uganda"
+      ],
+      "participating_universities": [
+        "University of Eswatini",
+        "University of the West Indies (UWI)",
+        "Technical University of Kenya (TUK)",
+        "Universiti Malaya (UM)",
+        "Universiti Putra Malaysia (UPM)",
+        "State University of Zanzibar (SUZA)",
+        "Makerere University"
+      ],
+      "fields_of_study": {
+        "subjects": [
+          "African Languages and Linguistics",
+          "History",
+          "Educational Foundations and Management",
+          "Family Nurse Practice",
+          "Agricultural Extension",
+          "Animal Science",
+          "Computer Science",
+          "Food Science and Technology",
+          "Mathematics",
+          "Textiles",
+          "Competition Law and Policy",
+          "Public Health",
+          "Natural Resource & Environmental Management",
+          "Gender Studies",
+          "Social Work",
+          "Teaching Exceptional Children",
+          "Corporate Finance",
+          "Cultural Studies",
+          "Biomedical Research",
+          "Sport Management",
+          "Aviation Management",
+          "Data Science",
+          "Renewable Energy Technology",
+          "Tropical Crop Protection",
+          "Applied Parasitology",
+          "Computational Chemistry",
+          "Construction Project Management",
+          "Electrical and Electronic Engineering",
+          "Information and Knowledge Management",
+          "Land Administration",
+          "Medical Physics",
+          "Physics",
+          "Manufacturing Engineering",
+          "Accounting",
+          "Agribusiness",
+          "Agricultural Policy",
+          "Community Education and Development",
+          "Economics",
+          "Gender and Development",
+          "Halal Products Management",
+          "Management",
+          "Marketing",
+          "Social Psychology",
+          "Sustainable Recreation and Ecotourism",
+          "Tourism",
+          "Youth Studies",
+          "Finance",
+          "Youth Gender and Development",
+          "Chemistry",
+          "Information Technology",
+          "Natural Resource Management and Climate Change",
+          "Civil Engineering",
+          "Food Safety and Quality Management",
+          "Renewable Energy"
+        ],
+        "specializations": [],
+        "research_areas": [],
+        "restrictions": []
+      },
+      "program_structure": {
+        "academic_schedule": {
+          "semester_structure": "",
+          "academic_calendar": "",
+          "holidays": [],
+          "important_dates": []
+        },
+        "teaching_method": {
+          "format": [],
+          "language_of_instruction": "",
+          "online_components": false,
+          "attendance_requirements": "Full-time study only."
+        },
+        "curriculum": {
+          "core_courses": [],
+          "electives": [],
+          "research_requirements": [],
+          "thesis_requirements": "",
+          "internship_requirements": ""
+        },
+        "year_1": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        },
+        "year_2": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        },
+        "year_3": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        },
+        "year_4": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        }
+      },
+      "degree_awarded": {
+        "type": "Master's",
+        "awarding_institution": "",
+        "recognition": [],
+        "accreditation": []
+      }
+    },
+    "benefits": {
+      "financial_coverage": {
+        "tuition": {
+          "coverage_type": "Fully-funded",
+          "details": "Fully-funded tuition fees",
+          "conditions": [],
+          "amount": {
+            "value": "",
+            "currency": "",
+            "frequency": ""
+          }
+        },
+        "monthly_allowance": {
+          "undergraduate": {
+            "amount": "",
+            "currency": "",
+            "details": ""
+          },
+          "masters": {
+            "amount": "",
+            "currency": "",
+            "details": "Living allowance (stipend) for the duration of the award"
+          },
+          "phd": {
+            "amount": "",
+            "currency": "",
+            "details": ""
+          },
+          "payment_schedule": "",
+          "conditions": []
+        },
+        "research_support": {
+          "amount": "",
+          "coverage": [
+            "Research Support Grant"
+          ],
+          "conditions": [
+            "on request only",
+            "subject to approval"
+          ]
+        },
+        "travel": {
+          "airfare_covered": true,
+          "details": "Return economy flights to the host country",
+          "conditions": [],
+          "frequency": "one-time",
+          "class": "economy"
+        },
+        "other_allowances": [
+          "One-off arrival allowance"
+        ],
+        "additional_support": []
+      },
+      "pre_departure": {
+        "language_training": {
+          "available": false,
+          "duration": "",
+          "provider": "",
+          "cost_coverage": ""
+        },
+        "cultural_orientation": {
+          "available": false,
+          "duration": "",
+          "content": []
+        },
+        "visa_assistance": {
+          "provided": false,
+          "services": [],
+          "cost_coverage": ""
+        },
+        "travel_arrangements": {
+          "provided": false,
+          "services": [],
+          "conditions": []
+        }
+      },
+      "during_program": {
+        "accommodation": {
+          "provided": false,
+          "type": "",
+          "location": "",
+          "conditions": []
+        },
+        "academic_support": {
+          "tutoring": false,
+          "mentoring": false,
+          "research_supervision": false,
+          "language_support": false,
+          "details": []
+        },
+        "healthcare": {
+          "coverage_type": "",
+          "insurance_provider": "",
+          "coverage_details": [],
+          "restrictions": []
+        },
+        "facilities_access": {
+          "library": false,
+          "labs": false,
+          "sports": false,
+          "others": []
+        },
+        "student_services": []
+      },
+      "post_program": {
+        "alumni_network": {
+          "available": false,
+          "benefits": []
+        },
+        "career_services": {
+          "available": false,
+          "services": []
+        },
+        "further_opportunities": []
+      }
+    },
+    "eligibility": {
+      "nationality": {
+        "type": "Commonwealth",
+        "eligible_nationalities": [],
+        "excluded_nationalities": [],
+        "conditions": [],
+        "dual_citizenship_policy": ""
+      },
+      "academic": {
+        "minimum_degree_required": "undergraduate degree",
+        "accepted_degrees": [],
+        "minimum_gpa": {
+          "undergraduate": "2:1",
+          "masters": "",
+          "phd": "",
+          "scale": ""
+        },
+        "final_year_allowed": false,
+        "specific_backgrounds": [],
+        "academic_requirements": [],
+        "required_courses": [],
+        "prerequisites": []
+      },
+      "language": {
+        "english": {
+          "required": false,
+          "minimum_score": {
+            "ielts": "",
+            "toefl": "",
+            "other": []
+          },
+          "waiver_conditions": [],
+          "test_validity_period": ""
+        },
+        "other_languages": [
+          {
+            "language": "",
+            "required": false,
+            "minimum_level": "",
+            "details": "",
+            "waiver_conditions": [],
+            "test_requirements": []
+          }
+        ]
+      },
+      "experience": {
+        "required": false,
+        "minimum_years": "",
+        "type": [],
+        "specific_fields": [],
+        "details": "",
+        "proof_required": []
+      },
+      "age": {
+        "minimum": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": ""
+        },
+        "maximum": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": ""
+        },
+        "exceptions": [],
+        "calculation_date": ""
+      },
+      "research_requirements": {
+        "proposal_required": false,
+        "proposal_guidelines": "",
+        "research_areas": [],
+        "supervisor_requirement": false,
+        "prior_publications": false
+      },
+      "health_requirements": {
+        "medical_certificate": false,
+        "vaccinations": [],
+        "health_insurance": false,
+        "specific_conditions": []
+      },
+      "return_obligations": {
+        "required": false,
+        "details": "",
+        "bond_period": "",
+        "conditions": []
+      },
+      "special_conditions": {
+        "employment_status": [],
+        "institutional_nominations": false,
+        "quotas": {
+          "gender": false,
+          "region": false,
+          "field_of_study": false,
+          "details": []
+        },
+        "other_restrictions": []
+      }
+    },
+    "application": {
+      "submission_method": {
+        "online": true,
+        "paper": false,
+        "platform": "",
+        "instructions": "Complete and submit a QECS application for your chosen university or course by clicking the ‘Apply Now’ button. Apply to your chosen university for admission to your chosen course."
+      },
+      "required_documents": {
+        "general": [],
+        "program_specific": {
+          "undergraduate": [],
+          "masters": [],
+          "phd": []
+        },
+        "special_requirements": []
+      },
+      "document_requirements": {
+        "authentication": [],
+        "translation": {
+          "required": false,
+          "accepted_languages": [],
+          "certified_translation": false,
+          "exceptions": []
+        },
+        "format": {
+          "file_types": [],
+          "size_limits": "",
+          "naming_convention": "",
+          "special_instructions": []
+        }
+      },
+      "selection_process": {
+        "stages": [],
+        "timeline": "",
+        "interview": {
+          "required": false,
+          "format": "",
+          "duration": "",
+          "components": [],
+          "preparation_guidelines": []
+        },
+        "evaluation_criteria": [],
+        "notification_process": ""
+      },
+      "application_process": [],
+      "application_link": "https://www.acu.ac.uk/funding-opportunities/for-students/scholarships/queen-elizabeth-commonwealth-scholarships/",
+      "additional_instructions": []
+    },
+    "metadata": {
+      "scholarship_id": "",
+      "last_updated": "",
+      "shares_count": "",
+      "related_programs": [],
+      "source_url": "https://opportunitiescorners.com/queen-elizabeth-commonwealth-scholarship/",
+      "categories": [
+        "Bachelor, Master, PhD Scholarships"
+      ],
+      "scholarship_history": {
+        "established_year": "",
+        "previous_statistics": {
+          "total_awards": "",
+          "success_rate": "",
+          "demographic_data": []
+        },
+        "alumni_outcomes": []
+      },
+      "contact_information": {
+        "primary_contact": {
+          "department": "",
+          "email": "",
+          "phone": "",
+          "website": "",
+          "office_hours": ""
+        },
+        "regional_offices": [],
+        "social_media": {
+          "facebook": "",
+          "twitter": "",
+          "linkedin": "",
+          "youtube": ""
+        }
+      },
+      "resources": {
+        "faq_link": "https://www.acu.ac.uk/funding-opportunities/for-students/scholarships/queen-elizabeth-commonwealth-scholarships/qecs-faqs/",
+        "brochures": [],
+        "guidelines": [],
+        "forms": []
+      },
+      "tags": [],
+      "success_stories": [],
+      "reviews": [],
+      "additional_notes": []
+    }
+  }
+}

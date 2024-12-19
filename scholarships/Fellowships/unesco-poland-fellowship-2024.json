@@ -1,0 +1,499 @@
+{
+  "scholarship": {
+    "basic_info": {
+      "title": "UNESCO/Poland Fellowship 2024 in Poland (Fully Funded)",
+      "post_date": "April 9, 2024",
+      "author": "Muhammad Saim Rasheed",
+      "academic_year": "2024",
+      "funding_type": {
+        "type": "Fully Funded",
+        "details": "Jointly Funded by UNESCO and the Polish National Commission",
+        "coverage_options": []
+      },
+      "host_countries": [
+        "Poland"
+      ],
+      "program_name": "UNESCO/Poland Co-Sponsored fellowship in Engineering",
+      "funded_by": {
+        "primary": "UNESCO",
+        "additional": [
+          "Polish National Commission for UNESCO"
+        ]
+      },
+      "degree_levels": [
+        "Bachelor",
+        "Master"
+      ],
+      "duration": {
+        "undergraduate": {
+          "years": "",
+          "semesters": "",
+          "details": "6 months"
+        },
+        "masters": {
+          "years": "",
+          "semesters": "",
+          "details": "6 months"
+        },
+        "phd": {
+          "years": "",
+          "semesters": "",
+          "details": ""
+        },
+        "general_info": "6 months"
+      },
+      "application_timeline": {
+        "opening_date": "",
+        "closing_date": "10th May 2024",
+        "decision_date": "",
+        "program_start_date": "1 October 2024",
+        "orientation_date": ""
+      },
+      "scholarships_available": {
+        "total": "30",
+        "per_program": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": ""
+        },
+        "per_country": "",
+        "restrictions": []
+      }
+    },
+    "program_details": {
+      "description": "The fellowship provides funding to undertake a research program in Science, Technology, and Engineering for 6 months between 1 October 2024 and 31 March 2025.",
+      "study_locations": [
+        "AGH University of Krakow (Poland)"
+      ],
+      "participating_universities": [
+        "AGH University of Krakow"
+      ],
+      "fields_of_study": {
+        "subjects": [
+          "Science",
+          "Technology",
+          "Engineering"
+        ],
+        "specializations": [],
+        "research_areas": [],
+        "restrictions": []
+      },
+      "program_structure": {
+        "academic_schedule": {
+          "semester_structure": "",
+          "academic_calendar": "",
+          "holidays": [],
+          "important_dates": []
+        },
+        "teaching_method": {
+          "format": [],
+          "language_of_instruction": "",
+          "online_components": false,
+          "attendance_requirements": ""
+        },
+        "curriculum": {
+          "core_courses": [],
+          "electives": [],
+          "research_requirements": [],
+          "thesis_requirements": "",
+          "internship_requirements": ""
+        },
+        "year_1": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        },
+        "year_2": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        },
+        "year_3": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        },
+        "year_4": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        }
+      },
+      "degree_awarded": {
+        "type": "",
+        "awarding_institution": "",
+        "recognition": [],
+        "accreditation": []
+      }
+    },
+    "benefits": {
+      "financial_coverage": {
+        "tuition": {
+          "coverage_type": "Free",
+          "details": "Free Tuition and access to the University in Poland.",
+          "conditions": [],
+          "amount": {
+            "value": "",
+            "currency": "",
+            "frequency": ""
+          }
+        },
+        "monthly_allowance": {
+          "undergraduate": {
+            "amount": "1800",
+            "currency": "PLN",
+            "details": "Monthly allowance for BSc degree students"
+          },
+          "masters": {
+            "amount": "2200",
+            "currency": "PLN",
+            "details": "Monthly allowance for MSc degree students"
+          },
+          "phd": {
+            "amount": "",
+            "currency": "",
+            "details": ""
+          },
+          "payment_schedule": "",
+          "conditions": []
+        },
+        "research_support": {
+          "amount": "",
+          "coverage": [],
+          "conditions": []
+        },
+        "travel": {
+          "airfare_covered": true,
+          "details": "UNESCO will Cover the Cost of Round Airfare Travel Tickets to/from Your Country.",
+          "conditions": [],
+          "frequency": "",
+          "class": ""
+        },
+        "other_allowances": [
+          "A one-time special allowance of 1800 PLN for BSc degree students or 2200 PLN for MSc degree students to be paid upon arrival.",
+          "One-time special pocket allowance of US$120."
+        ],
+        "additional_support": []
+      },
+      "pre_departure": {
+        "language_training": {
+          "available": false,
+          "duration": "",
+          "provider": "",
+          "cost_coverage": ""
+        },
+        "cultural_orientation": {
+          "available": false,
+          "duration": "",
+          "content": []
+        },
+        "visa_assistance": {
+          "provided": false,
+          "services": [],
+          "cost_coverage": ""
+        },
+        "travel_arrangements": {
+          "provided": false,
+          "services": [],
+          "conditions": []
+        }
+      },
+      "during_program": {
+        "accommodation": {
+          "provided": false,
+          "type": "",
+          "location": "",
+          "conditions": []
+        },
+        "academic_support": {
+          "tutoring": false,
+          "mentoring": false,
+          "research_supervision": false,
+          "language_support": false,
+          "details": []
+        },
+        "healthcare": {
+          "coverage_type": "Health Insurance",
+          "insurance_provider": "",
+          "coverage_details": [],
+          "restrictions": []
+        },
+        "facilities_access": {
+          "library": false,
+          "labs": false,
+          "sports": false,
+          "others": []
+        },
+        "student_services": []
+      },
+      "post_program": {
+        "alumni_network": {
+          "available": false,
+          "benefits": []
+        },
+        "career_services": {
+          "available": false,
+          "services": []
+        },
+        "further_opportunities": []
+      }
+    },
+    "eligibility": {
+      "nationality": {
+        "type": "Specific Countries",
+        "eligible_nationalities": [
+          "Angola",
+          "Benin",
+          "Botswana",
+          "Burkina Faso",
+          "Cameroon",
+          "Cape Verde",
+          "Chad",
+          "Côte d’Ivoire",
+          "Democratic Republic of the Congo",
+          "Eritrea",
+          "Ethiopia",
+          "Gabon",
+          "Gambia",
+          "Ghana",
+          "Kenya",
+          "Lesotho",
+          "Madagascar",
+          "Malawi",
+          "Mali",
+          "Mauritius",
+          "Mozambique",
+          "Namibia",
+          "Niger",
+          "Nigeria",
+          "Rwanda",
+          "Senegal",
+          "South Africa",
+          "Togo",
+          "Uganda",
+          "United Republic of Tanzania",
+          "Zambia",
+          "Zimbabwe",
+          "Iraq",
+          "Syrian Arab Republic",
+          "Bangladesh",
+          "Bhutan",
+          "Brunei Darussalam",
+          "Cambodia",
+          "Fiji",
+          "India",
+          "Indonesia",
+          "Kazakhstan",
+          "Kyrgyzstan",
+          "Lao People’s Democratic Republic",
+          "Malaysia",
+          "Mongolia",
+          "Nepal",
+          "Pakistan",
+          "Papua New Guinea",
+          "Philippines",
+          "Sri Lanka",
+          "Tajikistan",
+          "Thailand",
+          "Turkmenistan",
+          "Uzbekistan",
+          "Viet Nam",
+          "Argentina",
+          "Bolivia",
+          "Brazil",
+          "Chile",
+          "Colombia",
+          "Cuba",
+          "Dominican Republic",
+          "Ecuador",
+          "El Salvador",
+          "Haiti",
+          "Jamaica",
+          "Mexico",
+          "Panama",
+          "Peru",
+          "Trinidad and Tobago"
+        ],
+        "excluded_nationalities": [],
+        "conditions": [],
+        "dual_citizenship_policy": ""
+      },
+      "academic": {
+        "minimum_degree_required": "",
+        "accepted_degrees": [
+          "Bachelor",
+          "Master"
+        ],
+        "minimum_gpa": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": "",
+          "scale": ""
+        },
+        "final_year_allowed": false,
+        "specific_backgrounds": [],
+        "academic_requirements": [],
+        "required_courses": [],
+        "prerequisites": []
+      },
+      "language": {
+        "english": {
+          "required": false,
+          "minimum_score": {
+            "ielts": "",
+            "toefl": "",
+            "other": []
+          },
+          "waiver_conditions": [],
+          "test_validity_period": ""
+        },
+        "other_languages": []
+      },
+      "experience": {
+        "required": false,
+        "minimum_years": "",
+        "type": [],
+        "specific_fields": [],
+        "details": "",
+        "proof_required": []
+      },
+      "age": {
+        "minimum": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": ""
+        },
+        "maximum": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": ""
+        },
+        "exceptions": [],
+        "calculation_date": ""
+      },
+      "research_requirements": {
+        "proposal_required": false,
+        "proposal_guidelines": "",
+        "research_areas": [],
+        "supervisor_requirement": false,
+        "prior_publications": false
+      },
+      "health_requirements": {
+        "medical_certificate": false,
+        "vaccinations": [],
+        "health_insurance": true,
+        "specific_conditions": []
+      },
+      "return_obligations": {
+        "required": false,
+        "details": "",
+        "bond_period": "",
+        "conditions": []
+      },
+      "special_conditions": {
+        "employment_status": [],
+        "institutional_nominations": false,
+        "quotas": {
+          "gender": false,
+          "region": false,
+          "field_of_study": false,
+          "details": []
+        },
+        "other_restrictions": []
+      }
+    },
+    "application": {
+      "submission_method": {
+        "online": true,
+        "paper": false,
+        "platform": "",
+        "instructions": "Send the complete UNESCO application form."
+      },
+      "required_documents": {
+        "general": [],
+        "program_specific": {
+          "undergraduate": [],
+          "masters": [],
+          "phd": []
+        },
+        "special_requirements": []
+      },
+      "document_requirements": {
+        "authentication": [],
+        "translation": {
+          "required": false,
+          "accepted_languages": [],
+          "certified_translation": false,
+          "exceptions": []
+        },
+        "format": {
+          "file_types": [],
+          "size_limits": "",
+          "naming_convention": "",
+          "special_instructions": []
+        }
+      },
+      "selection_process": {
+        "stages": [],
+        "timeline": "",
+        "interview": {
+          "required": false,
+          "format": "",
+          "duration": "",
+          "components": [],
+          "preparation_guidelines": []
+        },
+        "evaluation_criteria": [],
+        "notification_process": ""
+      },
+      "application_process": [],
+      "application_link": "https://www.unesco.org/en/fellowships/poland-engineering",
+      "additional_instructions": []
+    },
+    "metadata": {
+      "scholarship_id": "",
+      "last_updated": "",
+      "shares_count": "",
+      "related_programs": [],
+      "source_url": "https://opportunitiescorners.com/unesco-poland-fellowship/",
+      "categories": [
+        "Fellowships"
+      ],
+      "scholarship_history": {
+        "established_year": "",
+        "previous_statistics": {
+          "total_awards": "",
+          "success_rate": "",
+          "demographic_data": []
+        },
+        "alumni_outcomes": []
+      },
+      "contact_information": {
+        "primary_contact": {
+          "department": "",
+          "email": "",
+          "phone": "",
+          "website": "",
+          "office_hours": ""
+        },
+        "regional_offices": [],
+        "social_media": {
+          "facebook": "",
+          "twitter": "",
+          "linkedin": "",
+          "youtube": ""
+        }
+      },
+      "resources": {
+        "faq_link": "",
+        "brochures": [],
+        "guidelines": [],
+        "forms": []
+      },
+      "tags": [],
+      "success_stories": [],
+      "reviews": [],
+      "additional_notes": []
+    }
+  }
+}

@@ -1,0 +1,455 @@
+{
+  "scholarship": {
+    "basic_info": {
+      "title": "KAUST Global Fellowship 2025 in Saudi Arabia (Fully Funded)",
+      "post_date": "August 20, 2024",
+      "author": "Muhammad Saim Rasheed",
+      "academic_year": "2025",
+      "funding_type": {
+        "type": "Fellowship",
+        "details": "Fully Funded",
+        "coverage_options": []
+      },
+      "host_countries": [
+        "Saudi Arabia"
+      ],
+      "program_name": "KAUST Global Fellowship",
+      "funded_by": {
+        "primary": "King Abdullah University of Science & Technology",
+        "additional": []
+      },
+      "degree_levels": [
+        "Postdoctoral"
+      ],
+      "duration": {
+        "undergraduate": {
+          "years": "",
+          "semesters": "",
+          "details": ""
+        },
+        "masters": {
+          "years": "",
+          "semesters": "",
+          "details": ""
+        },
+        "phd": {
+          "years": "",
+          "semesters": "",
+          "details": ""
+        },
+        "general_info": "3 Years"
+      },
+      "application_timeline": {
+        "opening_date": "",
+        "closing_date": "January 1st 2025",
+        "decision_date": "",
+        "program_start_date": "",
+        "orientation_date": ""
+      },
+      "scholarships_available": {
+        "total": "",
+        "per_program": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": ""
+        },
+        "per_country": "",
+        "restrictions": []
+      }
+    },
+    "program_details": {
+      "description": "The KAUST Global Fellowship program aims to attract and support outstanding early-career researchers, young leaders, and scientists worldwide. This fellowship is for applicants who want to build their path toward a fully independent career. It is a three-year fellowship program for postdocs.",
+      "study_locations": [
+        "King Abdullah University of Science & Technology, Saudi Arabia"
+      ],
+      "participating_universities": [
+        "King Abdullah University of Science & Technology"
+      ],
+      "fields_of_study": {
+        "subjects": [
+          "Biological and Environmental Science and Engineering",
+          "Computer, Electrical, and Mathematical Science and Engineering",
+          "Physical Science and Engineering"
+        ],
+        "specializations": [],
+        "research_areas": [
+          "Health & Wellness",
+          "Sustainable Environment & Essential Needs",
+          "Energy and Industrial Leadership",
+          "Economies of the Future"
+        ],
+        "restrictions": []
+      },
+      "program_structure": {
+        "academic_schedule": {
+          "semester_structure": "",
+          "academic_calendar": "",
+          "holidays": [],
+          "important_dates": []
+        },
+        "teaching_method": {
+          "format": [],
+          "language_of_instruction": "English",
+          "online_components": false,
+          "attendance_requirements": ""
+        },
+        "curriculum": {
+          "core_courses": [],
+          "electives": [],
+          "research_requirements": [],
+          "thesis_requirements": "",
+          "internship_requirements": ""
+        },
+        "year_1": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        },
+        "year_2": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        },
+        "year_3": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        },
+        "year_4": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        }
+      },
+      "degree_awarded": {
+        "type": "Fellowship",
+        "awarding_institution": "King Abdullah University of Science & Technology",
+        "recognition": [],
+        "accreditation": []
+      }
+    },
+    "benefits": {
+      "financial_coverage": {
+        "tuition": {
+          "coverage_type": "Full",
+          "details": "",
+          "conditions": [],
+          "amount": {
+            "value": "",
+            "currency": "",
+            "frequency": ""
+          }
+        },
+        "monthly_allowance": {
+          "undergraduate": {
+            "amount": "",
+            "currency": "",
+            "details": ""
+          },
+          "masters": {
+            "amount": "",
+            "currency": "",
+            "details": ""
+          },
+          "phd": {
+            "amount": "",
+            "currency": "USD",
+            "details": "$75,000 annual living stipend"
+          },
+          "payment_schedule": "",
+          "conditions": []
+        },
+        "research_support": {
+          "amount": "$40,000",
+          "coverage": [],
+          "conditions": []
+        },
+        "travel": {
+          "airfare_covered": false,
+          "details": "Annual travel allowance",
+          "conditions": [],
+          "frequency": "Annual",
+          "class": ""
+        },
+        "other_allowances": [
+          "Relocation allowance"
+        ],
+        "additional_support": []
+      },
+      "pre_departure": {
+        "language_training": {
+          "available": false,
+          "duration": "",
+          "provider": "",
+          "cost_coverage": ""
+        },
+        "cultural_orientation": {
+          "available": false,
+          "duration": "",
+          "content": []
+        },
+        "visa_assistance": {
+          "provided": false,
+          "services": [],
+          "cost_coverage": ""
+        },
+        "travel_arrangements": {
+          "provided": false,
+          "services": [],
+          "conditions": []
+        }
+      },
+      "during_program": {
+        "accommodation": {
+          "provided": true,
+          "type": "",
+          "location": "",
+          "conditions": []
+        },
+        "academic_support": {
+          "tutoring": false,
+          "mentoring": false,
+          "research_supervision": false,
+          "language_support": false,
+          "details": []
+        },
+        "healthcare": {
+          "coverage_type": "Medical insurance",
+          "insurance_provider": "",
+          "coverage_details": [],
+          "restrictions": []
+        },
+        "facilities_access": {
+          "library": false,
+          "labs": true,
+          "sports": false,
+          "others": []
+        },
+        "student_services": []
+      },
+      "post_program": {
+        "alumni_network": {
+          "available": false,
+          "benefits": []
+        },
+        "career_services": {
+          "available": false,
+          "services": []
+        },
+        "further_opportunities": []
+      }
+    },
+    "eligibility": {
+      "nationality": {
+        "type": "All Nationalities",
+        "eligible_nationalities": [],
+        "excluded_nationalities": [],
+        "conditions": [],
+        "dual_citizenship_policy": ""
+      },
+      "academic": {
+        "minimum_degree_required": "Ph.D.",
+        "accepted_degrees": [],
+        "minimum_gpa": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": "",
+          "scale": ""
+        },
+        "final_year_allowed": false,
+        "specific_backgrounds": [],
+        "academic_requirements": [
+          "Ph.D. earned after January 2020",
+          "Ph.D. must be completed before starting the fellowship"
+        ],
+        "required_courses": [],
+        "prerequisites": []
+      },
+      "language": {
+        "english": {
+          "required": true,
+          "minimum_score": {
+            "ielts": "",
+            "toefl": "",
+            "other": []
+          },
+          "waiver_conditions": [],
+          "test_validity_period": ""
+        },
+        "other_languages": [
+          {
+            "language": "",
+            "required": false,
+            "minimum_level": "",
+            "details": "",
+            "waiver_conditions": [],
+            "test_requirements": []
+          }
+        ]
+      },
+      "experience": {
+        "required": false,
+        "minimum_years": "",
+        "type": [],
+        "specific_fields": [],
+        "details": "",
+        "proof_required": []
+      },
+      "age": {
+        "minimum": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": ""
+        },
+        "maximum": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": ""
+        },
+        "exceptions": [],
+        "calculation_date": ""
+      },
+      "research_requirements": {
+        "proposal_required": true,
+        "proposal_guidelines": "Research plan should cover three years and follow the budget rules given in the application. Must use the provided form.",
+        "research_areas": [
+          "Health & Wellness",
+          "Sustainable Environment & Essential Needs",
+          "Energy and Industrial Leadership",
+          "Economies of the Future"
+        ],
+        "supervisor_requirement": true,
+        "prior_publications": false
+      },
+      "health_requirements": {
+        "medical_certificate": false,
+        "vaccinations": [],
+        "health_insurance": true,
+        "specific_conditions": []
+      },
+      "return_obligations": {
+        "required": false,
+        "details": "",
+        "bond_period": "",
+        "conditions": []
+      },
+      "special_conditions": {
+        "employment_status": [],
+        "institutional_nominations": false,
+        "quotas": {
+          "gender": false,
+          "region": false,
+          "field_of_study": false,
+          "details": []
+        },
+        "other_restrictions": []
+      }
+    },
+    "application": {
+      "submission_method": {
+        "online": true,
+        "paper": false,
+        "platform": "PlutoEdu",
+        "instructions": "Fill out the application form using the given template and write it in English. Make sure your application is complete with all needed papers before the deadline. Both you and the referees writing your recommendations must create an account on the PlutoEdu website to access the system and send the required documents."
+      },
+      "required_documents": {
+        "general": [
+          "Updated resume (maximum 4 pages)",
+          "Two of your best research papers",
+          "A research plan (use the provided format)",
+          "A letter of support from a KAUST professor",
+          "Two letters of recommendation"
+        ],
+        "program_specific": {
+          "undergraduate": [],
+          "masters": [],
+          "phd": []
+        },
+        "special_requirements": []
+      },
+      "document_requirements": {
+        "authentication": [],
+        "translation": {
+          "required": false,
+          "accepted_languages": [],
+          "certified_translation": false,
+          "exceptions": []
+        },
+        "format": {
+          "file_types": [],
+          "size_limits": "",
+          "naming_convention": "",
+          "special_instructions": []
+        }
+      },
+      "selection_process": {
+        "stages": [],
+        "timeline": "",
+        "interview": {
+          "required": false,
+          "format": "",
+          "duration": "",
+          "components": [],
+          "preparation_guidelines": []
+        },
+        "evaluation_criteria": [],
+        "notification_process": ""
+      },
+      "application_process": [],
+      "application_link": "https://kgfp.kaust.edu.sa/",
+      "additional_instructions": []
+    },
+    "metadata": {
+      "scholarship_id": "",
+      "last_updated": "",
+      "shares_count": "",
+      "related_programs": [],
+      "source_url": "https://opportunitiescorners.com/kaust-global-fellowship/",
+      "categories": [
+        "Fellowships"
+      ],
+      "scholarship_history": {
+        "established_year": "",
+        "previous_statistics": {
+          "total_awards": "",
+          "success_rate": "",
+          "demographic_data": []
+        },
+        "alumni_outcomes": []
+      },
+      "contact_information": {
+        "primary_contact": {
+          "department": "",
+          "email": "",
+          "phone": "",
+          "website": "",
+          "office_hours": ""
+        },
+        "regional_offices": [],
+        "social_media": {
+          "facebook": "",
+          "twitter": "",
+          "linkedin": "",
+          "youtube": ""
+        }
+      },
+      "resources": {
+        "faq_link": "",
+        "brochures": [],
+        "guidelines": [
+          "https://kgfp.kaust.edu.sa/docs/default-source/default-document-library/1-application-guidelines_2024-014d946780cbd7404e8a74a41d2c84e633.pdf?sfvrsn=224327fd_0",
+          "https://kgfp.kaust.edu.sa/docs/default-source/application-kit/1-1-addendum---internal-candidates_2024-0165a70436b17c47519ab8223efc572446.pdf?sfvrsn=f6db4321_0",
+          "https://kgfp.kaust.edu.sa/docs/default-source/application-kit/2-online-application_istructions-to-applicants_2024-02.pdf?sfvrsn=b75d74da_0"
+        ],
+        "forms": [
+          "https://kgfp.kaust.edu.sa/docs/default-source/application-kit/3_host-support-letter-template-_rev_january2024.docx?sfvrsn=e40f58a8_0",
+          "https://kgfp.kaust.edu.sa/docs/default-source/application-kit/4_research-proposal-template-_revele_january2024.docx?sfvrsn=803e43f5_0"
+        ]
+      },
+      "tags": [],
+      "success_stories": [],
+      "reviews": [],
+      "additional_notes": []
+    }
+  }
+}

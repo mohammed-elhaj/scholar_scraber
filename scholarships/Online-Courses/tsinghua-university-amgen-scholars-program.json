@@ -1,0 +1,493 @@
+{
+  "scholarship": {
+    "basic_info": {
+      "title": "Tsinghua University Amgen Scholars Program 2025",
+      "post_date": "November 12, 2024",
+      "author": "Muhammad Saim Rasheed",
+      "academic_year": "2025",
+      "funding_type": {
+        "type": "Fully Funded",
+        "details": "8-week Summer Internship",
+        "coverage_options": []
+      },
+      "host_countries": [
+        "China"
+      ],
+      "program_name": "Amgen Scholars Program",
+      "funded_by": {
+        "primary": "Amgen",
+        "additional": []
+      },
+      "degree_levels": [
+        "Undergraduate"
+      ],
+      "duration": {
+        "undergraduate": {
+          "years": "",
+          "semesters": "",
+          "details": "2 Months"
+        },
+        "masters": {
+          "years": "",
+          "semesters": "",
+          "details": ""
+        },
+        "phd": {
+          "years": "",
+          "semesters": "",
+          "details": ""
+        },
+        "general_info": "8 weeks"
+      },
+      "application_timeline": {
+        "opening_date": "",
+        "closing_date": "February 1, 2025",
+        "decision_date": "",
+        "program_start_date": "June 7, 2025",
+        "orientation_date": ""
+      },
+      "scholarships_available": {
+        "total": "10",
+        "per_program": {
+          "undergraduate": "10",
+          "masters": "",
+          "phd": ""
+        },
+        "per_country": "",
+        "restrictions": []
+      }
+    },
+    "program_details": {
+      "description": "Summer internship program at Tsinghua University for students to conduct research in sciences.",
+      "study_locations": [
+        "Beijing"
+      ],
+      "participating_universities": [
+        "Tsinghua University"
+      ],
+      "fields_of_study": {
+        "subjects": [
+          "sciences"
+        ],
+        "specializations": [],
+        "research_areas": [],
+        "restrictions": []
+      },
+      "program_structure": {
+        "academic_schedule": {
+          "semester_structure": "",
+          "academic_calendar": "",
+          "holidays": [],
+          "important_dates": []
+        },
+        "teaching_method": {
+          "format": [],
+          "language_of_instruction": "",
+          "online_components": false,
+          "attendance_requirements": ""
+        },
+        "curriculum": {
+          "core_courses": [],
+          "electives": [],
+          "research_requirements": [],
+          "thesis_requirements": "",
+          "internship_requirements": ""
+        },
+        "year_1": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        },
+        "year_2": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        },
+        "year_3": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        },
+        "year_4": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        }
+      },
+      "degree_awarded": {
+        "type": "",
+        "awarding_institution": "",
+        "recognition": [],
+        "accreditation": []
+      }
+    },
+    "benefits": {
+      "financial_coverage": {
+        "tuition": {
+          "coverage_type": "Full",
+          "details": "",
+          "conditions": [],
+          "amount": {
+            "value": "",
+            "currency": "",
+            "frequency": ""
+          }
+        },
+        "monthly_allowance": {
+          "undergraduate": {
+            "amount": "",
+            "currency": "",
+            "details": "Stipend"
+          },
+          "masters": {
+            "amount": "",
+            "currency": "",
+            "details": ""
+          },
+          "phd": {
+            "amount": "",
+            "currency": "",
+            "details": ""
+          },
+          "payment_schedule": "",
+          "conditions": []
+        },
+        "research_support": {
+          "amount": "",
+          "coverage": [],
+          "conditions": []
+        },
+        "travel": {
+          "airfare_covered": true,
+          "details": "Round Airfare Tickets",
+          "conditions": [],
+          "frequency": "",
+          "class": ""
+        },
+        "other_allowances": [
+          "Meals"
+        ],
+        "additional_support": []
+      },
+      "pre_departure": {
+        "language_training": {
+          "available": false,
+          "duration": "",
+          "provider": "",
+          "cost_coverage": ""
+        },
+        "cultural_orientation": {
+          "available": false,
+          "duration": "",
+          "content": []
+        },
+        "visa_assistance": {
+          "provided": false,
+          "services": [],
+          "cost_coverage": ""
+        },
+        "travel_arrangements": {
+          "provided": false,
+          "services": [],
+          "conditions": []
+        }
+      },
+      "during_program": {
+        "accommodation": {
+          "provided": true,
+          "type": "",
+          "location": "Tsinghua University",
+          "conditions": []
+        },
+        "academic_support": {
+          "tutoring": false,
+          "mentoring": true,
+          "research_supervision": true,
+          "language_support": false,
+          "details": [
+            "Learn from world-class faculty mentors"
+          ]
+        },
+        "healthcare": {
+          "coverage_type": "",
+          "insurance_provider": "",
+          "coverage_details": [],
+          "restrictions": []
+        },
+        "facilities_access": {
+          "library": true,
+          "labs": true,
+          "sports": false,
+          "others": []
+        },
+        "student_services": []
+      },
+      "post_program": {
+        "alumni_network": {
+          "available": false,
+          "benefits": []
+        },
+        "career_services": {
+          "available": false,
+          "services": []
+        },
+        "further_opportunities": []
+      }
+    },
+    "eligibility": {
+      "nationality": {
+        "type": "Regional",
+        "eligible_nationalities": [
+          "China",
+          "Hong Kong SAR",
+          "Macao SAR",
+          "Taiwan Province of China",
+          "Democratic People’s Republic of Korea",
+          "Japan",
+          "Mongolia",
+          "Republic of Korea",
+          "Brunei Darussalam",
+          "Cambodia",
+          "Indonesia",
+          "Lao People’s Democratic Republic",
+          "Malaysia",
+          "Myanmar",
+          "Philippines",
+          "Singapore",
+          "Thailand",
+          "Timor-Leste",
+          "Viet Nam",
+          "Kazakhstan",
+          "Kyrgyzstan",
+          "Tajikistan",
+          "Turkmenistan",
+          "Uzbekistan",
+          "Afghanistan",
+          "Bangladesh",
+          "Bhutan",
+          "India",
+          "Iran (Islamic Republic of)",
+          "Maldives",
+          "Nepal",
+          "Pakistan",
+          "Sri Lanka",
+          "Armenia",
+          "Azerbaijan",
+          "Bahrain",
+          "Cyprus",
+          "Georgia",
+          "Iraq",
+          "Israel",
+          "Jordan",
+          "Kuwait",
+          "Lebanon",
+          "Oman",
+          "Qatar",
+          "Saudi Arabia",
+          "State of Palestine",
+          "Syrian Arab Republic",
+          "Türkiye",
+          "United Arab Emirates",
+          "Yemen"
+        ],
+        "excluded_nationalities": [],
+        "conditions": [],
+        "dual_citizenship_policy": ""
+      },
+      "academic": {
+        "minimum_degree_required": "",
+        "accepted_degrees": [],
+        "minimum_gpa": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": "",
+          "scale": ""
+        },
+        "final_year_allowed": false,
+        "specific_backgrounds": [],
+        "academic_requirements": [
+          "Completed at least one year of undergraduate study by the program start date",
+          "Plan to resume undergraduate studies for at least one semester or quarter after the program ends"
+        ],
+        "required_courses": [],
+        "prerequisites": []
+      },
+      "language": {
+        "english": {
+          "required": false,
+          "minimum_score": {
+            "ielts": "",
+            "toefl": "",
+            "other": []
+          },
+          "waiver_conditions": [
+            "Studying in an English Speaking University"
+          ],
+          "test_validity_period": ""
+        },
+        "other_languages": []
+      },
+      "experience": {
+        "required": false,
+        "minimum_years": "",
+        "type": [],
+        "specific_fields": [],
+        "details": "Previous research experience is not required.",
+        "proof_required": []
+      },
+      "age": {
+        "minimum": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": ""
+        },
+        "maximum": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": ""
+        },
+        "exceptions": [],
+        "calculation_date": ""
+      },
+      "research_requirements": {
+        "proposal_required": false,
+        "proposal_guidelines": "",
+        "research_areas": [],
+        "supervisor_requirement": false,
+        "prior_publications": false
+      },
+      "health_requirements": {
+        "medical_certificate": false,
+        "vaccinations": [],
+        "health_insurance": false,
+        "specific_conditions": []
+      },
+      "return_obligations": {
+        "required": false,
+        "details": "",
+        "bond_period": "",
+        "conditions": []
+      },
+      "special_conditions": {
+        "employment_status": [],
+        "institutional_nominations": false,
+        "quotas": {
+          "gender": false,
+          "region": false,
+          "field_of_study": false,
+          "details": []
+        },
+        "other_restrictions": [
+          "Not be graduating before the program starts or ending their studies early"
+        ]
+      }
+    },
+    "application": {
+      "submission_method": {
+        "online": true,
+        "paper": false,
+        "platform": "",
+        "instructions": "Complete the online application form."
+      },
+      "required_documents": {
+        "general": [
+          "Personal Curriculum Vitae (CV)",
+          "Personal Information Form (template)",
+          "Open Questions (template)",
+          "Statement of Purpose (template)",
+          "Official Current Transcript(s) (signed and stamped)",
+          "Two Reference Letters",
+          "Proof of English Language Proficiency"
+        ],
+        "program_specific": {
+          "undergraduate": [],
+          "masters": [],
+          "phd": []
+        },
+        "special_requirements": [
+          "Submit a research paper at the end of the program or an Internship Report"
+        ]
+      },
+      "document_requirements": {
+        "authentication": [],
+        "translation": {
+          "required": false,
+          "accepted_languages": [],
+          "certified_translation": false,
+          "exceptions": []
+        },
+        "format": {
+          "file_types": [],
+          "size_limits": "",
+          "naming_convention": "",
+          "special_instructions": []
+        }
+      },
+      "selection_process": {
+        "stages": [],
+        "timeline": "",
+        "interview": {
+          "required": false,
+          "format": "",
+          "duration": "",
+          "components": [],
+          "preparation_guidelines": []
+        },
+        "evaluation_criteria": [],
+        "notification_process": ""
+      },
+      "application_process": [],
+      "application_link": "https://tsinghuaamgenscholars.com/2.html",
+      "additional_instructions": []
+    },
+    "metadata": {
+      "scholarship_id": "",
+      "last_updated": "",
+      "shares_count": "",
+      "related_programs": [
+        "KYOTO University Amgen Scholars Program 2025",
+        "NUS Amgen Scholars Program 2025 in Singapore",
+        "UTokyo Amgen Scholars Program 2025 in Japan"
+      ],
+      "source_url": "https://opportunitiescorners.com/tsinghua-university-amgen-scholars-program/",
+      "categories": [
+        "Online Courses"
+      ],
+      "scholarship_history": {
+        "established_year": "",
+        "previous_statistics": {
+          "total_awards": "",
+          "success_rate": "",
+          "demographic_data": []
+        },
+        "alumni_outcomes": []
+      },
+      "contact_information": {
+        "primary_contact": {
+          "department": "",
+          "email": "",
+          "phone": "",
+          "website": "",
+          "office_hours": ""
+        },
+        "regional_offices": [],
+        "social_media": {
+          "facebook": "",
+          "twitter": "",
+          "linkedin": "",
+          "youtube": ""
+        }
+      },
+      "resources": {
+        "faq_link": "",
+        "brochures": [],
+        "guidelines": [],
+        "forms": []
+      },
+      "tags": [],
+      "success_stories": [],
+      "reviews": [],
+      "additional_notes": []
+    }
+  }
+}

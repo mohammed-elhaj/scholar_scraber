@@ -1,0 +1,471 @@
+{
+  "scholarship": {
+    "basic_info": {
+      "title": "University of Pretoria (UP) Commonwealth Scholarship 2025 (Fully Funded)",
+      "post_date": "July 11, 2024",
+      "author": "Muhammad Saim Rasheed",
+      "academic_year": "2025",
+      "funding_type": {
+        "type": "Fully funded",
+        "details": "",
+        "coverage_options": []
+      },
+      "host_countries": [
+        "South Africa"
+      ],
+      "program_name": "University of Pretoria Commonwealth Doctoral Scholarship",
+      "funded_by": {
+        "primary": "UP Internal Bursary",
+        "additional": []
+      },
+      "degree_levels": [
+        "phd"
+      ],
+      "duration": {
+        "undergraduate": {
+          "years": "",
+          "semesters": "",
+          "details": ""
+        },
+        "masters": {
+          "years": "",
+          "semesters": "",
+          "details": ""
+        },
+        "phd": {
+          "years": "3",
+          "semesters": "",
+          "details": ""
+        },
+        "general_info": ""
+      },
+      "application_timeline": {
+        "opening_date": "",
+        "closing_date": "11th September 2024",
+        "decision_date": "",
+        "program_start_date": "2025",
+        "orientation_date": ""
+      },
+      "scholarships_available": {
+        "total": "",
+        "per_program": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": ""
+        },
+        "per_country": "",
+        "restrictions": []
+      }
+    },
+    "program_details": {
+      "description": "Fully funded doctoral scholarship for students from Commonwealth countries (excluding South Africa) to study at the University of Pretoria.",
+      "study_locations": [
+        "Pretoria, South Africa"
+      ],
+      "participating_universities": [
+        "University of Pretoria"
+      ],
+      "fields_of_study": {
+        "subjects": [
+          "Law",
+          "Humanities",
+          "Education",
+          "Engineering, Built Environment and IT",
+          "Health Science",
+          "Veterinary Science",
+          "Economic and Management Science",
+          "Natural and Agricultural Sciences",
+          "Theology and Religion"
+        ],
+        "specializations": [],
+        "research_areas": [],
+        "restrictions": []
+      },
+      "program_structure": {
+        "academic_schedule": {
+          "semester_structure": "",
+          "academic_calendar": "",
+          "holidays": [],
+          "important_dates": []
+        },
+        "teaching_method": {
+          "format": [],
+          "language_of_instruction": "",
+          "online_components": false,
+          "attendance_requirements": ""
+        },
+        "curriculum": {
+          "core_courses": [],
+          "electives": [],
+          "research_requirements": [],
+          "thesis_requirements": "",
+          "internship_requirements": ""
+        },
+        "year_1": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        },
+        "year_2": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        },
+        "year_3": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        },
+        "year_4": {
+          "description": "",
+          "requirements": [],
+          "milestones": []
+        }
+      },
+      "degree_awarded": {
+        "type": "Doctoral",
+        "awarding_institution": "University of Pretoria",
+        "recognition": [],
+        "accreditation": []
+      }
+    },
+    "benefits": {
+      "financial_coverage": {
+        "tuition": {
+          "coverage_type": "Full",
+          "details": "",
+          "conditions": [],
+          "amount": {
+            "value": "",
+            "currency": "",
+            "frequency": ""
+          }
+        },
+        "monthly_allowance": {
+          "undergraduate": {
+            "amount": "",
+            "currency": "",
+            "details": ""
+          },
+          "masters": {
+            "amount": "",
+            "currency": "",
+            "details": ""
+          },
+          "phd": {
+            "amount": "",
+            "currency": "ZAR",
+            "details": "Part of 184000 ZAR for Accommodation, Living expenses, medical, and books"
+          },
+          "payment_schedule": "",
+          "conditions": []
+        },
+        "research_support": {
+          "amount": "",
+          "coverage": [],
+          "conditions": []
+        },
+        "travel": {
+          "airfare_covered": true,
+          "details": "Return Flight tickets",
+          "conditions": [],
+          "frequency": "",
+          "class": ""
+        },
+        "other_allowances": [
+          "Books/Stationery",
+          "Shuttle service on arrival",
+          "Application Fee",
+          "Medical aid fee",
+          "Study Visa cost"
+        ],
+        "additional_support": []
+      },
+      "pre_departure": {
+        "language_training": {
+          "available": false,
+          "duration": "",
+          "provider": "",
+          "cost_coverage": ""
+        },
+        "cultural_orientation": {
+          "available": false,
+          "duration": "",
+          "content": []
+        },
+        "visa_assistance": {
+          "provided": true,
+          "services": [],
+          "cost_coverage": "Study Visa cost"
+        },
+        "travel_arrangements": {
+          "provided": false,
+          "services": [],
+          "conditions": []
+        }
+      },
+      "during_program": {
+        "accommodation": {
+          "provided": false,
+          "type": "",
+          "location": "",
+          "conditions": []
+        },
+        "academic_support": {
+          "tutoring": false,
+          "mentoring": false,
+          "research_supervision": false,
+          "language_support": false,
+          "details": []
+        },
+        "healthcare": {
+          "coverage_type": "Medical Aid",
+          "insurance_provider": "",
+          "coverage_details": [],
+          "restrictions": []
+        },
+        "facilities_access": {
+          "library": false,
+          "labs": false,
+          "sports": false,
+          "others": []
+        },
+        "student_services": []
+      },
+      "post_program": {
+        "alumni_network": {
+          "available": false,
+          "benefits": []
+        },
+        "career_services": {
+          "available": false,
+          "services": []
+        },
+        "further_opportunities": []
+      }
+    },
+    "eligibility": {
+      "nationality": {
+        "type": "Commonwealth",
+        "eligible_nationalities": [],
+        "excluded_nationalities": [
+          "South Africa"
+        ],
+        "conditions": [],
+        "dual_citizenship_policy": ""
+      },
+      "academic": {
+        "minimum_degree_required": "Master's",
+        "accepted_degrees": [],
+        "minimum_gpa": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": "",
+          "scale": ""
+        },
+        "final_year_allowed": false,
+        "specific_backgrounds": [],
+        "academic_requirements": [
+          "Must have submitted a separate application for admission to a UP doctoral program for the 2025 academic year.",
+          "Have academic records evaluated by the South African Qualification Authority (SAQA).",
+          "Completed your postgraduate or Master’s degree within the past two years."
+        ],
+        "required_courses": [],
+        "prerequisites": []
+      },
+      "language": {
+        "english": {
+          "required": false,
+          "minimum_score": {
+            "ielts": "",
+            "toefl": "",
+            "other": []
+          },
+          "waiver_conditions": [],
+          "test_validity_period": ""
+        },
+        "other_languages": [
+          {
+            "language": "",
+            "required": false,
+            "minimum_level": "",
+            "details": "",
+            "waiver_conditions": [],
+            "test_requirements": []
+          }
+        ]
+      },
+      "experience": {
+        "required": false,
+        "minimum_years": "",
+        "type": [],
+        "specific_fields": [],
+        "details": "",
+        "proof_required": []
+      },
+      "age": {
+        "minimum": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": ""
+        },
+        "maximum": {
+          "undergraduate": "",
+          "masters": "",
+          "phd": "40"
+        },
+        "exceptions": [],
+        "calculation_date": "time of application"
+      },
+      "research_requirements": {
+        "proposal_required": true,
+        "proposal_guidelines": "An outline of the intended research work of one page.",
+        "research_areas": [],
+        "supervisor_requirement": true,
+        "prior_publications": true
+      },
+      "health_requirements": {
+        "medical_certificate": false,
+        "vaccinations": [],
+        "health_insurance": true,
+        "specific_conditions": []
+      },
+      "return_obligations": {
+        "required": false,
+        "details": "",
+        "bond_period": "",
+        "conditions": []
+      },
+      "special_conditions": {
+        "employment_status": [],
+        "institutional_nominations": false,
+        "quotas": {
+          "gender": false,
+          "region": false,
+          "field_of_study": false,
+          "details": []
+        },
+        "other_restrictions": [
+          "PhD and Masters students currently registered or who previously studied at the University of Pretoria are not eligible to apply for this scholarship."
+        ]
+      }
+    },
+    "application": {
+      "submission_method": {
+        "online": false,
+        "paper": false,
+        "platform": "email",
+        "instructions": "Send your complete application package (scholarship application form and combined PDF of documents) to pgbursary@up.ac.za with the subject line “UP Commonwealth 2025“."
+      },
+      "required_documents": {
+        "general": [
+          "UP Commonwealth Scholarship application form",
+          "Motivation letter from the supervisor of the UP",
+          "An outline of the intended research work of one page",
+          "CV (less than 3 pages)",
+          "Certificate of study leave from your current work organization",
+          "Copy of passport",
+          "Academic transcripts of all educational degrees",
+          "Two reference letters from 2 different supervisors who know the applicant"
+        ],
+        "program_specific": {
+          "undergraduate": [],
+          "masters": [],
+          "phd": []
+        },
+        "special_requirements": []
+      },
+      "document_requirements": {
+        "authentication": [],
+        "translation": {
+          "required": false,
+          "accepted_languages": [],
+          "certified_translation": false,
+          "exceptions": []
+        },
+        "format": {
+          "file_types": [
+            "PDF"
+          ],
+          "size_limits": "",
+          "naming_convention": "",
+          "special_instructions": [
+            "Combine all documents into a single PDF file."
+          ]
+        }
+      },
+      "selection_process": {
+        "stages": [],
+        "timeline": "",
+        "interview": {
+          "required": false,
+          "format": "",
+          "duration": "",
+          "components": [],
+          "preparation_guidelines": []
+        },
+        "evaluation_criteria": [
+          "Previous academic performance.",
+          "Potential to undertake advanced research activities.",
+          "Leadership qualities.",
+          "Evidence of research accomplishment at the Master’s level through publications.",
+          "Prizes and honors received if any."
+        ],
+        "notification_process": ""
+      },
+      "application_process": [
+        "Download and fill out the official UP Commonwealth Scholarship application form.",
+        "Submit a separate application for admission to a doctoral program at the University of Pretoria for the 2025 academic year.",
+        "Prepare Required Documents given above. Ensure they are combined into a single PDF file.",
+        "Send your complete application package (scholarship application form and combined PDF of documents) to pgbursary@up.ac.za with the subject line “UP Commonwealth 2025“."
+      ],
+      "application_link": "https://www.up.ac.za/funding/3237135/2025-up-doctoral-commonwealth-scholarship",
+      "additional_instructions": []
+    },
+    "metadata": {
+      "scholarship_id": "",
+      "last_updated": "",
+      "shares_count": "",
+      "related_programs": [],
+      "source_url": "https://opportunitiescorners.com/university-of-pretoria-up-commonwealth-scholarship/",
+      "categories": [
+        "Bachelor, Master, PhD Scholarships"
+      ],
+      "scholarship_history": {
+        "established_year": "",
+        "previous_statistics": {
+          "total_awards": "",
+          "success_rate": "",
+          "demographic_data": []
+        },
+        "alumni_outcomes": []
+      },
+      "contact_information": {
+        "primary_contact": {
+          "department": "",
+          "email": "pgbursary@up.ac.za",
+          "phone": "",
+          "website": "",
+          "office_hours": ""
+        },
+        "regional_offices": [],
+        "social_media": {
+          "facebook": "",
+          "twitter": "",
+          "linkedin": "",
+          "youtube": ""
+        }
+      },
+      "resources": {
+        "faq_link": "",
+        "brochures": [],
+        "guidelines": [],
+        "forms": []
+      },
+      "tags": [],
+      "success_stories": [],
+      "reviews": [],
+      "additional_notes": []
+    }
+  }
+}
