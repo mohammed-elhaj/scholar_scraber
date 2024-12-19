@@ -1,0 +1,110 @@
+{
+  "scholarship": {
+    "basic_info": {
+      "title": "Kazakhstan Government Scholarship 2024 (550 Scholarships)",
+      "post_date": "April 3, 2024",
+      "author": "Muhammad Saim Rasheed",
+      "funding_type": "Government Scholarship",
+      "host_countries": [
+        "Kazakhstan"
+      ],
+      "program_name": "Kazakhstan Government Scholarship",
+      "funded_by": "Ministry of Science and Higher Education of the Republic of Kazakhstan",
+      "degree_levels": [
+        "Bachelor",
+        "Master",
+        "PhD"
+      ],
+      "duration": "Not specified",
+      "scholarships_available": "550",
+      "deadline": "31st May 2024"
+    },
+    "program_details": {
+      "description": "Applicants from all around the world are invited to apply for the Kazakhstan Government Scholarship 2024. 550 Scholarships are allocated to Bachelor, Master, and PhD Degree programs.",
+      "study_locations": [],
+      "participating_universities": [],
+      "program_structure": {
+        "year_1": "",
+        "year_2": ""
+      },
+      "subjects": [],
+      "language": "English, Russian, or Kazakh"
+    },
+    "benefits": {
+      "financial_coverage": [
+        "Full cost of the Tuition Fee",
+        "Monthly Allowance"
+      ],
+      "additional_benefits": []
+    },
+    "eligibility": {
+      "nationality": {
+        "type": "all_inclusive",
+        "eligible_nationalities": [],
+        "excluded_nationalities": []
+      },
+      "academic": {
+        "minimum_degree_required": "Not specified",
+        "accepted_degrees": [],
+        "minimum_gpa": "Not specified",
+        "final_year_allowed": true,
+        "specific_backgrounds": [],
+        "academic_requirements": []
+      },
+      "language": {
+        "english": {
+          "required": true,
+          "minimum_score": {
+            "ielts": "",
+            "toefl": "",
+            "other": ""
+          },
+          "waiver_conditions": []
+        },
+        "other_languages": []
+      },
+      "experience": {
+        "required": false,
+        "minimum_years": "",
+        "type": [],
+        "specific_fields": []
+      },
+      "age": {
+        "minimum": "",
+        "maximum": "",
+        "exceptions": []
+      },
+      "other_criteria": {
+        "research_requirements": [],
+        "professional_requirements": [],
+        "specific_skills": [],
+        "additional_conditions": []
+      }
+    },
+    "application": {
+      "required_documents": [
+        "Identity document",
+        "Previous Educational Documents",
+        "Motivational Essay in English, Russian, or Kazakh",
+        "Letter of Recommendation from the Previous University",
+        "A Medical Certificate",
+        "An application form",
+        "Letter of invitation from the Kazakhstan University (if available)",
+        "Proof of English Language Proficiency"
+      ],
+      "application_process": [
+        "Apply online, create an account, and fill out the application form",
+        "Read the guidelines for international students"
+      ],
+      "application_link": "https://enic-kazakhstan.edu.kz/en/post/231"
+    },
+    "metadata": {
+      "shares_count": null,
+      "related_programs": [],
+      "source_url": "https://opportunitiescorners.com/kazakhstan-government-scholarship-2024-550-scholarships/",
+      "categories": [
+        "Bachelor, Master, PhD Scholarships"
+      ]
+    }
+  }
+}

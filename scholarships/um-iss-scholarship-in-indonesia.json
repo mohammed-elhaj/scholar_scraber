@@ -1,0 +1,111 @@
+{
+  "scholarship": {
+    "basic_info": {
+      "title": "UM ISS Scholarship 2024 in Indonesia (Fully Funded Scholarship)",
+      "post_date": "April 23, 2024",
+      "author": "Muhammad Saim Rasheed",
+      "funding_type": "Fully Funded Scholarship",
+      "host_countries": [
+        "Indonesia"
+      ],
+      "program_name": "UM ISS (International Student Scholarship)",
+      "funded_by": null,
+      "degree_levels": [
+        "Bachelor’s",
+        "Master’s",
+        "PhD"
+      ],
+      "duration": null,
+      "scholarships_available": null,
+      "deadline": "30th April 2024"
+    },
+    "program_details": {
+      "description": null,
+      "study_locations": [],
+      "participating_universities": [
+        "UM University Indonesia"
+      ],
+      "program_structure": {},
+      "subjects": [],
+      "language": "English"
+    },
+    "benefits": {
+      "financial_coverage": [],
+      "additional_benefits": []
+    },
+    "eligibility": {
+      "nationality": {
+        "type": "all_inclusive",
+        "eligible_nationalities": [],
+        "excluded_nationalities": []
+      },
+      "academic": {
+        "minimum_degree_required": null,
+        "accepted_degrees": [],
+        "minimum_gpa": null,
+        "final_year_allowed": false,
+        "specific_backgrounds": [],
+        "academic_requirements": []
+      },
+      "language": {
+        "english": {
+          "required": true,
+          "minimum_score": null,
+          "waiver_conditions": []
+        },
+        "other_languages": []
+      },
+      "experience": {
+        "required": false,
+        "minimum_years": null,
+        "type": [],
+        "specific_fields": []
+      },
+      "age": {
+        "minimum": null,
+        "maximum": null,
+        "exceptions": []
+      },
+      "other_criteria": {
+        "research_requirements": [],
+        "professional_requirements": [],
+        "specific_skills": [],
+        "additional_conditions": []
+      }
+    },
+    "application": {
+      "required_documents": [
+        "Previous degree certificate",
+        "Academic transcript",
+        "Scan of passport",
+        "Health certificate",
+        "Financial guarantee statement",
+        "Passport-size photo",
+        "Letter of statement",
+        "Letter of recommendation (2)",
+        "English proficiency certificate",
+        "Publication (for Doctoral)",
+        "Recommendation from promotor (for Doctoral only)"
+      ],
+      "application_process": [
+        "Visit the UM ISS website, create an account, and fill in all the data. Check your email and activate your account.",
+        "In the ‘Registration Status’ page, choose “degree” in the registration type.",
+        "Choose your desired scheme and degree, and click the ‘Submit’ button once you’ve completed the process.",
+        "Add your details and complete the required information about your educational background. Upload all required documents."
+      ],
+      "application_link": "https://seleksi.um.ac.id/intl/"
+    },
+    "metadata": {
+      "shares_count": null,
+      "related_programs": [
+        "University of Jambi Scholarship 2024 in Indonesia (Fully Funded)",
+        "UMS International Priority Scholarship 2024, Indonesia (Fully Funded)",
+        "University of Winnipeg President’s Scholarship 2024 in Canada"
+      ],
+      "source_url": null,
+      "categories": [
+        "Bachelor, Master, PhD Scholarships"
+      ]
+    }
+  }
+}

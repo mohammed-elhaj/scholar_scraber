@@ -1,0 +1,118 @@
+{
+  "scholarship": {
+    "basic_info": {
+      "title": "Moscow Polytechnic University Open Doors Scholarship 2025, Russia",
+      "post_date": "October 20, 2024",
+      "author": "Muhammad Saim Rasheed",
+      "funding_type": "Funded",
+      "host_countries": [
+        "Russia"
+      ],
+      "program_name": "Open Doors Scholarship",
+      "funded_by": "Ministry of Science and Higher Education",
+      "degree_levels": [
+        "Bachelor",
+        "Master",
+        "PhD",
+        "Post Doc"
+      ],
+      "duration": "",
+      "scholarships_available": "",
+      "deadline": "November 20, 2024 (For BS, MS, and PhD)\nDecember 10, 2024 (For Post Doctoral)"
+    },
+    "program_details": {
+      "description": "Moscow Polytechnic University is a Leading Russian University popular in engineering and technology. It is one of the oldest technical institutions in Russia. International students from all around the world can <strong>Study for Free</strong> at the Moscow Polytechnic University. Applications are open for the <strong>Moscow Polytechnic University Open Doors Scholarship 2025.</strong> Moscow Polytechnic University is a Part of the <strong><a href=\"https://opportunitiescorners.com/russian-government-scholarship-at-hse-university/\">Russian Open Doors Scholarship Project</a></strong>. The Scholarship is available to pursue <strong>Bachelor</strong>, <strong>Master</strong>, <strong>PhD</strong>, and<strong> Post Doc</strong> programs. The Open Doors Scholarship is <strong>Funded</strong> by the Ministry of Science and Higher Education. The Program Covers Free Tuition and free Admission, and a Monthly Stipend is given to the Winners of the Open Doors Russian Scholarship. More details about the Scholarship criteria, the benefits, study fields, and the application details are given below.",
+      "study_locations": [],
+      "participating_universities": [
+        "Moscow Polytechnic University"
+      ],
+      "program_structure": {
+        "year_1": "",
+        "year_2": ""
+      },
+      "subjects": [
+        "Computer and Data Science",
+        "Engineering and technology",
+        "Business and Management",
+        "Linguistics and Modern Languages"
+      ],
+      "language": "English"
+    },
+    "benefits": {
+      "financial_coverage": [
+        "Free Higher Education in Russia",
+        "Free Admission",
+        "No Tuition Fee",
+        "Monthly Stipend"
+      ],
+      "additional_benefits": [
+        "Accommodation is not included, but accommodation provided by the University is cheap"
+      ]
+    },
+    "eligibility": {
+      "nationality": {
+        "type": "all_inclusive",
+        "eligible_nationalities": [],
+        "excluded_nationalities": []
+      },
+      "academic": {
+        "minimum_degree_required": "high school diploma",
+        "accepted_degrees": [
+          "Bachelor’s degree",
+          "Master’s degree",
+          "PhD",
+          "Post Doc"
+        ],
+        "minimum_gpa": null,
+        "final_year_allowed": false,
+        "specific_backgrounds": [],
+        "academic_requirements": []
+      },
+      "language": {
+        "english": {
+          "required": false,
+          "minimum_score": {
+            "ielts": null,
+            "toefl": null,
+            "other": null
+          },
+          "waiver_conditions": []
+        },
+        "other_languages": []
+      },
+      "experience": {
+        "required": false,
+        "minimum_years": null,
+        "type": [],
+        "specific_fields": []
+      },
+      "age": {
+        "minimum": null,
+        "maximum": null,
+        "exceptions": []
+      },
+      "other_criteria": []
+    },
+    "application": {
+      "required_documents": [],
+      "application_process": [
+        "The Application Process is online.",
+        "It takes one click to Open all Doors.",
+        "If you are interested in studying Free in the Moscow Polytechnic University then choose this University in the online form."
+      ],
+      "application_link": "https://mospolytech.ru/en/postupayushchim/open-doors/"
+    },
+    "metadata": {
+      "shares_count": null,
+      "related_programs": [
+        "Russian Government Scholarship at HSE University 2025",
+        "Erasmus Mundus MAPP Scholarship 2025-2027",
+        "Sweden University Admissions for SI Global Scholarship 2025"
+      ],
+      "source_url": "https://opportunitiescorners.com/moscow-polytechnic-university-open-doors-scholarship-2025-russia/",
+      "categories": [
+        "Bachelor, Master, PhD Scholarships"
+      ]
+    }
+  }
+}

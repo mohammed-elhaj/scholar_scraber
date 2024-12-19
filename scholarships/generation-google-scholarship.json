@@ -1,0 +1,98 @@
+{
+  "scholarship": {
+    "basic_info": {
+      "title": "The Generation Google Scholarship",
+      "post_date": "April 1, 2024",
+      "author": "Opportunities Corners",
+      "funding_type": "Scholarship",
+      "host_countries": [],
+      "program_name": "Generation Google Scholarship",
+      "funded_by": "Google",
+      "degree_levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "duration": "",
+      "scholarships_available": "Varies depending on the region",
+      "deadline": "Different for Each Region"
+    },
+    "program_details": {
+      "description": "The Generation Google Scholarship is designed for Undergraduates and Graduate students who are not able to afford Study Expenses so Google will Pay them a lump sum Award so they can cover their study Expenses.",
+      "study_locations": [],
+      "participating_universities": [],
+      "program_structure": {},
+      "subjects": [],
+      "language": ""
+    },
+    "benefits": {
+      "financial_coverage": [
+        {
+          "type": "Stipend",
+          "amount": "2500 USD/7000 Euros/10000 USD/5000 CAD"
+        }
+      ],
+      "additional_benefits": []
+    },
+    "eligibility": {
+      "nationality": {
+        "type": "all_inclusive",
+        "eligible_nationalities": [
+          "Africa",
+          "Americas",
+          "Asia-Pacific",
+          "Australia/Oceania",
+          "Europe",
+          "Middle East",
+          "USA",
+          "Canada"
+        ],
+        "excluded_nationalities": []
+      },
+      "academic": {
+        "minimum_degree_required": "",
+        "accepted_degrees": [],
+        "minimum_gpa": "",
+        "final_year_allowed": true,
+        "specific_backgrounds": [],
+        "academic_requirements": []
+      },
+      "language": {
+        "english": {
+          "required": false,
+          "minimum_score": {
+            "ielts": "",
+            "toefl": "",
+            "other": ""
+          },
+          "waiver_conditions": []
+        },
+        "other_languages": []
+      },
+      "experience": {
+        "required": false,
+        "minimum_years": "",
+        "type": [],
+        "specific_fields": []
+      },
+      "age": {
+        "minimum": "",
+        "maximum": "",
+        "exceptions": []
+      },
+      "other_criteria": []
+    },
+    "application": {
+      "required_documents": [],
+      "application_process": [],
+      "application_link": "https://buildyourfuture.withgoogle.com/scholarships"
+    },
+    "metadata": {
+      "shares_count": null,
+      "related_programs": [],
+      "source_url": "https://opportunitiescorners.com/the-generation-google-scholarship-apply-now/",
+      "categories": [
+        "Bachelor, Master, PhD Scholarships"
+      ]
+    }
+  }
+}

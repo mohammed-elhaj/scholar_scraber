@@ -1,0 +1,129 @@
+{
+  "scholarship": {
+    "basic_info": {
+      "title": "University of Pretoria (UP) Commonwealth Scholarship 2025 (Fully Funded)",
+      "post_date": "July 11, 2024",
+      "author": "Muhammad Saim Rasheed",
+      "funding_type": "Fully Funded",
+      "host_countries": [
+        "South Africa"
+      ],
+      "program_name": "Doctoral Degree Program",
+      "funded_by": "UP Internal Bursary",
+      "degree_levels": [
+        "Doctoral"
+      ],
+      "duration": "3 years",
+      "scholarships_available": "",
+      "deadline": "11th September 2024"
+    },
+    "program_details": {
+      "description": "Applications are open for the **University of Pretoria (UP) Commonwealth Scholarship 2025**. It is a **fully funded scholarship** for students from **<a href=\"https://thecommonwealth.org/our-member-countries\">Commonwealth countries</a>**. South African citizens can not apply for this scholarship.",
+      "study_locations": [
+        "Pretoria, South Africa"
+      ],
+      "participating_universities": [
+        "University of Pretoria"
+      ],
+      "program_structure": {
+        "year_1": null,
+        "year_2": null
+      },
+      "subjects": [
+        "Not specified"
+      ],
+      "language": "English"
+    },
+    "benefits": {
+      "financial_coverage": [
+        "Return Flight tickets",
+        "Accommodation and living costs",
+        "Fees",
+        "Medical Aid",
+        "Books/Stationery",
+        "Shuttle service on arrival",
+        "Application Fee",
+        "Medical aid fee",
+        "Study Visa cost"
+      ],
+      "additional_benefits": []
+    },
+    "eligibility": {
+      "nationality": {
+        "type": "all_inclusive",
+        "eligible_nationalities": [],
+        "excluded_nationalities": [
+          "South Africa"
+        ]
+      },
+      "academic": {
+        "minimum_degree_required": "Master's degree",
+        "accepted_degrees": [],
+        "minimum_gpa": null,
+        "final_year_allowed": false,
+        "specific_backgrounds": [],
+        "academic_requirements": [
+          "Completed your postgraduate or Master’s degree within the past two years."
+        ]
+      },
+      "language": {
+        "english": {
+          "required": true,
+          "minimum_score": null,
+          "waiver_conditions": []
+        },
+        "other_languages": []
+      },
+      "experience": {
+        "required": false,
+        "minimum_years": null,
+        "type": [],
+        "specific_fields": []
+      },
+      "age": {
+        "minimum": null,
+        "maximum": 40,
+        "exceptions": []
+      },
+      "other_criteria": [
+        "Residents of Commonwealth countries (excluding South Africa).",
+        "Plan to start studies University of Pretoria in 2025.",
+        "Must have submitted a separate application for admission to a UP doctoral program for the 2025 academic year.",
+        "Secured a potential supervisor at UP.",
+        "Have your academic records evaluated by the South African Qualification Authority (SAQA).",
+        "PhD and Masters students currently registered or who previously studied at the University of Pretoria are not eligible to apply for this scholarship."
+      ]
+    },
+    "application": {
+      "required_documents": [
+        "A motivation letter from the supervisor of the UP is needed.",
+        "An outline of the intended research work of one page.",
+        "CV (less than 3 pages).",
+        "Certificate of study leave from your current work organization.",
+        "Copy of passport.",
+        "Academic transcripts of all educational degrees.",
+        "Two reference letters from 2 different supervisors who know the applicant."
+      ],
+      "application_process": [
+        "Download and fill out the official UP Commonwealth Scholarship application form.",
+        "Submit a separate application for admission to a doctoral program at the University of Pretoria for the 2025 academic year.",
+        "Prepare Required Documents given above. Ensure they are combined into a single PDF file.",
+        "Send your complete application package (scholarship application form and combined PDF of documents) to pgbursary@up.ac.za with the subject line “UP Commonwealth 2025“."
+      ],
+      "application_link": "https://www.up.ac.za/funding/3237135/2025-up-doctoral-commonwealth-scholarship"
+    },
+    "metadata": {
+      "shares_count": null,
+      "related_programs": [
+        "Commonwealth Professional Fellowship 2025 in UK (Fully Funded)",
+        "Ireland Fellows Program 2025-2026 (Fully Funded Scholarship)",
+        "600 University of Melbourne Graduate Research Scholarship 2025",
+        "Lester B Pearson Scholarship in Canada 2025 (Fully Funded)"
+      ],
+      "source_url": "https://opportunitiescorners.com/university-of-pretoria-up-commonwealth-scholarship-2025-fully-funded/",
+      "categories": [
+        "Bachelor, Master, PhD Scholarships"
+      ]
+    }
+  }
+}

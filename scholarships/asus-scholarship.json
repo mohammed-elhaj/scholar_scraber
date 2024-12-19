@@ -1,0 +1,126 @@
+{
+  "scholarship": {
+    "basic_info": {
+      "title": "ASUS Scholarship 2024 at Taiwan Tech University (Fully Funded)",
+      "post_date": "March 18, 2024",
+      "author": "Muhammad Saim Rasheed",
+      "funding_type": "Fully Funded",
+      "host_countries": [
+        "Taiwan"
+      ],
+      "program_name": "ASUS Scholarship 2024",
+      "funded_by": "ASUS and the Taiwan Tech University",
+      "degree_levels": [
+        "Master’s Degree Program"
+      ],
+      "duration": "2-year master’s degree program",
+      "scholarships_available": "",
+      "deadline": "30th March 2024"
+    },
+    "program_details": {
+      "description": "Fully funded scholarship to study in Taiwan. The applications are open for the **ASUS Scholarship 2024** at the National Taiwan University of Science and Technology **(Taiwan Tech)**. This is a New Scholarship launched by the ASUS and the Taiwan Tech University to provide a fully funded** master’s degree** scholarship for international students. After graduation, ASUS will offer a** 2-year position at ASUS HQ, Taiwan.**\n\nASUS is a Taiwanese multinational computer hardware and consumer electronics company. During the scholarship program, ASUS will also offer internship programs and training related to the Job. The scholarship is open in electronics, information technology, or management-related disciplines. It’s a great opportunity. It’s an opportunity you don’t want to miss—study and work in Taiwan. More details about the ASUS Scholarship Program are given below.",
+      "study_locations": [
+        "Taiwan Tech University"
+      ],
+      "participating_universities": [
+        "National Taiwan University of Science and Technology"
+      ],
+      "program_structure": {
+        "year_1": null,
+        "year_2": null
+      },
+      "subjects": [
+        "Electrical Engineering",
+        "Computer Science",
+        "Management",
+        "Design"
+      ],
+      "language": null
+    },
+    "benefits": {
+      "financial_coverage": [
+        "Tuition Fee waiver for 2 years.",
+        "The subsidy for a Return ticket for economy class airfare to Taiwan will be given.",
+        "The living allowance will be given per month.",
+        "The subsidy for Chinese language courses will be given."
+      ],
+      "additional_benefits": [
+        "Students must provide course registration documents and proof of a minimum of 80% course attendance.",
+        "After graduation, a two-year position at ASUS will be offered to scholarship recipients.",
+        "During the degree program internship opportunities will be provided."
+      ]
+    },
+    "eligibility": {
+      "nationality": {
+        "type": "all_inclusive",
+        "eligible_nationalities": [
+          "International students",
+          "Overseas Chinese students",
+          "students from Hong Kong",
+          "students from Macao"
+        ],
+        "excluded_nationalities": []
+      },
+      "academic": {
+        "minimum_degree_required": "bachelor’s degree",
+        "accepted_degrees": [
+          "Electrical Engineering",
+          "Computer Science",
+          "Management",
+          "Design"
+        ],
+        "minimum_gpa": null,
+        "final_year_allowed": false,
+        "specific_backgrounds": [],
+        "academic_requirements": []
+      },
+      "language": {
+        "english": {
+          "required": false,
+          "minimum_score": {
+            "ielts": null,
+            "toefl": null,
+            "other": null
+          },
+          "waiver_conditions": []
+        },
+        "other_languages": []
+      },
+      "experience": {
+        "required": false,
+        "minimum_years": null,
+        "type": [],
+        "specific_fields": []
+      },
+      "age": {
+        "minimum": null,
+        "maximum": null,
+        "exceptions": []
+      },
+      "other_criteria": []
+    },
+    "application": {
+      "required_documents": [
+        "Resume/CV",
+        "academic transcripts",
+        "certificate of degree",
+        "letter of recommendation"
+      ],
+      "application_process": [
+        "All applicants have to apply online for admission via the **online application system**."
+      ],
+      "application_link": "https://admissions.ntust.edu.tw/graduateapp/index/index/applyIntladmissionSn/26"
+    },
+    "metadata": {
+      "shares_count": null,
+      "related_programs": [
+        "Romanian ARICE Scholarships 2024 (Bachelors, Masters, PhD)",
+        "International Youth Conference 2024 in Yokohama, Japan (Fully Funded)"
+      ],
+      "source_url": "https://opportunitiescorners.com/asus-scholarship-2024-at-taiwan-tech-university-fully-funded/",
+      "categories": [
+        "Bachelor, Master, PhD Scholarships"
+      ]
+    }
+  }
+}

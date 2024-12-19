@@ -1,0 +1,187 @@
+{
+  "scholarship": {
+    "basic_info": {
+      "title": "Islamic Development Bank (IsDB) Scholarship 2024-25 (Fully Funded)",
+      "post_date": "March 12, 2024",
+      "author": "Muhammad Saim Rasheed",
+      "funding_type": "Fully Funded",
+      "host_countries": [],
+      "program_name": "",
+      "funded_by": "Islamic Development Bank (IsDB)",
+      "degree_levels": [
+        "Bachelor",
+        "Master",
+        "PhD",
+        "Post Doc"
+      ],
+      "duration": null,
+      "scholarships_available": null,
+      "deadline": "30th April 2024"
+    },
+    "program_details": {
+      "description": "The applications are open to apply for the Islamic Development Bank (IsDB) Scholarship 2024-25. The IsDB helps Muslim-majority countries and Muslim communities worldwide. Therefore students from IsDB member countries and Muslim communities in non-member countries can apply for the Bachelor, Master, PhD, and Post Doc scholarships. The scholarship covers tuition fees, accommodation, return airfare tickets, Monthly stipend, Books/clothing allowance, and medical allowance.",
+      "study_locations": [],
+      "participating_universities": [],
+      "program_structure": {},
+      "subjects": [
+        "medicine",
+        "engineering",
+        "computer sciences",
+        "information technology",
+        "agriculture"
+      ],
+      "language": "English"
+    },
+    "benefits": {
+      "financial_coverage": [
+        "Tuition fees",
+        "Living stipend",
+        "Books and materials",
+        "Health insurance",
+        "Travel expenses",
+        "Research or participation costs"
+      ],
+      "additional_benefits": []
+    },
+    "eligibility": {
+      "nationality": {
+        "type": "specific_countries",
+        "eligible_nationalities": [
+          "Afghanistan",
+          "Australia",
+          "Bangladesh",
+          "Benin",
+          "Brunei Darussalam",
+          "Burkina Faso",
+          "Cameroon",
+          "Canada",
+          "Chad",
+          "Comoros",
+          "Cote d’Ivoire",
+          "Croatia",
+          "Djibouti",
+          "Egypt",
+          "Ethiopia",
+          "Fiji",
+          "Gabon",
+          "Gambia",
+          "Germany",
+          "Ghana",
+          "Guinea",
+          "Guinea-Bissau",
+          "Guyana",
+          "India",
+          "Indonesia",
+          "Iran",
+          "Iraq",
+          "Jordan",
+          "Kazakhstan",
+          "Kenya",
+          "Kuwait",
+          "Kyrgyzstan",
+          "Lebanon",
+          "Liberia",
+          "Libya",
+          "Madagascar",
+          "Malawi",
+          "Malaysia",
+          "Maldives",
+          "Mali",
+          "Mauritania",
+          "Mauritius",
+          "Macedonia",
+          "Morocco",
+          "Mozambique",
+          "Myanmar",
+          "Namibia",
+          "Nepal",
+          "Netherlands",
+          "Niger",
+          "Nigeria",
+          "Oman",
+          "Pakistan",
+          "Palestine",
+          "Philippines",
+          "Qatar",
+          "Russian Federation",
+          "Rwanda",
+          "Saudi Arabia",
+          "Senegal",
+          "Sierra Leone",
+          "Singapore",
+          "Somalia",
+          "South Africa",
+          "Sri Lanka",
+          "Sudan",
+          "Suriname",
+          "Syria",
+          "Tajikistan",
+          "Tanzania",
+          "Thailand",
+          "Togo",
+          "Trinidad-Tobago",
+          "Tunisia",
+          "Turkey",
+          "Turkmenistan",
+          "Uganda",
+          "United Arab Emirates",
+          "Uzbekistan",
+          "Vietnam",
+          "Yemen",
+          "Zambia"
+        ],
+        "excluded_nationalities": []
+      },
+      "academic": {
+        "minimum_degree_required": null,
+        "accepted_degrees": [],
+        "minimum_gpa": null,
+        "final_year_allowed": true,
+        "specific_backgrounds": [],
+        "academic_requirements": []
+      },
+      "language": {
+        "english": {
+          "required": true,
+          "minimum_score": null,
+          "waiver_conditions": []
+        },
+        "other_languages": []
+      },
+      "experience": {
+        "required": false,
+        "minimum_years": null,
+        "type": [],
+        "specific_fields": []
+      },
+      "age": {
+        "minimum": null,
+        "maximum": null,
+        "exceptions": []
+      },
+      "other_criteria": {
+        "research_requirements": [],
+        "professional_requirements": [],
+        "specific_skills": [],
+        "additional_conditions": []
+      }
+    },
+    "application": {
+      "required_documents": [],
+      "application_process": [
+        "To apply, please click here"
+      ],
+      "application_link": "https://isdbscholarships.smartsimple.com/s_Login.jsp?&amp;lang=1"
+    },
+    "metadata": {
+      "shares_count": null,
+      "related_programs": [
+        "IsDB Young Professionals Program (YPP) 2024 (Fully Funded)"
+      ],
+      "source_url": null,
+      "categories": [
+        "Bachelor, Master, PhD Scholarships"
+      ]
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "scholarship": {
+    "basic_info": {
+      "title": "BS MS PhD Scholarships in New Zealand in 2024 (Fully Funded)",
+      "post_date": "February 27, 2024",
+      "author": "Muhammad Saim Rasheed",
+      "funding_type": "Fully Funded",
+      "host_countries": [
+        "New Zealand"
+      ],
+      "program_name": null,
+      "funded_by": null,
+      "degree_levels": [
+        "Bachelor",
+        "Masters",
+        "PhD"
+      ],
+      "duration": null,
+      "scholarships_available": null,
+      "deadline": "29th February 2024"
+    },
+    "program_details": {
+      "description": null,
+      "study_locations": [],
+      "participating_universities": [
+        "University of Auckland",
+        "Victoria University of Wellington",
+        "University of Otago",
+        "University of Waikato",
+        "University of Canterbury",
+        "University of Auckland",
+        "Auckland University of Technology (AUT)",
+        "Massey University",
+        "Lincoln University",
+        "University of Canterbury",
+        "University of Otago",
+        "Victoria University of Wellington",
+        "University of Waikato"
+      ],
+      "program_structure": {},
+      "subjects": [],
+      "language": null
+    },
+    "benefits": {
+      "financial_coverage": [],
+      "additional_benefits": []
+    },
+    "eligibility": {
+      "nationality": {
+        "type": "all_inclusive",
+        "eligible_nationalities": [],
+        "excluded_nationalities": []
+      },
+      "academic": {
+        "minimum_degree_required": null,
+        "accepted_degrees": [],
+        "minimum_gpa": null,
+        "final_year_allowed": true,
+        "specific_backgrounds": [],
+        "academic_requirements": []
+      },
+      "language": {
+        "english": {
+          "required": null,
+          "minimum_score": {
+            "ielts": null,
+            "toefl": null,
+            "other": null
+          },
+          "waiver_conditions": []
+        },
+        "other_languages": []
+      },
+      "experience": {
+        "required": false,
+        "minimum_years": null,
+        "type": [],
+        "specific_fields": []
+      },
+      "age": {
+        "minimum": null,
+        "maximum": null,
+        "exceptions": []
+      },
+      "other_criteria": {
+        "research_requirements": [],
+        "professional_requirements": [],
+        "specific_skills": [],
+        "additional_conditions": []
+      }
+    },
+    "application": {
+      "required_documents": [],
+      "application_process": [],
+      "application_link": "https://opportunitiescorners.com/manaaki-new-zealand-government-scholarships/"
+    },
+    "metadata": {
+      "shares_count": null,
+      "related_programs": [],
+      "source_url": "https://opportunitiescorners.com/bs-ms-phd-scholarships-in-new-zealand-in-2024-fully-funded/",
+      "categories": [
+        "Bachelor, Master, PhD Scholarships"
+      ]
+    }
+  }
+}
