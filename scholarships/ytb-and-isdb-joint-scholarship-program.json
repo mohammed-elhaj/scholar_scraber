@@ -1,0 +1,112 @@
+{
+  "scholarship": {
+    "basic_info": {
+      "title": "YTB and IsDB Joint Scholarship Program 2024 in Turkiye (Fully Funded)",
+      "post_date": "April 21, 2024",
+      "author": "Muhammad Saim Rasheed",
+      "funding_type": "Fully Funded",
+      "host_countries": [
+        "Turkiye"
+      ],
+      "program_name": "YTB and IsDB Joint Scholarship Program",
+      "funded_by": "YTB and IsDB",
+      "degree_levels": [
+        "Bachelor",
+        "Master",
+        "PhD"
+      ],
+      "duration": "",
+      "scholarships_available": "",
+      "deadline": "16th May 2024"
+    },
+    "program_details": {
+      "description": "YTB and IsDB Joint Scholarship Program 2024-25.  This Joint scholarship program will allow students from  IsDB member countries to pursue Bachelor, Master, and PhD programs from Turkish Universities.",
+      "study_locations": [],
+      "participating_universities": [],
+      "program_structure": {
+        "year_1": "",
+        "year_2": ""
+      },
+      "subjects": [],
+      "language": ""
+    },
+    "benefits": {
+      "financial_coverage": [
+        "Monthly Stipend",
+        "Tuition Fee",
+        "Accommodation Support",
+        "Round Trip Flight Ticket",
+        "Health Insurance"
+      ],
+      "additional_benefits": [
+        "1 year Turkish Language Course",
+        "Academic and Professional Programs"
+      ]
+    },
+    "eligibility": {
+      "nationality": {
+        "type": "specific",
+        "eligible_nationalities": [],
+        "excluded_nationalities": []
+      },
+      "academic": {
+        "minimum_degree_required": "",
+        "accepted_degrees": [],
+        "minimum_gpa": "",
+        "final_year_allowed": true,
+        "specific_backgrounds": [],
+        "academic_requirements": []
+      },
+      "language": {
+        "english": {
+          "required": false,
+          "minimum_score": {
+            "ielts": "",
+            "toefl": "",
+            "other": ""
+          },
+          "waiver_conditions": []
+        },
+        "other_languages": []
+      },
+      "experience": {
+        "required": false,
+        "minimum_years": "",
+        "type": [],
+        "specific_fields": []
+      },
+      "age": {
+        "minimum": "",
+        "maximum": "21 years",
+        "exceptions": []
+      },
+      "other_criteria": []
+    },
+    "application": {
+      "required_documents": [
+        "educational documents",
+        "degrees",
+        "transcripts",
+        "CV/Resume"
+      ],
+      "application_process": [
+        "Complete and Submit the online application form.",
+        "Upload all educational documents, degrees, transcripts",
+        "Upload CV/Resume"
+      ],
+      "application_link": "https://www.turkiyeburslari.gov.tr/announcements/ytb-and-lsdb-launch-a-joint-scholarship-program-for-the-year-20242025-88"
+    },
+    "metadata": {
+      "shares_count": "",
+      "related_programs": [
+        "Turkiye Burslari Scholarship 2024",
+        "Islamic Development Bank (IsDB) Scholarship 2024-25",
+        "Azerbaijan Government Scholarship 2024-25"
+      ],
+      "source_url": "https://opportunitiescorners.com/ytb-and-isdb-joint-scholarship-program-2024/",
+      "categories": [
+        "Bachelor, Master, PhD Scholarships"
+      ]
+    }
+  }
+}

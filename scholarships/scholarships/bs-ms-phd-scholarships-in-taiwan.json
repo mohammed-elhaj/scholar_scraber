@@ -1,0 +1,112 @@
+{
+  "scholarship": {
+    "basic_info": {
+      "title": "List of BS MS PhD Scholarships in Taiwan for 2025 Intake",
+      "post_date": "June 30, 2024",
+      "author": "Muhammad Saim Rasheed",
+      "funding_type": "Fully Funded",
+      "host_countries": [
+        "Taiwan"
+      ],
+      "program_name": null,
+      "funded_by": [
+        "Government",
+        "Universities"
+      ],
+      "degree_levels": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ],
+      "duration": null,
+      "scholarships_available": null,
+      "deadline": "2025"
+    },
+    "program_details": {
+      "description": "Study in Taiwan on **Fully Funded Scholarships**. Taiwan, officially the Republic of China (ROC), is a country in East Asia that offers several scholarships for international students. This post will tell you about the BS MS PhD Scholarships in Taiwan for the 2025 intake. Scholarships in Taiwan are provided by the **Government** and many Taiwanese **Universities** offer their scholarship programs as well.",
+      "study_locations": [
+        "Taiwan"
+      ],
+      "participating_universities": [],
+      "program_structure": {
+        "year_1": null,
+        "year_2": null
+      },
+      "subjects": [
+        "Science",
+        "Technology",
+        "Mandarin Chinese"
+      ],
+      "language": "English"
+    },
+    "benefits": {
+      "financial_coverage": [
+        "Tuition",
+        "Monthly living allowance",
+        "Airfare",
+        "Accommodation",
+        "Stipend",
+        "Travel allowance"
+      ],
+      "additional_benefits": []
+    },
+    "eligibility": {
+      "nationality": {
+        "type": "all_inclusive",
+        "eligible_nationalities": [],
+        "excluded_nationalities": []
+      },
+      "academic": {
+        "minimum_degree_required": null,
+        "accepted_degrees": [],
+        "minimum_gpa": null,
+        "final_year_allowed": false,
+        "specific_backgrounds": [],
+        "academic_requirements": []
+      },
+      "language": {
+        "english": {
+          "required": true,
+          "minimum_score": {
+            "ielts": null,
+            "toefl": null,
+            "other": null
+          },
+          "waiver_conditions": []
+        },
+        "other_languages": [
+          {
+            "language": "Mandarin Chinese",
+            "required_level": null,
+            "certificate_needed": null
+          }
+        ]
+      },
+      "experience": {
+        "required": false,
+        "minimum_years": null,
+        "type": [],
+        "specific_fields": []
+      },
+      "age": {
+        "minimum": null,
+        "maximum": null,
+        "exceptions": []
+      },
+      "other_criteria": []
+    },
+    "application": {
+      "required_documents": [],
+      "application_process": [],
+      "application_link": null
+    },
+    "metadata": {
+      "shares_count": null,
+      "related_programs": [],
+      "source_url": "https://opportunitiescorners.com/list-of-bs-ms-phd-scholarships-in-taiwan-for-2025-intake/",
+      "categories": [
+        "Bachelor, Master, PhD Scholarships"
+      ]
+    }
+  }
+}

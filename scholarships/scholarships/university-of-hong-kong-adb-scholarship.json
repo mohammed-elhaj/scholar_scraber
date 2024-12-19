@@ -1,0 +1,163 @@
+{
+  "scholarship": {
+    "basic_info": {
+      "title": "University of Hong Kong ADB Scholarship 2025-26 (Fully Funded)",
+      "post_date": "October 26, 2024",
+      "author": "Muhammad Saim Rasheed",
+      "funding_type": "Fully Funded",
+      "host_countries": [
+        "Hong Kong"
+      ],
+      "program_name": null,
+      "funded_by": "Asian Development Bank Japan Scholarship Program",
+      "degree_levels": [
+        "Master’s Degree"
+      ],
+      "duration": "One Year",
+      "scholarships_available": null,
+      "deadline": "5th January 2025 and 28th January 2025"
+    },
+    "program_details": {
+      "description": null,
+      "study_locations": [],
+      "participating_universities": [
+        "University of Hong Kong"
+      ],
+      "program_structure": {},
+      "subjects": [
+        "Urban Design",
+        "Urban Planning"
+      ],
+      "language": null
+    },
+    "benefits": {
+      "financial_coverage": [
+        "Full Tuition Fees",
+        "A monthly subsistence and Housing Allowance",
+        "An allowance for books and instructional materials",
+        "Medical insurance",
+        "Airfare Travel expenses"
+      ],
+      "additional_benefits": [
+        "No application fee"
+      ]
+    },
+    "eligibility": {
+      "nationality": {
+        "type": null,
+        "eligible_nationalities": [
+          "Afghanistan",
+          "Armenia",
+          "Azerbaijan",
+          "Bangladesh",
+          "Bhutan",
+          "Cambodia",
+          "Cook Islands",
+          "Federated States of Micronesia",
+          "Fiji",
+          "Georgia",
+          "India",
+          "Indonesia",
+          "Kazakhstan",
+          "Kiribati",
+          "Kyrgyz Republic",
+          "Lao PDR",
+          "Malaysia",
+          "Maldives",
+          "Marshall Islands",
+          "Mongolia",
+          "Myanmar",
+          "Nauru",
+          "Nepal",
+          "Niue",
+          "Pakistan",
+          "Palau",
+          "Papua New Guinea",
+          "Philippines",
+          "Samoa",
+          "Solomon Islands",
+          "Sri Lanka",
+          "Tajikistan",
+          "Thailand",
+          "Timor-Leste",
+          "Tonga",
+          "Turkmenistan",
+          "Tuvalu",
+          "Uzbekistan",
+          "Vanuatu",
+          "Viet Nam"
+        ],
+        "excluded_nationalities": []
+      },
+      "academic": {
+        "minimum_degree_required": "bachelor’s Degree",
+        "accepted_degrees": [],
+        "minimum_gpa": null,
+        "final_year_allowed": false,
+        "specific_backgrounds": [],
+        "academic_requirements": [
+          "Meet the General Requirements of the University"
+        ]
+      },
+      "language": {
+        "english": {
+          "required": false,
+          "minimum_score": {
+            "ielts": null,
+            "toefl": null,
+            "other": null
+          },
+          "waiver_conditions": []
+        },
+        "other_languages": []
+      },
+      "experience": {
+        "required": true,
+        "minimum_years": "two years",
+        "type": [
+          "professional working"
+        ],
+        "specific_fields": []
+      },
+      "age": {
+        "minimum": null,
+        "maximum": "35",
+        "exceptions": []
+      },
+      "other_criteria": [
+        "Not be more than 35 years old at the time of application",
+        "Agree to return and work in his/her home country for at least two years after completion of master’s study",
+        "Have gained admission to an approved master’s course at the University of Hong Kong"
+      ]
+    },
+    "application": {
+      "required_documents": [
+        "Online Application Form",
+        "ADB Scholarship Form",
+        "Field of Study and Research Plan",
+        "Official academic transcript",
+        "Official certificate of graduation",
+        "Two recommendation letters"
+      ],
+      "application_process": [],
+      "application_link": "https://scholar.aas.hku.hk/?action=showonesscheme&ss_id=417"
+    },
+    "metadata": {
+      "shares_count": null,
+      "related_programs": [
+        "2025 AIT ADB Scholarship in Thailand (Fully Funded)",
+        "University of Tokyo ADB Scholarship 2025 in Japan (Fully Funded)",
+        "KYOTO University ADB Scholarship 2025 in Japan (Fully Funded)",
+        "Keio University Japan ADB Scholarship 2025 (Fully Funded)",
+        "Asia Pacific University ADB Scholarship 2025 in Japan (Fully Funded)",
+        "SIIT University ADB Scholarship 2025 in Thailand (Fully Funded)",
+        "National University of Singapore ADB Scholarship 2025 (Fully Funded)",
+        "University of Hawaii ADB Scholarship 2025 in USA (Fully Funded)"
+      ],
+      "source_url": "https://opportunitiescorners.com/university-of-hong-kong-adb-scholarship-2025-26-fully-funded/",
+      "categories": [
+        "Bachelor, Master, PhD Scholarships"
+      ]
+    }
+  }
+}

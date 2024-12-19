@@ -1,0 +1,130 @@
+{
+  "scholarship": {
+    "basic_info": {
+      "title": "Azerbaijan Government Scholarship 2024-25 (Fully Funded)",
+      "post_date": "April 20, 2024",
+      "author": "Muhammad Saim Rasheed",
+      "funding_type": "Fully Funded",
+      "host_countries": [
+        "Azerbaijan"
+      ],
+      "program_name": "Heydar Aliyev International Education Grant Program",
+      "funded_by": "Ministry of Foreign Affairs and the Ministry of Science and Education of the Republic of Azerbaijan",
+      "degree_levels": [
+        "Preparatory course",
+        "Undergraduate",
+        "Graduate",
+        "Doctoral",
+        "General medicine/medical residency programs"
+      ],
+      "duration": "Varies by program",
+      "scholarships_available": "100",
+      "deadline": "20th May 2024"
+    },
+    "program_details": {
+      "description": "The Heydar Aliyev International Education Grant Program offers 100 fully funded scholarships to international students to pursue undergraduate, graduate, doctoral, and medical residency programs in leading universities in Azerbaijan.",
+      "study_locations": [],
+      "participating_universities": [
+        "ADA University",
+        "Azerbaijan Medical University",
+        "Azerbaijan State Agricultural University",
+        "Azerbaijan State Oil and Industry University",
+        "Azerbaijan State University of Economics",
+        "Azerbaijan University of Architecture and Construction",
+        "Baku Engineering University",
+        "Baku Higher Oil School",
+        "Baku State University",
+        "Nakhchivan State University",
+        "National Aviation Academy"
+      ],
+      "program_structure": {},
+      "subjects": [],
+      "language": "English"
+    },
+    "benefits": {
+      "financial_coverage": [
+        "Tuition fees",
+        "Monthly stipend of 470 USD for living expenses, accommodation, and educational materials",
+        "Medical insurance of 117 USD",
+        "Visa and registration costs",
+        "Roundtrip Airfare Travel tickets"
+      ],
+      "additional_benefits": []
+    },
+    "eligibility": {
+      "nationality": {
+        "type": "all_inclusive",
+        "eligible_nationalities": [],
+        "excluded_nationalities": [
+          "Azerbaijan"
+        ]
+      },
+      "academic": {
+        "minimum_degree_required": null,
+        "accepted_degrees": [],
+        "minimum_gpa": null,
+        "final_year_allowed": true,
+        "specific_backgrounds": [],
+        "academic_requirements": []
+      },
+      "language": {
+        "english": {
+          "required": true,
+          "minimum_score": {
+            "ielts": null,
+            "toefl": null,
+            "other": null
+          },
+          "waiver_conditions": [
+            "Proof of education in English Medium"
+          ]
+        },
+        "other_languages": []
+      },
+      "experience": {
+        "required": false,
+        "minimum_years": null,
+        "type": [],
+        "specific_fields": []
+      },
+      "age": {
+        "minimum": null,
+        "maximum": "35 years (Undergraduate and General Medicine)",
+        "exceptions": []
+      },
+      "other_criteria": {
+        "research_requirements": [],
+        "professional_requirements": [],
+        "specific_skills": [],
+        "additional_conditions": []
+      }
+    },
+    "application": {
+      "required_documents": [
+        "Completed Nomination Form",
+        "All previous transcripts, degrees, diplomas, school certificates",
+        "Copy of the medical certificate (including HIV/AIDS, Hepatitis B/C tests)",
+        "Copy of Valid Passport",
+        "CV or Resume",
+        "English Language Proficiency Proof",
+        "Motivation Letter",
+        "Achievements and awards"
+      ],
+      "application_process": [
+        "Applicants must wait for the call for applications announced by their respective entities/government authorities.",
+        "Applicants must apply and submit documents to the respective authorities.",
+        "The respective authorities will select applicants and will nominate the students.",
+        "After the nominations, students will proceed to the second stage of the application process and apply through the Study in Azerbaijan Centralized Admission Service (SIACAS) website (portal.edu.az)"
+      ],
+      "application_link": "https://portal.edu.az"
+    },
+    "metadata": {
+      "shares_count": null,
+      "related_programs": [],
+      "source_url": "https://opportunitiescorners.com/post-9557/",
+      "categories": [
+        "Bachelor, Master, PhD Scholarships"
+      ]
+    }
+  }
+}

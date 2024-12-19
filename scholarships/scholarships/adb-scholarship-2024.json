@@ -1,0 +1,165 @@
+{
+  "scholarship": {
+    "basic_info": {
+      "title": "ADB Scholarship 2024 (Asian Development Bank) (Fully Funded)",
+      "post_date": "April 21, 2024",
+      "author": "Opportunities Corners",
+      "funding_type": "Fully funded",
+      "host_countries": [],
+      "program_name": "ADB Scholarship 2024 Program (ADB-JSP)",
+      "funded_by": "ADB",
+      "degree_levels": [
+        "Master’s Degree"
+      ],
+      "duration": "one (1) year with an extension to the second year of study",
+      "scholarships_available": "300",
+      "deadline": "Open All Year"
+    },
+    "program_details": {
+      "description": "The ADB Scholarship 2024 Program (ADB-JSP) is a <a href=\"https://opportunitiescorners.com/\"><strong>Fully funded scholarship</strong></a> program funded by the Japan Government. The Asian Development Scholarship funds around <strong>300</strong> students from Asia and Pacific countries to pursue <strong>Master’s</strong> Degree programs in the universities specified by the ADB located in 9 countries. Yes, the ADB Scholarship is one of the popular scholarships for Asia and Pacific students.",
+      "study_locations": [
+        "Asia and Pacific Countries"
+      ],
+      "participating_universities": [],
+      "program_structure": {
+        "year_1": null,
+        "year_2": null
+      },
+      "subjects": [
+        "Science and Technology",
+        "Economics, Business and Management",
+        "Development Studies",
+        "Law and Public Policy"
+      ],
+      "language": null
+    },
+    "benefits": {
+      "financial_coverage": [
+        "Full tuition fees",
+        "A monthly subsistence and housing allowance",
+        "An allowance for books and instructional materials",
+        "Medical insurance",
+        "Travel expenses"
+      ],
+      "additional_benefits": []
+    },
+    "eligibility": {
+      "nationality": {
+        "type": "all_inclusive",
+        "eligible_nationalities": [
+          "Afghanistan",
+          "Armenia",
+          "Azerbaijan",
+          "Bangladesh",
+          "Bhutan",
+          "Cambodia",
+          "Cook Islands",
+          "Federated States of Micronesia",
+          "Fiji",
+          "Georgia",
+          "India",
+          "Indonesia",
+          "Kazakhstan",
+          "Kiribati",
+          "Kyrgyz Republic",
+          "Lao People’s Democratic Republic",
+          "Malaysia",
+          "Maldives",
+          "Marshall Islands",
+          "Mongolia",
+          "Myanmar",
+          "Nauru",
+          "Nepal",
+          "Niue",
+          "Pakistan",
+          "Palau",
+          "Papua New Guinea",
+          "Philippines",
+          "Samoa",
+          "Solomon Islands",
+          "Sri Lanka",
+          "Tajikistan",
+          "Thailand",
+          "Timor-Leste",
+          "Tonga",
+          "Turkmenistan",
+          "Tuvalu",
+          "Uzbekistan",
+          "Vanuatu",
+          "Vietnam"
+        ],
+        "excluded_nationalities": []
+      },
+      "academic": {
+        "minimum_degree_required": "bachelor’s degree or its equivalent",
+        "accepted_degrees": [],
+        "minimum_gpa": null,
+        "final_year_allowed": true,
+        "specific_backgrounds": [],
+        "academic_requirements": [
+          "Be a National of ADB Member country.",
+          "and have gained admission to an approved master’s course at a Designated Institution.",
+          "hold a bachelor’s degree or its equivalent",
+          "have at least two (2) years of full-time professional working experience",
+          "not be more than 35 years old",
+          "agree to return and work in his/her home country."
+        ]
+      },
+      "language": {
+        "english": {
+          "required": true,
+          "minimum_score": {
+            "ielts": null,
+            "toefl": null,
+            "other": null
+          },
+          "waiver_conditions": []
+        },
+        "other_languages": []
+      },
+      "experience": {
+        "required": true,
+        "minimum_years": "two (2)",
+        "type": [
+          "full-time professional working experience"
+        ],
+        "specific_fields": []
+      },
+      "age": {
+        "minimum": null,
+        "maximum": "35",
+        "exceptions": []
+      },
+      "other_criteria": {
+        "research_requirements": [],
+        "professional_requirements": [],
+        "specific_skills": [],
+        "additional_conditions": [
+          "not hold dual citizenship"
+        ]
+      }
+    },
+    "application": {
+      "required_documents": [],
+      "application_process": [
+        "Applicant requests information and application forms from the chosen partner institution",
+        "Applicants complete the application and documents.",
+        "Applicant sends documents to the institution",
+        "The University evaluates the application.",
+        "The University sends a shortlist of candidates to ADB.",
+        "ADB reviews the application.",
+        "ADB selects scholars and informs institutions.",
+        "Institution informs all scholars."
+      ],
+      "application_link": "https://www.adb.org/work-with-us/careers/japan-scholarship-program"
+    },
+    "metadata": {
+      "shares_count": null,
+      "related_programs": [],
+      "source_url": "https://opportunitiescorners.com/adb-scholarship-2024/",
+      "categories": [
+        "Bachelor, Master, PhD Scholarships"
+      ]
+    }
+  }
+}

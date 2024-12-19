@@ -1,0 +1,132 @@
+{
+  "scholarship": {
+    "basic_info": {
+      "title": "UNS Scholarship in Indonesia 2025 Intake (Full & Partial)",
+      "post_date": "July 22, 2024",
+      "author": "Muhammad Saim Rasheed",
+      "funding_type": "Full and Partial Scholarship",
+      "host_countries": [
+        "Indonesia"
+      ],
+      "program_name": "UNS Scholarship",
+      "funded_by": "UNS Indonesia (Universitas Sebelas Maret)",
+      "degree_levels": [
+        "Bachelors",
+        "Masters",
+        "PhD"
+      ],
+      "duration": {
+        "Bachelors": "8 semesters",
+        "Masters": "4 semesters",
+        "PhD": "6 semesters"
+      },
+      "scholarships_available": null,
+      "deadline": "30th September 2024"
+    },
+    "program_details": {
+      "description": null,
+      "study_locations": [
+        "Surakarta, Central Java, Indonesia"
+      ],
+      "participating_universities": [
+        "UNS Indonesia (Universitas Sebelas Maret)"
+      ],
+      "program_structure": {
+        "year_1": null,
+        "year_2": null
+      },
+      "subjects": [],
+      "language": "English"
+    },
+    "benefits": {
+      "financial_coverage": [
+        "Tuition fee waiver",
+        "Monthly living allowance:\nIDR 1500 for the Bachelor program\nIDR 1750 for the Master’s program\nIDR 2250 for the Doctoral program",
+        "Free Indonesian language course",
+        "Health insurance",
+        "Tuition fee waiver",
+        "Free Indonesian language course",
+        "Health insurance"
+      ],
+      "additional_benefits": []
+    },
+    "eligibility": {
+      "nationality": {
+        "type": "all_inclusive",
+        "eligible_nationalities": [],
+        "excluded_nationalities": [
+          "Indonesia"
+        ]
+      },
+      "academic": {
+        "minimum_degree_required": null,
+        "accepted_degrees": [],
+        "minimum_gpa": "3.00",
+        "final_year_allowed": false,
+        "specific_backgrounds": [],
+        "academic_requirements": []
+      },
+      "language": {
+        "english": {
+          "required": true,
+          "minimum_score": null,
+          "waiver_conditions": []
+        },
+        "other_languages": []
+      },
+      "experience": {
+        "required": false,
+        "minimum_years": null,
+        "type": [],
+        "specific_fields": []
+      },
+      "age": {
+        "minimum": null,
+        "maximum": null,
+        "exceptions": []
+      },
+      "other_criteria": [
+        "Willing to undertake Bachelors, Masters, or a PhD program.",
+        "Able to attend an interview over a video call.",
+        "Not have hold refugee status.",
+        "Have financial support",
+        "Upload all the required documents."
+      ]
+    },
+    "application": {
+      "required_documents": [
+        "Recent Picture",
+        "Scan of Valid Passport",
+        "Certificates, Transcripts of educational records.",
+        "Academic Transcripts",
+        "Recent health certificate",
+        "Curriculum Vitae",
+        "Financial statement",
+        "Personal statement",
+        "Certificate of Indonesian language proficiency (strongly preferred)",
+        "Certificate of English language proficiency",
+        "Two Recommendation letters",
+        "Research proposal for Doctoral degree students."
+      ],
+      "application_process": [
+        "Create an account on the UNS International Admission website.",
+        "Fill out the details and all the personal information.",
+        "Upload all the required documents."
+      ],
+      "application_link": "https://uns.ac.id/en/admission/uns-scholarship/"
+    },
+    "metadata": {
+      "shares_count": null,
+      "related_programs": [
+        "UMY University Scholarship 2025 in Indonesia (Study in Indonesia)",
+        "University of Pisa DSU Scholarship 2024-25 in Italy (Fully Funded)",
+        "Singapore International Graduate Award Scholarship 2025-26",
+        "The Gates Scholarship Program 2025 in USA (Fully Funded)"
+      ],
+      "source_url": null,
+      "categories": [
+        "Bachelor, Master, PhD Scholarships"
+      ]
+    }
+  }
+}

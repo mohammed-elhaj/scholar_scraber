@@ -1,0 +1,122 @@
+{
+  "scholarship": {
+    "basic_info": {
+      "title": "2025 AIT ADB Scholarship in Thailand (Fully Funded)",
+      "post_date": "October 14, 2024",
+      "author": "Muhammad Saim Rasheed",
+      "funding_type": "Fully Funded",
+      "host_countries": [
+        "Thailand"
+      ],
+      "program_name": "AIT ADB Scholarship",
+      "funded_by": "Asian Development Bank",
+      "degree_levels": [
+        "Master’s degree"
+      ],
+      "duration": null,
+      "scholarships_available": null,
+      "deadline": "31st March 2025"
+    },
+    "program_details": {
+      "description": "Study in Thailand on a **Fully Funded Scholarship** Under the **Asian Development Bank Japan Scholarship Program** at the Asian Institute of Technology (AIT). The applications are open to apply for the 2025 AIT ADB Scholarship in Thailand. The ADB Scholarship offers a fully funded **Master’s degree** scholarship to the people from **ADB Member countries**.",
+      "study_locations": [],
+      "participating_universities": [
+        "Asian Institute of Technology (AIT)",
+        "Chulalongkorn University"
+      ],
+      "program_structure": {
+        "year_1": null,
+        "year_2": null
+      },
+      "subjects": [
+        "Economics",
+        "Business and Management",
+        "Science and Technology",
+        "Development-related fields"
+      ],
+      "language": "English"
+    },
+    "benefits": {
+      "financial_coverage": [
+        "Tuition fees",
+        "Housing (dormitory or off-campus allowance)",
+        "Subsistence allowance",
+        "Student insurance",
+        "Books",
+        "Economy class Air Travel",
+        "Miscellaneous travel expenses",
+        "Excess luggage",
+        "Thesis/Research allowance"
+      ],
+      "additional_benefits": [
+        "Language and computer training (if necessary)"
+      ]
+    },
+    "eligibility": {
+      "nationality": {
+        "type": "all_inclusive",
+        "eligible_nationalities": [],
+        "excluded_nationalities": []
+      },
+      "academic": {
+        "minimum_degree_required": "bachelor’s degree",
+        "accepted_degrees": [],
+        "minimum_gpa": null,
+        "final_year_allowed": false,
+        "specific_backgrounds": [],
+        "academic_requirements": []
+      },
+      "language": {
+        "english": {
+          "required": true,
+          "minimum_score": {
+            "ielts": "6",
+            "toefl": "550",
+            "other": "AIT EET ≥ 6.0"
+          },
+          "waiver_conditions": []
+        },
+        "other_languages": []
+      },
+      "experience": {
+        "required": true,
+        "minimum_years": "two (2)",
+        "type": [
+          "full-time professional working"
+        ],
+        "specific_fields": []
+      },
+      "age": {
+        "minimum": null,
+        "maximum": "35",
+        "exceptions": []
+      },
+      "other_criteria": []
+    },
+    "application": {
+      "required_documents": [
+        "Copy of Undergraduate degree and transcript",
+        "English proficiency score (IELTS-Academic: 6 [writing and overall] or AIT EET ≥ 6.0, TOEFL ≥ 550)",
+        "Work experience proof",
+        "Income statement (individual or joint if married)",
+        "ADB-JSP Information sheet"
+      ],
+      "application_process": [
+        "Request the Information from the AIT University about the ADB Scholarship.",
+        "In the **online application**, applicants should indicate that they are applying for admission and that they would like to be considered for the ADB-JSP Scholarship."
+      ],
+      "application_link": "https://ait.ac.th/financial/joint-japan-world-bank-graduate-scholarship-program/"
+    },
+    "metadata": {
+      "shares_count": null,
+      "related_programs": [
+        "AIT ADB Scholarship",
+        "University of Tokyo ADB Scholarship 2025 in Japan (Fully Funded)"
+      ],
+      "source_url": "https://opportunitiescorners.com/2025-ait-adb-scholarship-thailand-fully-funded/",
+      "categories": [
+        "Bachelor, Master, PhD Scholarships"
+      ]
+    }
+  }
+}

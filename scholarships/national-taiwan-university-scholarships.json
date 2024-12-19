@@ -1,0 +1,112 @@
+{
+  "scholarship": {
+    "basic_info": {
+      "title": "National Taiwan University Scholarships 2025 (February Intake)",
+      "post_date": "August 21, 2024",
+      "author": "Muhammad Saim Rasheed",
+      "funding_type": "Partially Funded",
+      "host_countries": [
+        "Taiwan"
+      ],
+      "program_name": null,
+      "funded_by": "National Taiwan University (NTU)",
+      "degree_levels": [
+        "Masters",
+        "PhD"
+      ],
+      "duration": null,
+      "scholarships_available": "100 Master Programs, and 50 PhD programs",
+      "deadline": "3rd October 2024"
+    },
+    "program_details": {
+      "description": "The **National Taiwan University Scholarships** are open for the **February 2025** Intake. The Admission Quota for February 2025 is **100** Master Programs, and **50** PhD programs. The scholarship is open to nationals of all countries. National Taiwan University (NTU) is one of the Asia’s Top Premier Universities. The University is Located in Taipei, Taiwan. NTU offers a variety of scholarships to attract international students including fully funded Government scholarships and University scholarships.",
+      "study_locations": [],
+      "participating_universities": [
+        "National Taiwan University (NTU)"
+      ],
+      "program_structure": {
+        "year_1": null,
+        "year_2": null
+      },
+      "subjects": [],
+      "language": "English"
+    },
+    "benefits": {
+      "financial_coverage": [
+        "Tuition waiver of up to TWD 65,000 (USD 2,167) each semester.",
+        "A monthly Stipend of TWD 8,000 (USD 267) for a Master’s degree student.",
+        "For PhD Students: TWD 10,000+ (USD 333+) for students enrolled in the College of Liberal Arts, Social Sciences, Law, and Management.",
+        "TWD 15,000+ (USD 500+) for students enrolled in the College of Science, Engineering, Medicine, Bio-Resources &amp; Agriculture, Electrical Engineering &amp; Computer Science, Public Health, and Life Science."
+      ],
+      "additional_benefits": []
+    },
+    "eligibility": {
+      "nationality": {
+        "type": "all_inclusive",
+        "eligible_nationalities": [],
+        "excluded_nationalities": []
+      },
+      "academic": {
+        "minimum_degree_required": "bachelor’s degree",
+        "accepted_degrees": [],
+        "minimum_gpa": null,
+        "final_year_allowed": false,
+        "specific_backgrounds": [],
+        "academic_requirements": [
+          "Excellent academic records are required."
+        ]
+      },
+      "language": {
+        "english": {
+          "required": true,
+          "minimum_score": {
+            "ielts": "5.5",
+            "toefl": "72",
+            "other": "TOEIC: 785\nGEPT: High-Intermediate"
+          },
+          "waiver_conditions": [
+            "**1) You are from an English-speaking country**",
+            "**2) Previous Degree was obtained from an English-speaking country:**",
+            "**3) Your previous degree was conducted in English**"
+          ]
+        },
+        "other_languages": []
+      },
+      "experience": {
+        "required": false,
+        "minimum_years": null,
+        "type": [],
+        "specific_fields": []
+      },
+      "age": {
+        "minimum": null,
+        "maximum": null,
+        "exceptions": []
+      },
+      "other_criteria": []
+    },
+    "application": {
+      "required_documents": [
+        "Recommendation letters"
+      ],
+      "application_process": [
+        "Create an account online.",
+        "Fill in your personal information",
+        "Select up to 5 departments",
+        "Upload documents",
+        "Upload Recommendation letters",
+        "Pay the Application Fee (USD 80)/department/college",
+        "Wait for the Interview"
+      ],
+      "application_link": "https://admissions.ntu.edu.tw/apply/degree-students/international-students/"
+    },
+    "metadata": {
+      "shares_count": null,
+      "related_programs": [],
+      "source_url": "https://opportunitiescorners.com/national-taiwan-university-scholarships-2025-february-intake/",
+      "categories": [
+        "Bachelor, Master, PhD Scholarships"
+      ]
+    }
+  }
+}

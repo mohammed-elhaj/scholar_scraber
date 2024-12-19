@@ -1,0 +1,125 @@
+{
+  "scholarship": {
+    "basic_info": {
+      "title": "Burger King Scholarship 2024-25",
+      "post_date": "August 13, 2024",
+      "author": "Muhammad Saim Rasheed",
+      "funding_type": null,
+      "host_countries": [
+        "United States",
+        "Canada",
+        "Puerto Rico"
+      ],
+      "program_name": "The Burger King Scholarship",
+      "funded_by": "Burger King McLamore Foundation",
+      "degree_levels": [
+        "Bachelor",
+        "Master",
+        "PhD"
+      ],
+      "duration": "2 to 4 years",
+      "scholarships_available": null,
+      "deadline": "15 December, 2024"
+    },
+    "program_details": {
+      "description": "The Burger King Scholarship is an initiative of the Burger King McLamore Foundation, named after the company’s co-founder, James W. McLamore. The Burger King Scholarship Started in 2000, it has awarded millions of dollars as a scholarship amount to thousands of students in the U.S.A., Canada, and Puerto Rico to date. The scholarship focuses on supporting employees, their spouses, and children, as well as high school seniors in the pursuit of higher education.",
+      "study_locations": [],
+      "participating_universities": [],
+      "program_structure": {},
+      "subjects": [],
+      "language": null
+    },
+    "benefits": {
+      "financial_coverage": [
+        "$1000 to $60,000"
+      ],
+      "additional_benefits": [
+        "recognition",
+        "networking opportunities"
+      ]
+    },
+    "eligibility": {
+      "nationality": {
+        "type": "specific_countries",
+        "eligible_nationalities": [],
+        "excluded_nationalities": [
+          "U.S.A.",
+          "Canada",
+          "Puerto Rico"
+        ]
+      },
+      "academic": {
+        "minimum_degree_required": "high school seniors",
+        "accepted_degrees": [],
+        "minimum_gpa": "2.5 on a 4.0 scale",
+        "final_year_allowed": true,
+        "specific_backgrounds": [],
+        "academic_requirements": []
+      },
+      "language": {
+        "english": {
+          "required": false,
+          "minimum_score": {
+            "ielts": null,
+            "toefl": null,
+            "other": null
+          },
+          "waiver_conditions": []
+        },
+        "other_languages": []
+      },
+      "experience": {
+        "required": false,
+        "minimum_years": null,
+        "type": [],
+        "specific_fields": []
+      },
+      "age": {
+        "minimum": null,
+        "maximum": null,
+        "exceptions": []
+      },
+      "other_criteria": {
+        "research_requirements": [],
+        "professional_requirements": [],
+        "specific_skills": [],
+        "additional_conditions": [
+          "Employees of Burger King, their spouses or domestic partners, and their children are eligible to apply.",
+          "Applicants should demonstrate active involvement in their community through volunteering, sports, clubs, or other extracurricular activities."
+        ]
+      }
+    },
+    "application": {
+      "required_documents": [
+        "High School Transcript.",
+        "Proof of Enrollment.",
+        "Burger King Employment Verification Certificate.",
+        "Personal Statement.",
+        "Letters of Recommendation."
+      ],
+      "application_process": [
+        "<strong>Visit the Scholarship Website</strong>: Go to the <strong><a href=\"https://www.burgerkingfoundation.org/programs/burger-king-sm-scholars\">Burger King Scholars Program page</a></strong> on the Burger King McLamore Foundation website.",
+        "<strong>Create an Account</strong>: Register with an email address and create a password to start the application process.",
+        "<strong>Complete the Application Form</strong>: Fill in personal information, educational background, and employment details if applicable.",
+        "<strong>Upload Required Documents</strong>: Ensure all required documents are scanned and uploaded in the correct format.",
+        "<strong>Write and Submit a Personal Statement:</strong> Craft a compelling personal statement that highlights your achievements and aspirations.",
+        "<strong>Submit Letters of Recommendation</strong>: Request and upload letters of recommendation from appropriate sources.",
+        "<strong>Review and Submit</strong>: Double-check all information and documents before applying.",
+        "<strong>Confirmation</strong>: After submission, applicants will receive a confirmation email."
+      ],
+      "application_link": "https://www.burgerkingfoundation.org/programs/burger-king-sm-scholars"
+    },
+    "metadata": {
+      "shares_count": null,
+      "related_programs": [
+        "The Amazon Future Engineer Scholarship",
+        "Chevening Scholarship in the UK (Fully Funded)",
+        "the American Legion Auxiliary Scholarship"
+      ],
+      "source_url": "https://opportunitiescorners.com/burger-king-scholarship-2024-25-due-date-requirements-application-process/",
+      "categories": [
+        "Bachelor, Master, PhD Scholarships"
+      ]
+    }
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "scholarship": {
+    "basic_info": {
+      "title": "ONGC Scholarship 2024-25 Fully Funded, Apply Online",
+      "post_date": "July 17, 2024",
+      "author": "Opportunities Corners",
+      "funding_type": "Fully Funded",
+      "host_countries": [
+        "India"
+      ],
+      "program_name": null,
+      "funded_by": "Oil and Natural Gas Corporation Limited",
+      "degree_levels": [
+        "Graduation",
+        "Masters"
+      ],
+      "duration": null,
+      "scholarships_available": "2,000",
+      "deadline": "November (Actual date will be updated in October)"
+    },
+    "program_details": {
+      "description": "The ONGC scholarship provides financial assistance to brilliant students belonging to SC/ST/OBC and General categories, who are pursuing their first year of Engineering, MBBS, MBA, or Masters in Geophysics/Geology programs.",
+      "study_locations": [],
+      "participating_universities": [],
+      "program_structure": {
+        "year_1": null,
+        "year_2": null
+      },
+      "subjects": [
+        "Engineering",
+        "MBBS",
+        "MBA",
+        "Masters in Geology/Geophysics"
+      ],
+      "language": null
+    },
+    "benefits": {
+      "financial_coverage": [
+        "₹48,000 per annum",
+        "₹4,000 per month",
+        "Book grant of ₹6,000 per year"
+      ],
+      "additional_benefits": [
+        "Internship opportunities at ONGC facilities"
+      ]
+    },
+    "eligibility": {
+      "nationality": {
+        "type": "all_inclusive",
+        "eligible_nationalities": [],
+        "excluded_nationalities": []
+      },
+      "academic": {
+        "minimum_degree_required": null,
+        "accepted_degrees": [],
+        "minimum_gpa": "60%",
+        "final_year_allowed": false,
+        "specific_backgrounds": [],
+        "academic_requirements": [
+          "Must be a student in the first year of an MBBS program and undergraduate engineering course from a recognized university/institute.",
+          "Must be a student enrolled in the first year of an MBA or Master’s degree program in Geology and Geophysics from a recognized university/institute."
+        ]
+      },
+      "language": {
+        "english": {
+          "required": false,
+          "minimum_score": {
+            "ielts": null,
+            "toefl": null,
+            "other": null
+          },
+          "waiver_conditions": []
+        },
+        "other_languages": []
+      },
+      "experience": {
+        "required": false,
+        "minimum_years": null,
+        "type": [],
+        "specific_fields": []
+      },
+      "age": {
+        "minimum": null,
+        "maximum": "30 years",
+        "exceptions": []
+      },
+      "other_criteria": []
+    },
+    "application": {
+      "required_documents": [
+        "Passport-sized Photograph",
+        "Completed Online Application Form",
+        "Class 10th Mark Sheet (Photocopy)",
+        "Class 12th Mark Sheet (Photocopy)",
+        "Proof of Enrollment",
+        "Domicile Certificate",
+        "Family Income Certificate",
+        "Bank Account Details",
+        "Caste Certificate (For SC/ST/OBC)",
+        "Copy of PAN Card",
+        "Copy of Aadhaar Card",
+        "Recommendation Letter (Optional)"
+      ],
+      "application_process": [
+        "Visit the official website of the ONGC scholarship program.",
+        "Click on the “Apply Scholarship” button.",
+        "Fill out the online application form carefully.",
+        "Provide the details of the required documents.",
+        "Send a file containing the photocopies of the application form and required attested documents to the designated ONGC office address."
+      ],
+      "application_link": "https://ongcscholar.org/"
+    },
+    "metadata": {
+      "shares_count": null,
+      "related_programs": [],
+      "source_url": "https://opportunitiescorners.com/ongc-scholarship-2024-25-fully-funded-apply-online/",
+      "categories": [
+        "Bachelor, Master, PhD Scholarships"
+      ]
+    }
+  }
+}
